@@ -1,0 +1,58 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1686932447155,
+      "path": "notes/2023-06-16.md",
+      "subpath": "#^e12b01",
+      "title": "Interference"
+    },
+    {
+      "type": "file",
+      "ctime": 1687158384564,
+      "path": "glossary_GlossaryIndex.md",
+      "title": "glossary index"
+    },
+    {
+      "type": "file",
+      "ctime": 1687251769993,
+      "path": "Articles/Prompt Testing using Ansible Automation/Prompt Testing using Ansible Automation_Index.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1687361736044,
+      "path": "Prompt Engineering/notes/reward hacking.md",
+      "subpath": "#^493851"
+    },
+    {
+      "type": "file",
+      "ctime": 1687361820727,
+      "path": "gpt/chatGPTexports/2023_may/chat_31.md",
+      "subpath": "#^fc9a6f"
+    },
+    {
+      "type": "file",
+      "ctime": 1687379959290,
+      "path": "AI/Prompt Engineering/Paper Abstracts.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1688580385422,
+      "path": "Projects/Projects.canvas",
+      "title": "Project Canvas"
+    },
+    {
+      "type": "group",
+      "ctime": 1696127346711,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1696127354660,
+          "path": "AI/AI_Index.md",
+          "title": "AI_Index"
+        }
+      ],
+      "title": "Index"
+    }
+  ]
+}

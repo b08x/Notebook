@@ -1,0 +1,15 @@
+{
+  "archiveBoxURI": "http://ninjabot.syncopated.net:8000",
+  "useBasicAuth": false,
+  "basicAuthUsername": "",
+  "basicAuthPassword": "",
+  "archiveBoxUsername": "obsidian",
+  "archiveBoxPassword": "@rchiveb0x",
+  "ignoreDomains": "",
+  "ignoreRFC1918Addresses": true,
+  "archivedBefore": {},
+  "batchEverySec": 1,
+  "autoSubmitOnModify": true,
+  "cacheURLs": false,
+  "debugMode": false
+}

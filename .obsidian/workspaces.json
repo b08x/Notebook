@@ -1,0 +1,387 @@
+{
+  "workspaces": {
+    "blank": {
+      "main": {
+        "id": "190beaebe4ad9448",
+        "type": "split",
+        "children": [
+          {
+            "id": "959fc0b4619cab45",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "dbc5f0919da69e6f",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "faf88567ed515d15",
+        "type": "split",
+        "children": [
+          {
+            "id": "dbc309f7cc5a382f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7e55cb1b5b50e12b",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "03f37ea6f393b89d",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "line:(characterai)",
+                    "matchingCase": false,
+                    "explainSearch": true,
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "byModifiedTime"
+                  }
+                }
+              },
+              {
+                "id": "289c3a6f180f1642",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 395.5
+      },
+      "right": {
+        "id": "de5b2b7c9ff73890",
+        "type": "split",
+        "children": [
+          {
+            "id": "e26171bf7d169ce2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "32318fb432b984f3",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "9bdbf61b3b0ec1bc",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": true,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "ff9a7c47587e216f",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "57109aae2f24eb9d",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "eb3df678b2c670f9",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency"
+                  }
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 663.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "workspaces:Manage workspace layouts": false,
+          "markdown-importer:Open format converter": false,
+          "markdown-table-editor:Open Markdown Table Editor": false,
+          "homepage:Open homepage": false,
+          "mermaid-tools:Open Mermaid Toolbar": false,
+          "omnisearch:Omnisearch": false
+        }
+      },
+      "active": "dbc5f0919da69e6f"
+    },
+    "something": {
+      "main": {
+        "id": "190beaebe4ad9448",
+        "type": "split",
+        "children": [
+          {
+            "id": "75a1af808f96cb46",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ab800f61cb0719c4",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "AI/Prompt Engineering/prompts/NoteGPT.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "faf88567ed515d15",
+        "type": "split",
+        "children": [
+          {
+            "id": "dbc309f7cc5a382f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7e55cb1b5b50e12b",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "03f37ea6f393b89d",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": true,
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "byModifiedTime"
+                  }
+                }
+              },
+              {
+                "id": "289c3a6f180f1642",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 335.5
+      },
+      "right": {
+        "id": "de5b2b7c9ff73890",
+        "type": "split",
+        "children": [
+          {
+            "id": "e26171bf7d169ce2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "32318fb432b984f3",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "AI/Prompt Engineering/prompts/NoteGPT.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "9bdbf61b3b0ec1bc",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "AI/Prompt Engineering/prompts/NoteGPT.md",
+                    "linksCollapsed": true,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "ff9a7c47587e216f",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "57109aae2f24eb9d",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "AI/Prompt Engineering/prompts/NoteGPT.md"
+                  }
+                }
+              },
+              {
+                "id": "eb3df678b2c670f9",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency"
+                  }
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 290.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "workspaces:Manage workspace layouts": false,
+          "markdown-importer:Open format converter": false,
+          "markdown-table-editor:Open Markdown Table Editor": false,
+          "homepage:Open homepage": false,
+          "mermaid-tools:Open Mermaid Toolbar": false,
+          "omnisearch:Omnisearch": false
+        }
+      },
+      "floating": {
+        "id": "546d4f3a9cdda5e7",
+        "type": "floating",
+        "children": [
+          {
+            "id": "92dbe536b1b8b464",
+            "type": "window",
+            "children": [
+              {
+                "id": "c669eb2f6ec90b23",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "3b1a0ecc9beda108",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Ruby/design patterns.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "pinned": true
+                    }
+                  },
+                  {
+                    "id": "94a307ce2581dea8",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Ruby/Untitled.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "pinned": true
+                    }
+                  }
+                ],
+                "currentTab": 1
+              }
+            ],
+            "direction": "vertical",
+            "x": 3845,
+            "y": 33,
+            "width": 1268,
+            "height": 1400,
+            "maximize": false,
+            "zoom": 0
+          }
+        ]
+      },
+      "active": "ab800f61cb0719c4"
+    }
+  },
+  "active": "something"
+}

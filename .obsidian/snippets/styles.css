@@ -1,0 +1,64 @@
+body {
+  --tab-stacked-pane-width: 100%;
+ 
+}
+
+#.cm-s-obsidian {
+# font-size: 20px;
+#}
+
+.note-title-underline.note-title-underline .workspace .mod-root .workspace-tabs.mod-stacked .workspace-tab-container .workspace-tab-header {
+	border-right: 1px solid var(--note-title-border-color);
+}
+
+.inline-title {
+    font-weight: var(--inline-title-weight);
+    font-size: var(--inline-title-size);
+    line-height: var(--inline-title-line-height);
+    font-style: var(--inline-title-style);
+    font-variant: var(--inline-title-variant);
+    font-family: 'Hack Nerd Font';
+    margin-bottom: var(--inline-title-margin-bottom);
+    letter-spacing: -0.015em;
+    color: var(--inline-title-color);
+}
+
+.nav-file-title, .nav-folder-title {
+    margin-bottom: var(--size-2-1);
+    display: flex;
+    border-radius: var(--radius-s);
+    cursor: var(--cursor);
+    color: var(--nav-item-color);
+    font-size: 1.1255rem;
+    font-weight: var(--nav-item-weight);
+    line-height: var(--line-height-tight);
+}
+
+.nav-folder .nav-folder-title .nav-folder-title-content:before {
+  display: none;
+}
+
+
+.nav-folder.is-collapsed .nav-folder-title .nav-folder-title-content:before {
+  display: none;
+}
+
+.obsidian-icon-folder-icon {
+	margin: 1px 4px 0px -8px !important;
+	color: rgb(150 212 32) !important;
+}
+
+.nav-file-title-content, .search-result-file-title, .search-result-file-match {
+	font-size: 18px;
+}
+#.tree-item, .nav-file, .tree-item-self.is-clickable.nav-file-title.has-focus {
+#	margin-left: -17px !important;
+#	padding-left: 41px !important;
+#}
+
+#.tree-item, .nav-file, .tree-item-self.is-clickable.nav-file-title.has-focus {
+#	margin-left: -17px !important;
+#	padding-left: 41px !important;
+#	font-size: 1.25rem !important;
+#}
+

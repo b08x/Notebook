@@ -1,0 +1,10 @@
+.obsidian/build/
+.obsidian/cryptojs/
+.obsidian/epub/
+.obsidian/pdfextract/
+.obsidian/web/
+.obsidian/epub.js/
+.obsidian/pdfjs.zip
+.obsidian/**/cache/
+.obsidian/**/Cache/
+.obsidian/**/*.svg

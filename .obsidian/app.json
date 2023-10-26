@@ -1,0 +1,18 @@
+{
+  "attachmentFolderPath": "./attachments",
+  "newFileLocation": "current",
+  "newFileFolderPath": "Notes",
+  "readableLineLength": false,
+  "showFrontmatter": true,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "trashOption": "system",
+  "spellcheck": true,
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "userIgnoreFilters": [
+    "website/_site/",
+    "website/node_modules/",
+    "website/assets/"
+  ]
+}

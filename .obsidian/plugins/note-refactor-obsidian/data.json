@@ -1,0 +1,13 @@
+{
+  "includeFirstLineAsNoteHeading": false,
+  "excludeFirstLineInNote": false,
+  "openNewNote": true,
+  "headingFormat": "#",
+  "newFileLocation": 2,
+  "customFolder": "Notes/sorted",
+  "fileNamePrefix": "",
+  "transcludeByDefault": false,
+  "noteLinkTemplate": "\n{{new_note_title}}\n\n",
+  "refactoredNoteTemplate": "----\n\n{{new_note_content}}\n\n",
+  "normalizeHeaderLevels": false
+}

@@ -1,0 +1,28 @@
+{
+  "chatgpt-md:call-chatgpt-api": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ],
+  "chatgpt-md:stop-streaming": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "S"
+    }
+  ],
+  "obsidian-shellcommands:shell-command-k27xcgok5o": [
+    {
+      "modifiers": [
+        "Meta"
+      ],
+      "key": "Key0"
+    }
+  ]
+}
