@@ -4,177 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3f4bcaa9204c9d85",
-        "type": "split",
+        "id": "c4af3e8ad32df8c2",
+        "type": "tabs",
         "children": [
           {
-            "id": "ee663cf2ea285dc2",
-            "type": "split",
-            "dimension": 64.6887159533074,
-            "children": [
-              {
-                "id": "75a1af808f96cb46",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "f2091d8ab0fcd4af",
-                    "type": "leaf",
-                    "pinned": true,
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Daily/2023-10-26.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "pinned": true
-                    }
-                  },
-                  {
-                    "id": "46db73686ed5fc27",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Various Writing/Black Holes-The Grand Conspiracy/claude.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "f7552c6e574097f8",
-                    "type": "leaf",
-                    "pinned": true,
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Daily/2023-10-19.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "pinned": true
-                    }
-                  },
-                  {
-                    "id": "af3125888c7ee1c9",
-                    "type": "leaf",
-                    "pinned": true,
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Syncopated/laudLLM/JackQA.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "pinned": true
-                    }
-                  },
-                  {
-                    "id": "78230c19102bdcca",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Daily/2023-10-26.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  }
-                ],
-                "currentTab": 1,
-                "stacked": true
-              },
-              {
-                "id": "9554a3f574bdf189",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "a74cf2ae289fd5ca",
-                    "type": "leaf",
-                    "state": {
-                      "type": "media-view",
-                      "state": {
-                        "file": "Syncopated/Notes/ElevenLabs_2023-10-12T17_01_16_miss jane_gen_s75_sb75_se38_b_m2.mp3",
-                        "info": {
-                          "type": "audio",
-                          "filename": "ElevenLabs_2023-10-12T17_01_16_miss jane_gen_s75_sb75_se38_b_m2.mp3",
-                          "src": "Syncopated/Notes/ElevenLabs_2023-10-12T17_01_16_miss jane_gen_s75_sb75_se38_b_m2.mp3",
-                          "subtitles": [],
-                          "hash": ""
-                        },
-                        "currentTime": 0
-                      }
-                    }
-                  }
-                ]
+            "id": "5cddf437b9bc9d9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Audio/Onotology/Onotology.md",
+                "mode": "source",
+                "source": false
               }
-            ],
-            "direction": "vertical"
-          },
-          {
-            "id": "324b0e7719c7f965",
-            "type": "tabs",
-            "dimension": 35.311284046692606,
-            "children": [
-              {
-                "id": "d50acfb585e37d22",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Syncopated/Notes/docker - pinning versions.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true
-                }
-              },
-              {
-                "id": "6ed3fbac074791f7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "DevOPs/docker.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "caca50cce6d3ca55",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "AI/LLM/Training.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true
-                }
-              },
-              {
-                "id": "ed49afcab137417d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Syncopated/Linux/Ambisonics/Ambix.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ],
-            "currentTab": 2
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(api)",
+                "query": "[\"annotation-target:\"]",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -231,6 +76,23 @@
     "type": "split",
     "children": [
       {
+        "id": "48827d43fd3125d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff9a7c47587e216f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "e26171bf7d169ce2",
         "type": "tabs",
         "children": [
@@ -240,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Syncopated/Notes/ElevenLabs_2023-10-12T17_01_16_miss jane_gen_s75_sb75_se38_b_m2.mp3",
+                "file": "Audio/Onotology/Onotology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,20 +119,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Syncopated/Notes/ElevenLabs_2023-10-12T17_01_16_miss jane_gen_s75_sb75_se38_b_m2.mp3",
+                "file": "Audio/Onotology/Onotology.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "ff9a7c47587e216f",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "alphabetical",
-                "useHierarchy": true
               }
             }
           },
@@ -280,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Syncopated/Notes/ElevenLabs_2023-10-12T17_01_16_miss jane_gen_s75_sb75_se38_b_m2.mp3"
+                "file": "Audio/Onotology/Onotology.md"
               }
             }
           },
@@ -303,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -322,7 +173,8 @@
       "omnisearch:Omnisearch": false,
       "markdown-table-editor:Open Markdown Table Editor": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
   "floating": {
@@ -338,20 +190,6 @@
             "type": "tabs",
             "children": [
               {
-                "id": "3b1a0ecc9beda108",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Ruby/design patterns.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true
-                }
-              },
-              {
                 "id": "94a307ce2581dea8",
                 "type": "leaf",
                 "pinned": true,
@@ -364,61 +202,74 @@
                   },
                   "pinned": true
                 }
+              },
+              {
+                "id": "6662d2ec672db3d0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Daily/2023-10-27.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
-        "x": 1933,
-        "y": 78,
-        "width": 1227,
-        "height": 989,
+        "x": 2888,
+        "y": 561,
+        "width": 939,
+        "height": 506,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "a74cf2ae289fd5ca",
+  "active": "5cddf437b9bc9d9f",
   "lastOpenFiles": [
+    "Audio/Onotology/The_Music_Ontology.pdf",
+    "Audio/Onotology/Unconfirmed 448388.crdownload",
+    "Audio/Audio.md",
+    "Audio/Onotology/Onotology.md",
+    "Audio/Onotology",
+    "Daily/2023-10-27.md",
+    "Audio",
+    "Ruby/Untitled.md",
+    "Ruby/design patterns.md",
+    "Syncopated/Linux/Ambisonics/Ambix.md",
+    "AI/LLM/Training.md",
+    "DevOPs/docker.md",
+    "Syncopated/Notes/docker - pinning versions.md",
+    "Daily/SOmething.md",
+    "Daily/2023-10-26.md",
+    "Syncopated/laudLLM/JackQA.md",
+    "Daily/2023-10-19.md",
+    "Syncopated/Notes/Notes.md",
+    "Syncopated/Syncopated.md",
+    "Ruby/Ruby.md",
+    "Daily/attachments/attachments.md",
+    "Daily/attachments/Recording 20231027051501.webm",
+    "Daily/attachments",
+    "Various Writing/Tom and Jerry/Untitled.md",
+    "Various Writing/Black Holes-The Grand Conspiracy/claude.md",
+    "Syncopated/Notes/ElevenLabs_2023-10-12T17_01_16_miss jane_gen_s75_sb75_se38_b_m2.mp3",
     "Daily/2023-10-03.md",
     "Daily/2023-10-09.md",
     "Daily/2023-10-10.md",
     "Daily/2023-10-12.md",
-    "Daily/2023-10-19.md",
     "Daily/2023-10-13.md",
     "Daily/2023-10-16.md",
-    "Daily/2023-10-18.md",
-    "Daily/2023-10-20.md",
-    "Daily/2023-10-26.md",
-    "Various Writing/Black Holes-The Grand Conspiracy/claude.md",
-    "Daily/Untitled.md",
-    "Daily/2023-10-11.md",
-    "Syncopated/laudLLM/agentgpt_results/agentGPT_01.md",
-    "Syncopated/laudLLM/laudLLM.md",
-    "AI/AI.md",
-    "AI/Applications/wordcraft.md",
-    "AI/LLM/LLM.md",
-    "AI/Prompt Engineering/characters/transcripts/Clear Instrumentos SFZ - Master Class.md",
-    "AI/Prompt Engineering/characters/transcripts/TouchOSC Deep Dive.md",
-    "AI/Prompt Engineering/prompts/AgileBloom.md",
-    "AI/Prompt Engineering/prompts/gitCommitMSG/GitCommit.md",
-    "AI/Prompt Engineering/prompts/prompts.md",
-    "Syncopated/Notes/Phoenix.md",
-    "Syncopated/Notes/Notes.md",
-    "Ruby/design patterns.md",
     "Syncopated/Linux/Ambisonics",
     "Linux/Realtime/research/attachments/Pasted image 20231019224748.png",
     "Linux/Realtime/research/attachments",
     "Linux/Realtime/research/ProteinGreen_pedal_DriveKnob.json",
     "Linux/Realtime/research/Unconfirmed 41667.crdownload",
-    "Linux/Realtime/research/applsci-10-00766-v2.pdf",
-    "Linux/Realtime/research/Unconfirmed 367488.crdownload",
-    "Linux/Realtime/research",
     "Syncopated/laudLLM/attachments/Pasted image 20231005015604.png",
     "Syncopated/laudLLM/attachments/Pasted image 20231005015434.png",
-    "AI/Models",
-    "Various Writing/Tom and Jerry/Total_otherness_in_dissociative_identity.pdf",
-    "AI/Prompt Engineering/parameters/openai/parameter_test01a.json",
     "AI/LLM/Processing/attachments/Pasted image 20231018003950.png",
     "Syncopated/laudLLM/attachments/Pasted image 20231010164114.png",
     "Linux/Audio/Untitled.canvas",

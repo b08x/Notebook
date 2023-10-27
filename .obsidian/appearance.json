@@ -1,10 +1,10 @@
 {
-  "accentColor": "",
-  "cssTheme": "Minimal",
-  "interfaceFontFamily": "mononoki Nerd Font,Hack Nerd Font",
-  "textFontFamily": "Hack Nerd Font,mononoki Nerd Font",
-  "monospaceFontFamily": "Hack Nerd Font Mono,mononoki Nerd Font Mono",
-  "baseFontSize": 14,
+  "accentColor": "#0b4784",
+  "cssTheme": "Maple",
+  "interfaceFontFamily": "Hack Nerd Font,Source Code Pro",
+  "textFontFamily": "Hack Nerd Font",
+  "monospaceFontFamily": "Hack Nerd Font Mono",
+  "baseFontSize": 13,
   "theme": "obsidian",
   "nativeMenus": true,
   "enabledCssSnippets": [

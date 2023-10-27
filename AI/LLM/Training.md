@@ -1,6 +1,12 @@
 
+teststs
+
+
 ## LMFLOW
 ### [Instruction Tuning](https://optimalscale.github.io/LMFlow/#instruction-tuning "Permalink to this heading")
+
+
+
 
 Instruction Tuning is a technique used to improve the performance of language models by training them to follow natural language commands or instructions. This includes positive or negative examples, prompts, constraints, and other elements that are commonly found in human language. The main goal of instruction-tuning is to improve the model’s ability to perform well on multiple tasks and to generalize more effectively to new or unseen tasks. This is achieved by teaching the model to understand and incorporate various language cues and constraints that are relevant to the task at hand. Instruction-tuning is a powerful technique that is widely used in natural language processing, machine learning, and related areas. By improving the ability of language models to understand and follow natural language commands, this approach can help to unlock new levels of performance and productivity in a wide range of applications.
 
@@ -85,3 +91,6 @@ sysctl.h
 something.5
 This is a sentence. This is another one.
 This is a sentence.This is another sentence.
+
+So, we're training denuplication for generated text.
+

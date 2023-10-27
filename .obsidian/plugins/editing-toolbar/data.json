@@ -1,5 +1,5 @@
 {
-  "aestheticStyle": "default",
+  "aestheticStyle": "glass",
   "positionStyle": "top",
   "menuCommands": [
     {
@@ -209,14 +209,9 @@
       "id": "editing-toolbar:codeblock",
       "name": "Editing Toolbar: Toggle codeblock",
       "icon": "codeblock-glyph"
-    },
-    {
-      "id": "obsidian-shellcommands:shell-command-k27xcgok5o",
-      "name": "Shell commands: Execute: scriber",
-      "icon": "voicemail"
     }
   ],
-  "appendMethod": "workspace",
+  "appendMethod": "body",
   "shouldShowMenuOnSelect": false,
   "cMenuVisibility": false,
   "cMenuBottomValue": 4.25,
@@ -225,7 +220,7 @@
   "cMenuFontColor": "#2DC26B",
   "cMenuBackgroundColor": "#d3f8b6",
   "autohide": true,
-  "custom_bg1": "#FFB78B8C",
+  "custom_bg1": "#FFB78B",
   "custom_bg2": "#CDF4698C",
   "custom_bg3": "#A0CCF68C",
   "custom_bg4": "#F0A7D88C",

@@ -1,8 +1,8 @@
-SyncopatedNotes is a youtube channel featuring demonstrations of various open source projects
-
-
 
 ## "methods of information distribution"
+
+syncopatedNotes is a youtube channel featuring demonstrations of various open source projects
+
 
 
 
