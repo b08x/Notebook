@@ -25,7 +25,7 @@
     {
       "id": "k27xcgok5o",
       "platform_specific_commands": {
-        "default": "kitty -e scriber.rb {{file_path:absolute}}"
+        "default": "kitty --class notepad -e scriber.rb {{file_path:absolute}}"
       },
       "shells": {},
       "alias": "scriber",

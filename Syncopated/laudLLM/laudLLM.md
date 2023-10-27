@@ -1,3 +1,7 @@
+`{ Linux Audio Users & Developers Large Language Model }`
+
+---
+
 
 Ruby classes and functions to serve as a framework for a `Retrieval Augmented Generation` based GPT application that will to function as a knowledge base specific to Audio Engineering, Music Theory, Linux Audio, and associated topics.
 

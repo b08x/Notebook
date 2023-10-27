@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": "#c32253",
     "recentlyUsedIcons": [
-      "TiWritingSign",
-      "LiBoxSelect",
-      "RiTimeFill",
-      "SiAudiomack",
-      "SiLinuxfoundation"
+      "RiChatVoiceLine",
+      "TiChalkboard",
+      "LiServerCog",
+      "TiDeviceFloppy",
+      "TiBrandYoutube"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -102,9 +102,12 @@
   "Linux/Arch": "SiArchlinux",
   "Music": "RiMusic2Line",
   "Daily": "LiCalendarDays",
-  "laudGPT": "TiChalkboard",
   "Syncopated": "LiBoxSelect",
   "Linux/Audio": "SiAudiomack",
   "Linux/Realtime": "RiTimeFill",
-  "Various Writing": "TiWritingSign"
+  "Various Writing": "TiWritingSign",
+  "Syncopated/laudLLM": "RiChatVoiceLine",
+  "Syncopated/Linux": "SiAnsible",
+  "Syncopated/Notes": "TiBrandYoutube",
+  "DevOPs": "LiServerCog"
 }

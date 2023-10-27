@@ -1,9 +1,17 @@
+SyncopatedNotes is a youtube channel featuring demonstrations of various open source projects
+
+
+
+## "methods of information distribution"
+
+
 
 https://elevenlabs.io/speech-synthesis
 
 https://asciiflow.com/#/
 https://asciiflow.com/legacy/
 
+DeepAFx --> Ambix (coming in 2024)
 
 cachy --> ansible --> linux audio --> deadbeef --> sonic-visualizer -->  midi? --(GPT)-> sonic-pi
 
@@ -30,4 +38,14 @@ https://www.bbc.com/worklife/article/20180723-the-commas-that-cost-companies-mil
 
 
 ## deadbeef and sonic-visualiser
+
+
+It does look like it worked though.
+
+
+Okay, DunBeef and Sonic Visualizer, Appearance, Bookmarks, Canvas, Community, dash, Plugins, dot, JSON.
+
+
+Instruction tuning is a technique used to improve the performance of a language model's training, then follow for them, used to improve the performance of language models by training them to follow natural language commands or instructions.
+
 
