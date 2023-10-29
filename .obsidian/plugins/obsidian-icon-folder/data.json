@@ -94,9 +94,6 @@
   "Writing/Posts": "RiGitRepositoryLine",
   "Writing/Songs": "RiMusic2Line",
   "Writing/Screencasts": "TiScript",
-  "Linux/Arch": "SiArchlinux",
-  "Linux/Audio": "SiAudiomack",
-  "Linux/Realtime": "RiTimeFill",
   "Syncopated/laudLLM": "RiChatVoiceLine",
   "Syncopated/Linux": "SiAnsible",
   "Syncopated/Notes": "TiBrandYoutube"

@@ -7,7 +7,7 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "trashOption": "system",
-  "spellcheck": false,
+  "spellcheck": true,
   "useMarkdownLinks": true,
   "showUnsupportedFiles": true,
   "userIgnoreFilters": [
