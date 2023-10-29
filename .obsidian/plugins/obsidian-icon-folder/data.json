@@ -82,6 +82,7 @@
   "Projects/Archive/scriber": "TiMicrophone",
   "Projects/Archive/scriber/README.md": "SiReadthedocs",
   "Writing": "TiWriting",
+  "Audio": "SiAudioboom",
   "Audio/Music": "LiMusic4",
   "Development": "RiTerminalBoxFill",
   "Documentation": "LiLibrary",
@@ -94,7 +95,16 @@
   "Writing/Posts": "RiGitRepositoryLine",
   "Writing/Songs": "RiMusic2Line",
   "Writing/Screencasts": "TiScript",
+  "Ruby": "SiRuby",
+  "Linux": "SiLinux",
+  "Linux/Arch": "SiArchlinux",
+  "Daily": "LiCalendarDays",
+  "Syncopated": "LiBoxSelect",
+  "Linux/Audio": "SiAudiomack",
+  "Linux/Realtime": "RiTimeFill",
+  "Various Writing": "TiWritingSign",
   "Syncopated/laudLLM": "RiChatVoiceLine",
   "Syncopated/Linux": "SiAnsible",
-  "Syncopated/Notes": "TiBrandYoutube"
+  "Syncopated/Notes": "TiBrandYoutube",
+  "DevOPs": "LiServerCog"
 }

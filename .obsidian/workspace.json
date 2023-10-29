@@ -4,33 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "5aad1d2e6f37e8e9",
+        "id": "eae7cdf72d5e6ee8",
         "type": "tabs",
         "children": [
           {
-            "id": "3f011256005a0938",
+            "id": "f5e7d90afea3216d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevOPs/DevOPs.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "7e874a3779cb4566",
+            "id": "23342f2eab01e352",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOPs/pihole docker container macvlan ddwrt.md",
+                "file": "Daily/2023-10-29.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ],
@@ -63,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ansible",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -119,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOPs/pihole docker container macvlan ddwrt.md",
+                "file": "Daily/2023-10-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOPs/pihole docker container macvlan ddwrt.md",
+                "file": "Daily/2023-10-29.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOPs/pihole docker container macvlan ddwrt.md"
+                "file": "Daily/2023-10-29.md"
               }
             }
           },
@@ -194,28 +188,80 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7e874a3779cb4566",
+  "floating": {
+    "id": "546d4f3a9cdda5e7",
+    "type": "floating",
+    "children": [
+      {
+        "id": "92dbe536b1b8b464",
+        "type": "window",
+        "children": [
+          {
+            "id": "c669eb2f6ec90b23",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "94a307ce2581dea8",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Ruby/Untitled.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "6662d2ec672db3d0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Daily/2023-10-27.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical",
+        "x": 2888,
+        "y": 561,
+        "width": 939,
+        "height": 506,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "23342f2eab01e352",
   "lastOpenFiles": [
-    "Daily/2023-10-29.md",
-    "DevOPs/DevOPs.md",
     "DevOPs/pihole docker container macvlan ddwrt.md",
-    "DevOPs/docker.md",
+    "Daily/2023-10-29.md",
+    "Audio/Music/Music.md",
+    "Audio/Music",
     "Daily/2023-10-27.md",
-    "Daily/2023-10-26.md",
-    "Audio/Audio.md",
     "Desktop/Desktop.md",
-    "Desktop/a.md",
-    "Ruby/Untitled.md",
     "Daily/2023-10-20.md",
+    "Ruby/Untitled.md",
+    "Daily/2023-10-26.md",
     "Daily/SOmething.md",
     "Audio/Onotology/Onotology.md",
     "Audio/Onotology/The_Music_Ontology.pdf",
     "Audio/Onotology/Unconfirmed 448388.crdownload",
+    "Audio/Audio.md",
     "Audio/Onotology",
     "Audio",
     "Ruby/design patterns.md",
     "Syncopated/Linux/Ambisonics/Ambix.md",
     "AI/LLM/Training.md",
+    "DevOPs/docker.md",
     "Syncopated/Notes/docker - pinning versions.md",
     "Syncopated/laudLLM/JackQA.md",
     "Daily/2023-10-19.md",
@@ -229,10 +275,10 @@
     "Various Writing/Black Holes-The Grand Conspiracy/claude.md",
     "Syncopated/Notes/ElevenLabs_2023-10-12T17_01_16_miss jane_gen_s75_sb75_se38_b_m2.mp3",
     "Daily/2023-10-03.md",
+    "Daily/2023-10-09.md",
     "Syncopated/Linux/Ambisonics",
     "Linux/Realtime/research/attachments/Pasted image 20231019224748.png",
     "Linux/Realtime/research/attachments",
-    "Linux/Realtime/research/ProteinGreen_pedal_DriveKnob.json",
     "Syncopated/laudLLM/attachments/Pasted image 20231005015604.png",
     "Syncopated/laudLLM/attachments/Pasted image 20231005015434.png",
     "AI/LLM/Processing/attachments/Pasted image 20231018003950.png",
