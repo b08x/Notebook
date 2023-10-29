@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": "#c32253",
     "recentlyUsedIcons": [
+      "🈳",
       "RiChatVoiceLine",
       "TiChalkboard",
       "LiServerCog",
-      "TiDeviceFloppy",
-      "TiBrandYoutube"
+      "TiDeviceFloppy"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -84,7 +84,6 @@
   "Writing": "TiWriting",
   "Audio": "SiAudioboom",
   "Audio/Music": "LiMusic4",
-  "AI": "SiAzuredataexplorer",
   "Development": "RiTerminalBoxFill",
   "Documentation": "LiLibrary",
   "Infrastructure": "ℹ",
@@ -108,5 +107,6 @@
   "Syncopated/laudLLM": "RiChatVoiceLine",
   "Syncopated/Linux": "SiAnsible",
   "Syncopated/Notes": "TiBrandYoutube",
-  "DevOPs": "LiServerCog"
+  "DevOPs": "LiServerCog",
+  "AI": "🈳"
 }
