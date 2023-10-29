@@ -20,10 +20,10 @@
   "obsidian-shellcommands:shell-command-k27xcgok5o": [
     {
       "modifiers": [
-        "Meta",
+        "Mod",
         "Shift"
       ],
-      "key": "*"
+      "key": "6"
     }
   ]
 }

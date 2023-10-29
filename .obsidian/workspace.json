@@ -11,10 +11,11 @@
             "id": "6e4f53de51a641c5",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/community-plugins.json",
-                "staged": false
+                "file": "Daily/2023-10-29.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -77,7 +78,7 @@
       {
         "id": "48827d43fd3125d0",
         "type": "tabs",
-        "dimension": 28.985507246376812,
+        "dimension": 28.98550724637681,
         "children": [
           {
             "id": "ff9a7c47587e216f",
@@ -103,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ruby/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ruby/Untitled.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ruby/Untitled.md"
+              }
             }
           },
           {
@@ -199,34 +204,21 @@
                   },
                   "pinned": true
                 }
-              },
-              {
-                "id": "6662d2ec672db3d0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Daily/2023-10-27.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
-        "x": 2888,
-        "y": 561,
-        "width": 939,
-        "height": 506,
-        "maximize": true,
+        "x": 2728,
+        "y": 2415,
+        "width": 1259,
+        "height": 450,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "6e4f53de51a641c5",
+  "active": "94a307ce2581dea8",
   "lastOpenFiles": [
     "Daily/2023-10-29.md",
     "Daily/2023-10-20.md",
