@@ -635,7 +635,8 @@ padding-right: 0px;
 .callout[data-callout-metadata*="h1"] .callout-title-inner,
 .callout[data-callout-metadata*="h2"] .callout-title-inner,
 .callout[data-callout-metadata*="h3"] .callout-title-inner {
-  padding-bottom: 5px; 
+  padding-bottom: 5px;
+  margin: 3rem;
 }
 .callout[data-callout-metadata*="h1"] .callout-title-inner {
 font-size: var(--h1-size);

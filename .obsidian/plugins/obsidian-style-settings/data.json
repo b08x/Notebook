@@ -145,5 +145,8 @@
   "ul-theme-settings@@font-text-theme": "Uncut Sans",
   "ul-theme-settings@@font-title": "Nightingale",
   "ul-theme-settings@@ul-accent-title": true,
-  "ul-theme-settings@@ul-colorful-headings": true
+  "ul-theme-settings@@ul-colorful-headings": true,
+  "notation-2-theme@@notation-titlebar": false,
+  "notation-2-theme@@hide-other-icons": false,
+  "notation-2-theme@@hide-new-folder": false
 }

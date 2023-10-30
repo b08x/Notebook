@@ -1,8 +1,13 @@
 ## create macvlan connection
+#linux #networking #networkmanager
+
+Create the macvlan connection using `nmcli`
+
 
 ```bash
 sudo nmcli connection edit
 ```
+
 ```
 nmcli> set macvlan.parent eno1
 nmcli> set macvlan.mode bridge
@@ -13,6 +18,7 @@ nmcli> activate
 ```
 
 ## open up the required ports
+#linux #firewalld
 
 ```bash
 sudo firewall-cmd --add-service=dns --permenant
@@ -23,6 +29,7 @@ sudo firewall-cmd --reload
 ```
 
 ## create docker network
+#docker #networking 
 
 ```bash
 docker network create -d macvlan -o parent=eno1 \
@@ -33,6 +40,7 @@ macvlan0
 ```
 
 ## create docker-compose file
+#docker
 
 ```yaml
 ---
@@ -71,54 +79,14 @@ networks:
 ```
 
 
-- [ ] fail over⏫ 
+
 
 ---
 
+## configuring dd-wrt
+#networking #ddwrt #dns
 
-# alternatively??
+![](Pasted%20image%2020231029202237.png)
 
-```yaml
-version: '3.9'
-
-services:
-    pihole:
-       image: pihole/pihole:latest
-       container_name: pihole
-       ports:
-           - "8090:80"
-       environment:
-          - WEBPASSWORD=adminpassword
-          - TZ=America/New_York
-          - DNSSEC=True
-          - PUID=1000
-          - PGID=1000
-          - VIRTUAL_HOST=pihole
-       volumes:
-          - ./etc/pihole:/etc/pihole
-          - ./etc/dnsmasq:/etc/dnsmasq.d
-       cap_add:
-          - NET_ADMIN
-       dns:
-          - 127.0.0.1
-          - 8.8.8.8
-          - 4.4.4.4
-       networks:
-         network:
-           ipv4_address: 10.5.0.2
-
-networks:
-  network:
-    driver: bridge
-    ipam:
-      config:
-        - subnet: 10.5.0.0/16
-          gateway: 10.5.0.1
-
-```
-
-Then add a cname for the dockerhost in `Additional DNSMasq Options`
-
-[source](https://blog.ivansmirnov.name/set-up-pihole-using-docker-macvlan-network/)
-
+![](Pasted%20image%2020231029202308.png)
 

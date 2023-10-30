@@ -1,10 +1,10 @@
 {
   "accentColor": "#0b4784",
-  "cssTheme": "Maple",
+  "cssTheme": "Notation 2",
   "interfaceFontFamily": "Hack Nerd Font,Source Code Pro",
   "textFontFamily": "Hack Nerd Font",
   "monospaceFontFamily": "Hack Nerd Font Mono",
-  "baseFontSize": 14,
+  "baseFontSize": 16,
   "theme": "obsidian",
   "nativeMenus": true,
   "enabledCssSnippets": [
