@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3f011256005a0938",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevOPs/DevOPs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7e874a3779cb4566",
             "type": "leaf",
             "pinned": true,
@@ -34,31 +22,19 @@
             }
           },
           {
-            "id": "899132c7569e4b75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2023-10-29.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5ac28b07db24592c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-10-29.md",
+                "file": "Daily/Syncopated Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ansible",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -117,7 +93,7 @@
       {
         "id": "48827d43fd3125d0",
         "type": "tabs",
-        "dimension": 28.98550724637681,
+        "dimension": 14.144271570014144,
         "children": [
           {
             "id": "ff9a7c47587e216f",
@@ -135,7 +111,7 @@
       {
         "id": "e26171bf7d169ce2",
         "type": "tabs",
-        "dimension": 71.01449275362319,
+        "dimension": 85.85572842998586,
         "children": [
           {
             "id": "32318fb432b984f3",
@@ -143,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-10-29.md",
+                "file": "Daily/Syncopated Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-10-29.md",
+                "file": "Daily/Syncopated Notes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -172,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-10-29.md"
+                "file": "Daily/Syncopated Notes.md"
               }
             }
           },
@@ -203,6 +179,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "digitalgarden:Digital Garden Publication Center": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -220,8 +197,17 @@
   },
   "active": "5ac28b07db24592c",
   "lastOpenFiles": [
+    "Daily/2023-10-30.md",
+    "Daily/2023-11-01.md",
+    "Daily/Syncopated Notes.md",
     "DevOPs/pihole docker container macvlan ddwrt.md",
     "Daily/2023-10-29.md",
+    "DevOPs/DevOPs.md",
+    "Daily/Untitled 1.md",
+    "Daily/2023-10-31.md",
+    "Daily/SOmething.md",
+    "Linux/Audio/Audio.md",
+    "Ruby/Ruby.md",
     "DevOPs/attachments/attachments.md",
     "DevOPs/terraform.md",
     "DevOPs/attachments/Pasted image 20231029202308.png",
@@ -231,7 +217,6 @@
     "Linux/Realtime/Realtime.md",
     "Audio/Music/Music.md",
     "Audio/Onotology/Onotology.md",
-    "DevOPs/DevOPs.md",
     "DevOPs/docker.md",
     "Daily/2023-10-27.md",
     "Daily/2023-10-26.md",
@@ -240,19 +225,12 @@
     "Desktop/a.md",
     "Ruby/Untitled.md",
     "Daily/2023-10-20.md",
-    "Daily/SOmething.md",
     "Audio/Onotology/The_Music_Ontology.pdf",
     "Audio/Onotology/Unconfirmed 448388.crdownload",
     "Audio/Onotology",
     "Audio",
     "Ruby/design patterns.md",
     "Syncopated/Linux/Ambisonics/Ambix.md",
-    "AI/LLM/Training.md",
-    "Syncopated/Notes/docker - pinning versions.md",
-    "Syncopated/laudLLM/JackQA.md",
-    "Daily/2023-10-19.md",
-    "Syncopated/Notes/Notes.md",
-    "Syncopated/Syncopated.md",
     "Daily/attachments/Recording 20231027051501.webm",
     "Daily/attachments",
     "Syncopated/Notes/ElevenLabs_2023-10-12T17_01_16_miss jane_gen_s75_sb75_se38_b_m2.mp3",
