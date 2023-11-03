@@ -1,3 +1,4 @@
+#linux #xorg 
 
 ```bash
 touch ~/.Xauthority

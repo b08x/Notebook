@@ -1,11 +1,11 @@
 {
   "githubRepo": "b08x.github.io",
-  "githubToken": "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",
+  "githubToken": "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",
   "githubUserName": "b08x",
   "gardenBaseUrl": "",
   "prHistory": [],
   "baseTheme": "dark",
-  "theme": "{\"name\":\"Notation 2\",\"author\":\"Ha'ani Whitlock\",\"repo\":\"Bluemoondragon07/obsidian-notation-2\",\"screenshot\":\"cover-small.png\",\"modes\":[\"dark\",\"light\"],\"cssUrl\":\"https://raw.githubusercontent.com/Bluemoondragon07/obsidian-notation-2/HEAD/theme.css\"}",
+  "theme": "{\"name\":\"Obsidian gruvbox\",\"author\":\"insanum\",\"repo\":\"insanum/obsidian_gruvbox\",\"screenshot\":\"dark.png\",\"modes\":[\"dark\",\"light\"],\"cssUrl\":\"https://raw.githubusercontent.com/insanum/obsidian_gruvbox/HEAD/theme.css\"}",
   "faviconPath": "",
   "noteSettingsIsInitialized": true,
   "siteName": "Syncopated Notes",
