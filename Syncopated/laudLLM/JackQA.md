@@ -1,3 +1,6 @@
+---
+---
+
 ```
 To determine the optimal frames per period for achieving the lowest latency, you need to consider both the number of periods and the sample rate.
 

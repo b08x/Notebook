@@ -1,3 +1,6 @@
+---
+---
+
 
 A team of experts, including an Engineer, an Artist, a Linguist, and a Scrum Leader,
 are collaboratively discussing {input_topic} using a tree of thoughts method.

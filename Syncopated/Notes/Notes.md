@@ -1,8 +1,10 @@
+---
+---
+
 
 ## "methods of information distribution"
 
 syncopatedNotes is a youtube channel featuring demonstrations of various open source projects
-
 
 
 
@@ -43,7 +45,7 @@ https://www.bbc.com/worklife/article/20180723-the-commas-that-cost-companies-mil
 It does look like it worked though.
 
 
-Okay, DunBeef and Sonic Visualizer, Appearance, Bookmarks, Canvas, Community, dash, Plugins, dot, JSON.
+Okay, DeadBeef and Sonic Visualizer, Appearance, Bookmarks, Canvas, Community, dash, Plugins, dot, JSON.
 
 
 Instruction tuning is a technique used to improve the performance of a language model's training, then follow for them, used to improve the performance of language models by training them to follow natural language commands or instructions.

@@ -1,3 +1,6 @@
+---
+---
+
 # 
 Sure, they want you to believe that stars and galaxies are real. The same way an actor wants you to believe they are a certain kind of person. It's big business. In order for life to operate at an optimal level, everything has to have an explanation or classification. If it doesn't, we become afraid and often times violent. So, when Priests who then thought it best to distinguish themselves, decided it was going to help out Religion in providing those that could listen with a more tangible and therefore, reliable explanation and that it might be a good idea to explain those beautiful objects we see in the sky, which also aren't tangible. 
 ## 

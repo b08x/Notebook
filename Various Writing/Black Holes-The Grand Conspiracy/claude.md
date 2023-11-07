@@ -1,3 +1,6 @@
+---
+---
+
 
 ##### Complete this thought: The eye cannot track the object quickly enough, and the image of the object becomes blurred. The brain compensates for this blurring by..."
 

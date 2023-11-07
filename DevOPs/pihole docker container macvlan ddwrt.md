@@ -1,8 +1,10 @@
+---
+---
+
 ## create macvlan connection
 #linux #networking #networkmanager
 
 Create the macvlan connection using `nmcli`
-
 
 ```bash
 sudo nmcli connection edit

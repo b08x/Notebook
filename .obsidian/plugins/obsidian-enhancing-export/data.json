@@ -53,5 +53,11 @@
     }
   ],
   "defaultExportDirectoryMode": "Auto",
-  "openExportedFile": true
+  "openExportedFile": true,
+  "env": {},
+  "showExportProgressBar": true,
+  "lastExportDirectory": {
+    "linux": "/home/b08x/Desktop/b08x.github.io"
+  },
+  "lastExportType": "Html"
 }

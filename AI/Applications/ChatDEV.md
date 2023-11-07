@@ -1,3 +1,6 @@
+---
+---
+
 
 ```bash
 "create a series of latex documents that show custom keybindings for i3, sxhkd, lazyvim, zsh and custom aliases"

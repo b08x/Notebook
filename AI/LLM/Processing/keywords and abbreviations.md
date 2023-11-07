@@ -1,3 +1,6 @@
+---
+---
+
 
 ```jsonl
 {"Abbreviation": "ADC", "Definition": "Analog to Digital Converter"}

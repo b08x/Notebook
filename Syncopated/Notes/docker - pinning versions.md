@@ -1,3 +1,6 @@
+---
+---
+
 
 It makes sense to do this, but in practice, sometimes it turns out to be a waste of time. This week I attempted to revive two projects that haven't been updated in ~2 years. Both projects presented headaches in the form of versioned packages that were no longer available. 
 

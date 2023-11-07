@@ -1,3 +1,6 @@
+---
+---
+
 
 ![](Pasted%20image%2020231010175152.png)
 page 294 Godel Escher Bach
