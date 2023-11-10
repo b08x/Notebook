@@ -1,7 +1,7 @@
 {
   "accentColor": "#0b4784",
   "cssTheme": "Maple",
-  "interfaceFontFamily": "Hack Nerd Font,Source Code Pro",
+  "interfaceFontFamily": "Hack Nerd Font,FiraCode Nerd Font Mono,mononoki Nerd Font",
   "textFontFamily": "Hack Nerd Font",
   "monospaceFontFamily": "Hack Nerd Font Mono",
   "baseFontSize": 16,

@@ -24,7 +24,7 @@ sentences = [
   "In JACK, audio routing involves establishing connections between audio sources and destinations, enabling precise control over how audio flows through the system.",
   "Understanding JACK audio routing is crucial for efficiently managing complex audio setups in professional music production or audio engineering environments.",
   "While discussing audio routing, it's important to mention the role of buffers in managing latency within the JACK system.",
-  "A squirrel ran across the backyard as I was trying to grasp the concept of JACK audio routing. (Unrelated sentence)"
+  "A squirrel ran across the backyard as I was trying contact Jack. (Unrelated sentence)"
 ]
 
 ```

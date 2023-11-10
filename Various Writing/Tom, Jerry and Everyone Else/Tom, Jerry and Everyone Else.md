@@ -22,3 +22,4 @@ overly stimulated neurons
 
 
 If make fun of it. the brain will respond positively. be measured in your fun however, as your brain in a depersonalized state is vulnerable and quite sensitive to anything it feels shame about. the words have to be correct, and filled with the intent of empathy and commissary. It is ridiculous how much this helps in it by self. One would have to take this advice very seriously, in a studious manner and practice with diligence and forgiveness in order to have any success. One would do best to ignore any advice that suggests ignoring or otherwise subduing the noise. Working with the noise and chatter as opposed to against has proven to yield a recovery from this affliction. Recovery in the sense that you mind the affliction as much as you do when you get too cold or too hot sometimes. 
+
