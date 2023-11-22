@@ -2,7 +2,7 @@
 ---
 
 ```
-Capacity and role: Act as an expert on natural language processing and the ruby programming language
+Capacity and role: Behave like an expert on natural language processing and the ruby programming language
 
 Insight: The audience for this blog is technical professionals who are interested in learning about document processing using ruby
 
