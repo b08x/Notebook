@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d015b41789e14c72",
+        "id": "647707b884448db0",
         "type": "tabs",
         "children": [
           {
-            "id": "904d28b7af95da55",
+            "id": "ec2017139c9ee102",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "AI/Applications/wordcraft.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "buffer",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 363.5
   },
   "right": {
     "id": "de5b2b7c9ff73890",
@@ -100,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Prompt Engineering/characters/transcripts/marvel/**THE AVENGERS**.md",
+                "file": "AI/Applications/wordcraft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Prompt Engineering/characters/transcripts/marvel/**THE AVENGERS**.md",
+                "file": "AI/Applications/wordcraft.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Prompt Engineering/characters/transcripts/marvel/**THE AVENGERS**.md"
+                "file": "AI/Applications/wordcraft.md"
               }
             }
           },
@@ -175,8 +179,29 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "904d28b7af95da55",
+  "active": "ec2017139c9ee102",
   "lastOpenFiles": [
+    "AI/Applications/ChatDev/example.md",
+    "AI/Applications/Untitled 1.md",
+    "AI/Applications/Untitled.md",
+    "AI/Applications/ChatDev/ChatDev.md",
+    "AI/Applications/ChatDev/Untitled 2.md",
+    "AI/Applications/ChatDev",
+    "Untitled.canvas",
+    "Untitled.md",
+    "Untitled/Untitled.md",
+    "AI/Prompt Engineering/characters/Steve Tomotolier.md",
+    "Untitled",
+    "AI/Prompt Engineering/characters/transcripts/uncle bob solid principles.md",
+    "AI/LLM/Retrieval.md",
+    "AI/Prompt Engineering/prompts/default.md",
+    "AI/Prompt Engineering/prompts/FlowGPT.md",
+    "AI/Prompt Engineering/prompts/InterviewTool.md",
+    "Desktop/Desktop.md",
+    "AI/AI.md",
+    "Various Writing/Tom and Jerry/Untitled.md",
+    "Various Writing/Tom and Jerry/Total_otherness_in_dissociative_identity.pdf",
+    "Various Writing/Various Writing.md",
     "AI/Prompt Engineering/characters/transcripts/marvel/marvel.md",
     "AI/Prompt Engineering/characters/transcripts/marvel/**THE AVENGERS**.md",
     "AI/Prompt Engineering/characters/transcripts/Untitled.md",
@@ -184,31 +209,13 @@
     "AI/Prompt Engineering/characters/transcripts/mixing masterclass with bob power.md",
     "AI/Prompt Engineering/characters/transcripts/music theory-harmonics and overtones.md",
     "AI/Prompt Engineering/characters/transcripts/music theory-consonance, dissonance and creation of a first musical scale.md",
-    "Untitled.md",
     "AI/LLM/Database/graph database/graph database.md",
     "AI/Prompt Engineering/CRISPE.md",
     "Audio/Onotology/Onotology.md",
-    "Audio/Music/Music.md",
-    "AI/Prompt Engineering/parameters/openai/openai.md",
-    "AI/LLM/Database/Database.md",
-    "Syncopated/laudLLM/JackQA.md",
-    "AI/Applications/Applications.md",
-    "Syncopated/laudLLM/Gems.md",
-    "AI/LLM/Retrieval.md",
-    "Syncopated/Notes/Notes.md",
-    "Syncopated/Linux/Ambisonics/Ambisonics.md",
-    "Syncopated/Linux/Ambisonics/Ambix.md",
-    "Syncopated/Linux/Linux.md",
-    "Syncopated/laudLLM/monadic-ragtime/monadic-ragtime.md",
     "Syncopated/laudLLM/attachments/Pasted image 20231010164114.png",
-    "Syncopated/laudLLM/agentgpt_results/agentgpt_results.md",
-    "Syncopated/laudLLM/laudLLM.md",
-    "Syncopated/Syncopated.md",
-    "Desktop/Desktop.md",
     "Audio/Onotology/The_Music_Ontology.pdf",
     "Syncopated/Notes/ElevenLabs_2023-10-12T17_01_16_miss jane_gen_s75_sb75_se38_b_m2.mp3",
     "Syncopated/Notes/ElevenLabs_2023-10-12T17_07_40_Reginald - Cool, Calm, Intelligent British Narrator_gen_s50_sb75_se0_b_m2.mp3",
-    "Untitled.canvas",
     "Syncopated/laudLLM/attachments/Pasted image 20231005015604.png",
     "Syncopated/laudLLM/attachments/Pasted image 20231005015434.png",
     "Syncopated/laudLLM/agentgpt_results/agentGPT_01.pdf",
@@ -216,12 +223,9 @@
     "Daily/attachments/Recording 20231027051501.webm",
     "AI/Applications/Flowise/attachments/Pasted image 20231012002643.png",
     "AI/Applications/Flowise/attachments/Pasted image 20231012002340.png",
-    "Linux/X11",
     "DevOPs/attachments/Pasted image 20231029202308.png",
     "DevOPs/attachments/Pasted image 20231029202237.png",
     "DevOPs/attachments/Pasted image 20231029202232.png",
-    "DevOPs/attachments",
-    "Audio/Onotology/Unconfirmed 448388.crdownload",
     "Linux/Realtime/research/attachments/Pasted image 20231019224748.png",
     "AI/LLM/Processing/attachments/Pasted image 20231018003950.png",
     "Linux/Audio/Untitled.canvas",
