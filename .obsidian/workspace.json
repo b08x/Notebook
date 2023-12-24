@@ -4,33 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "61ce0c36d89faf02",
+        "id": "04628c7f37e2ff94",
         "type": "tabs",
         "children": [
           {
-            "id": "0bca589de13ebb2d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Notebook.canvas",
-                "viewState": {
-                  "x": -520,
-                  "y": -1000,
-                  "zoom": 0
-                }
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "e00f2e20cf7902c7",
+            "id": "9f2cb9b07f23c82d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-12-20.md",
+                "file": "Daily/2023-12-21.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c790e3fa470f33c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2023-12-21.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-12-20.md",
+                "file": "Daily/2023-12-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-12-20.md",
+                "file": "Daily/2023-12-21.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-12-20.md"
+                "file": "Daily/2023-12-21.md"
               }
             }
           },
@@ -197,12 +192,18 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "e00f2e20cf7902c7",
+  "active": "c790e3fa470f33c6",
   "lastOpenFiles": [
+    "Daily/How I Met *Your* Mother.md",
+    "Daily/2023-12-21.md",
+    "Various Writing/Tom and Jerry/Total_otherness_in_dissociative_identity.pdf",
+    "Various Writing/Tom and Jerry/Tom and Jerry.md",
+    "Various Writing/Various Writing.md",
+    "Daily/attachments/Pasted image 20231221070508.png",
+    "Daily/2023-12-20.md",
     "Daily/attachments/Pasted image 20231220073819.png",
     "Daily/attachments/Pasted image 20231220073529.png",
     "Notebook.canvas",
-    "Daily/2023-12-20.md",
     "Writing Techniques/Writing Techniques.md",
     "Writing Techniques/Writing Styles.md",
     "Writing Techniques/Synonyms for \"rewrite\".md",
@@ -228,24 +229,18 @@
     "Daily/2023-10-10.md",
     "Daily/2023-10-09.md",
     "Daily/2023-10-03.md",
-    "Daily/attachments/attachments.md",
     "Daily/attachments/Recording 20231027051501.webm",
     "Daily/attachments/Recording 20231027152953.webm",
-    "Audio/Onotology/Onotology.md",
-    "Audio/Music/Music.md",
     "Syncopated/laudLLM/agentgpt_results/agentGPT_01.pdf",
     "Syncopated/laudLLM/attachments/Pasted image 20231010164114.png",
     "Syncopated/laudLLM/attachments/Pasted image 20231005015604.png",
     "Syncopated/laudLLM/attachments/Pasted image 20231005015434.png",
     "AI/Applications/ChatDev",
     "Untitled",
-    "Various Writing/Tom and Jerry/Total_otherness_in_dissociative_identity.pdf",
     "AI/Prompt Engineering/characters/transcripts/marvel",
     "Audio/Onotology/The_Music_Ontology.pdf",
     "Syncopated/Notes/ElevenLabs_2023-10-12T17_01_16_miss jane_gen_s75_sb75_se38_b_m2.mp3",
     "AI/Applications/Flowise/attachments/Pasted image 20231012002643.png",
-    "AI/Applications/Flowise/attachments/Pasted image 20231012002340.png",
-    "Linux/Realtime/research/attachments/Pasted image 20231019224748.png",
     "Linux/Audio/Untitled.canvas",
     "Writing/Songs/Untitled.canvas",
     "Projects/Syncopated Studio/Canvas.canvas",
