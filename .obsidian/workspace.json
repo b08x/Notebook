@@ -50,13 +50,15 @@
           {
             "id": "b281e195a98544c5",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-12-31.md",
+                "file": "AI/Prompt Engineering/Prompt Engineering.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
@@ -68,9 +70,21 @@
                 "file": "resume.pdf"
               }
             }
+          },
+          {
+            "id": "fc7b271f96f623fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2023-12-31.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -120,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 284.5
   },
   "right": {
     "id": "de5b2b7c9ff73890",
@@ -232,10 +246,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b281e195a98544c5",
+  "active": "fc7b271f96f623fd",
   "lastOpenFiles": [
-    "AI/Prompt Engineering/characters/Steve Tomotolier.md",
+    "AI/Prompt Engineering/Prompt Engineering.md",
     "Daily/2023-12-31.md",
+    "AI/Prompt Engineering/characters/Steve Tomotolier.md",
     "Syncopated/laudLLM/agentgpt_results/agentGPT_01.md",
     "Various Writing/Black Holes-The Grand Conspiracy/claude.md",
     "Syncopated/laudLLM/laudLLM.md",
@@ -266,7 +281,6 @@
     "AI/AI.md",
     "AI/LLM/LLM.md",
     "AI/Prompt Engineering/characters/transcripts/Clear Instrumentos SFZ - Master Class.md",
-    "AI/Prompt Engineering/characters/transcripts/TouchOSC Deep Dive.md",
     "Notebook.canvas",
     "Various Writing/Tom and Jerry/Total_otherness_in_dissociative_identity.pdf",
     "Daily/attachments/Pasted image 20231221070508.png",
