@@ -22,32 +22,6 @@
             }
           },
           {
-            "id": "8206c2b4df94888e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "rwpannick_resume_latest.pdf"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "e8bfd6e6ab7e4aa3",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "resume.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "b281e195a98544c5",
             "type": "leaf",
             "pinned": true,
@@ -59,16 +33,6 @@
                 "source": false
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "992fca1011684b78",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "resume.pdf"
-              }
             }
           },
           {
@@ -84,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-12-31.md",
+                "file": "AI/Prompt Engineering/Prompt Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-12-31.md",
+                "file": "AI/Prompt Engineering/Prompt Engineering.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -198,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-12-31.md"
+                "file": "AI/Prompt Engineering/Prompt Engineering.md"
               }
             }
           },
@@ -246,10 +210,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "fc7b271f96f623fd",
+  "active": "b281e195a98544c5",
   "lastOpenFiles": [
+    "resume.pdf",
     "AI/Prompt Engineering/Prompt Engineering.md",
+    "Daily/How I Met *Your* Mother.md",
+    "rwpannick_resume_latest.pdf",
     "Daily/2023-12-31.md",
+    "resume.md",
     "AI/Prompt Engineering/characters/Steve Tomotolier.md",
     "Syncopated/laudLLM/agentgpt_results/agentGPT_01.md",
     "Various Writing/Black Holes-The Grand Conspiracy/claude.md",
@@ -263,12 +231,8 @@
     "AI/Prompt Engineering/characters/transcripts/uncle bob solid principles.md",
     "Daily/2023-11-08.md",
     "Daily/2023-12-30.md",
-    "resume.pdf",
-    "resume.md",
     "pygments.theme",
     "Untitled.md",
-    "rwpannick_resume_latest.pdf",
-    "Daily/How I Met *Your* Mother.md",
     "_temp.html",
     "resumev2.pdf",
     "rwpannick_resume_latest.pdf.crdownload",
@@ -280,7 +244,6 @@
     "AI/Applications/wordcraft.md",
     "AI/AI.md",
     "AI/LLM/LLM.md",
-    "AI/Prompt Engineering/characters/transcripts/Clear Instrumentos SFZ - Master Class.md",
     "Notebook.canvas",
     "Various Writing/Tom and Jerry/Total_otherness_in_dissociative_identity.pdf",
     "Daily/attachments/Pasted image 20231221070508.png",
