@@ -71,7 +71,7 @@ response = `curl https://api-inference.huggingface.co/models/SetFit/MiniLM_L3_cl
 	-X POST \
 	-d json_object \
 	-H 'Content-Type: application/json' \
-	-H "Authorization: Bearer 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"
+	-H "Authorization: Bearer $HUGGINGFACE_API_KEY"
 `
 p response
 

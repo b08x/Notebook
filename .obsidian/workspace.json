@@ -4,35 +4,73 @@
     "type": "split",
     "children": [
       {
-        "id": "04628c7f37e2ff94",
+        "id": "11719f57817a1d9e",
         "type": "tabs",
         "children": [
           {
-            "id": "9f2cb9b07f23c82d",
+            "id": "19e4f0ee47b07c6e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/How I Met *Your* Mother.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "8206c2b4df94888e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "rwpannick_resume_latest.pdf"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "e8bfd6e6ab7e4aa3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "resume.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "b281e195a98544c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-12-21.md",
+                "file": "Daily/2023-12-31.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c790e3fa470f33c6",
+            "id": "992fca1011684b78",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Daily/2023-12-21.md",
-                "mode": "source",
-                "source": false
+                "file": "resume.pdf"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -61,12 +99,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "buffer",
+                "query": "Tom",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": true,
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -82,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 286.5
   },
   "right": {
     "id": "de5b2b7c9ff73890",
@@ -117,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-12-21.md",
+                "file": "Daily/2023-12-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-12-21.md",
+                "file": "Daily/2023-12-31.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-12-21.md"
+                "file": "Daily/2023-12-31.md"
               }
             }
           },
@@ -156,7 +194,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -186,60 +226,60 @@
       "workspaces:Manage workspace layouts": false,
       "markdown-importer:Open format converter": false,
       "audio-recorder:Start/stop recording": false,
-      "markdown-table-editor:Open Markdown Table Editor": false,
-      "homepage:Open homepage": false,
       "omnisearch:Omnisearch": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "c790e3fa470f33c6",
+  "active": "b281e195a98544c5",
   "lastOpenFiles": [
-    "Daily/How I Met *Your* Mother.md",
-    "Daily/2023-12-21.md",
-    "Various Writing/Tom and Jerry/Total_otherness_in_dissociative_identity.pdf",
-    "Various Writing/Tom and Jerry/Tom and Jerry.md",
-    "Various Writing/Various Writing.md",
-    "Daily/attachments/Pasted image 20231221070508.png",
-    "Daily/2023-12-20.md",
-    "Daily/attachments/Pasted image 20231220073819.png",
-    "Daily/attachments/Pasted image 20231220073529.png",
-    "Notebook.canvas",
-    "Writing Techniques/Writing Techniques.md",
+    "AI/Prompt Engineering/characters/Steve Tomotolier.md",
+    "Daily/2023-12-31.md",
+    "Syncopated/laudLLM/agentgpt_results/agentGPT_01.md",
+    "Various Writing/Black Holes-The Grand Conspiracy/claude.md",
+    "Syncopated/laudLLM/laudLLM.md",
     "Writing Techniques/Writing Styles.md",
+    "AI/LLM/Retrieval.md",
+    "AI/LLM/Training.md",
+    "AI/Prompt Engineering/characters/transcripts/Open Source Audio Success, Failure and The In-Between - Paul Davis.md",
+    "AI/Prompt Engineering/characters/transcripts/sound design course.md",
+    "AI/Prompt Engineering/characters/transcripts/marvel/**THE AVENGERS**.md",
+    "AI/Prompt Engineering/characters/transcripts/uncle bob solid principles.md",
+    "Daily/2023-11-08.md",
+    "Daily/2023-12-30.md",
+    "resume.pdf",
+    "resume.md",
+    "pygments.theme",
+    "Untitled.md",
+    "rwpannick_resume_latest.pdf",
+    "Daily/How I Met *Your* Mother.md",
+    "_temp.html",
+    "resumev2.pdf",
+    "rwpannick_resume_latest.pdf.crdownload",
+    "resumev2.pdf.crdownload",
     "Writing Techniques/Synonyms for \"rewrite\".md",
     "Writing Techniques/Dialogue Tone.md",
     "Writing Techniques/Descriptive writing techniques.md",
+    "Linux/input-remapper.md",
+    "AI/Applications/wordcraft.md",
+    "AI/AI.md",
+    "AI/LLM/LLM.md",
+    "AI/Prompt Engineering/characters/transcripts/Clear Instrumentos SFZ - Master Class.md",
+    "AI/Prompt Engineering/characters/transcripts/TouchOSC Deep Dive.md",
+    "Notebook.canvas",
+    "Various Writing/Tom and Jerry/Total_otherness_in_dissociative_identity.pdf",
+    "Daily/attachments/Pasted image 20231221070508.png",
+    "Daily/attachments/Pasted image 20231220073819.png",
+    "Daily/attachments/Pasted image 20231220073529.png",
     "Writing Techniques",
-    "DevOPs/terraform.md",
-    "Syncopated/Linux/Linux.md",
-    "DevOPs/pihole docker container macvlan ddwrt.md",
-    "DevOPs/docker.md",
     "DevOPs/attachments/Pasted image 20231029202308.png",
     "DevOPs/attachments/Pasted image 20231029202232.png",
     "DevOPs/attachments/Pasted image 20231029202237.png",
-    "DevOPs/attachments/attachments.md",
-    "Daily/2023-11-08.md",
-    "Daily/2023-10-30.md",
-    "Daily/2023-10-29.md",
-    "Daily/2023-10-27.md",
-    "Daily/2023-10-26.md",
-    "Daily/2023-10-20.md",
-    "Daily/2023-10-19.md",
-    "Daily/2023-10-12.md",
-    "Daily/2023-10-10.md",
-    "Daily/2023-10-09.md",
-    "Daily/2023-10-03.md",
     "Daily/attachments/Recording 20231027051501.webm",
-    "Daily/attachments/Recording 20231027152953.webm",
-    "Syncopated/laudLLM/agentgpt_results/agentGPT_01.pdf",
     "Syncopated/laudLLM/attachments/Pasted image 20231010164114.png",
     "Syncopated/laudLLM/attachments/Pasted image 20231005015604.png",
     "Syncopated/laudLLM/attachments/Pasted image 20231005015434.png",
-    "AI/Applications/ChatDev",
-    "Untitled",
-    "AI/Prompt Engineering/characters/transcripts/marvel",
-    "Audio/Onotology/The_Music_Ontology.pdf",
-    "Syncopated/Notes/ElevenLabs_2023-10-12T17_01_16_miss jane_gen_s75_sb75_se38_b_m2.mp3",
     "AI/Applications/Flowise/attachments/Pasted image 20231012002643.png",
     "Linux/Audio/Untitled.canvas",
     "Writing/Songs/Untitled.canvas",
