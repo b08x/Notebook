@@ -97,6 +97,18 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "7ca5ab597ab5d0be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Syncopated/syncopatedNotes/syncopatedNotes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "stacked": true
@@ -149,7 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 399.5
   },
   "right": {
     "id": "de5b2b7c9ff73890",
@@ -263,9 +275,12 @@
   },
   "active": "f4d32f99312b8460",
   "lastOpenFiles": [
+    "Syncopated/syncopatedNotes/syncopatedNotes.md",
+    "Syncopated/syncopatedLLM/syncopatedLLM.md",
+    "Syncopated/Syncopated.md",
     "AI/Prompt Engineering/Prompt Engineering.md",
-    "Daily/How I Met *Your* Mother.md",
     "Daily/2024-01-02.md",
+    "Daily/How I Met *Your* Mother.md",
     "Daily/2023-12-31.md",
     "Various Writing/personal transcripts/personal transcripts.md",
     "AI/Prompt Engineering/character personas/Steve Tomotolier.md",
@@ -291,24 +306,21 @@
     "Various Writing/personal transcripts/transcript.en.srt",
     "Various Writing/transcripts/transcript.en.ttml",
     "Various Writing/transcripts/transcript.en.ttml.part",
-    "Syncopated/laudLLM/agentgpt_results/agentGPT_01.md",
+    "Syncopated/syncopatedLLM/agentgpt_results/agentGPT_01.md",
     "Various Writing/Black Holes-The Grand Conspiracy/claude.md",
-    "Syncopated/laudLLM/laudLLM.md",
     "Writing Techniques/Writing Styles.md",
     "AI/LLM/Retrieval.md",
     "AI/LLM/Training.md",
     "AI/Prompt Engineering/character personas/transcripts/Open Source Audio Success, Failure and The In-Between - Paul Davis.md",
-    "AI/Prompt Engineering/character personas/transcripts/sound design course.md",
-    "AI/Prompt Engineering/character personas/transcripts/marvel/**THE AVENGERS**.md",
     "Daily/attachments/Pasted image 20231221070508.png",
     "Daily/attachments/Pasted image 20231220073819.png",
     "Daily/attachments/Pasted image 20231220073529.png",
     "DevOPs/attachments/Pasted image 20231029202308.png",
     "DevOPs/attachments/Pasted image 20231029202232.png",
     "DevOPs/attachments/Pasted image 20231029202237.png",
-    "Syncopated/laudLLM/attachments/Pasted image 20231010164114.png",
-    "Syncopated/laudLLM/attachments/Pasted image 20231005015604.png",
-    "Syncopated/laudLLM/attachments/Pasted image 20231005015434.png",
+    "Syncopated/syncopatedLLM/attachments/Pasted image 20231010164114.png",
+    "Syncopated/syncopatedLLM/attachments/Pasted image 20231005015604.png",
+    "Syncopated/syncopatedLLM/attachments/Pasted image 20231005015434.png",
     "AI/Applications/Flowise/attachments/Pasted image 20231012002643.png",
     "Linux/Audio/Untitled.canvas",
     "Writing/Songs/Untitled.canvas",

@@ -2,23 +2,21 @@
 ---
 
 
-Well, ya see...syncopated (say it) comprises of:
+# syncopatedOS
+the operating system
 
----
- 
-Ansible: The Collection
-	 * configures audio workstations|servers|nodes
 
----
+# syncopatedIaC
+configures audio workstations|servers|nodes
 
-Linux: The Operating System
-	 * cachyOS/xenonami
+# syncopatedLLM
+an operating system AI assistant
 
----
 
-[Syncopated Notes](Syncopated/Notes/Notes.md): The Observation and Documentation Broadcast System 
 
----
+
+[Syncopated Notes](syncopatedNotes.md): The Observation and Documentation Broadcast System 
+
 
 
 
