@@ -6,6 +6,7 @@
       {
         "id": "11719f57817a1d9e",
         "type": "tabs",
+        "dimension": 61.45139813581891,
         "children": [
           {
             "id": "19e4f0ee47b07c6e",
@@ -74,21 +75,31 @@
               },
               "pinned": true
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "cb3a0d520fc7d123",
+        "type": "tabs",
+        "dimension": 38.548601864181094,
+        "children": [
           {
             "id": "f4d32f99312b8460",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Daily/2024-01-02.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
-        "currentTab": 5
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -173,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-01-02.md",
+                "file": "AI/Prompt Engineering/Prompt Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-01-02.md",
+                "file": "AI/Prompt Engineering/Prompt Engineering.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -202,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-01-02.md"
+                "file": "AI/Prompt Engineering/Prompt Engineering.md"
               }
             }
           },
@@ -250,19 +261,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f4d32f99312b8460",
+  "active": "b281e195a98544c5",
   "lastOpenFiles": [
     "Daily/How I Met *Your* Mother.md",
     "Daily/2024-01-02.md",
+    "Daily/2023-12-31.md",
+    "Various Writing/personal transcripts/personal transcripts.md",
+    "AI/Prompt Engineering/character personas/Steve Tomotolier.md",
     "Daily/2024-01-02_19-24-10.md",
     "Daily/2024-01-02_19-23-45.md",
-    "AI/Prompt Engineering/character personas/Steve Tomotolier.md",
     "Daily/2024-01-02_19-21-28.md",
     "Daily/2024-01-02_19-20-00.md",
     "Daily/2024-01-02_19-20-32.md",
-    "Daily/2023-12-31.md",
     "AI/Prompt Engineering/character personas/character personas.md",
-    "Various Writing/personal transcripts/personal transcripts.md",
     "Untitled.md",
     "rwpannick_resume_latest.pdf",
     "resumev2.pdf",
