@@ -1,0 +1,4996 @@
+1
+00:01:58,840 --> 00:02:01,840
+<font color="white" size=".72c">for</font>
+
+2
+00:02:28,760 --> 00:02:31,760
+<font color="white" size=".72c">for</font>
+
+3
+00:02:51,010 --> 00:02:55,070
+<font color="white" size=".72c">[Music]</font>
+
+4
+00:02:58,760 --> 00:03:04,519
+<font color="white" size=".72c">h</font>
+
+5
+00:03:01,519 --> 00:03:04,519
+<font color="white" size=".72c">pantaloons</font>
+
+6
+00:03:28,680 --> 00:03:31,680
+<font color="white" size=".72c">pantaloons</font>
+
+7
+00:03:36,880 --> 00:03:40,079
+<font color="white" size=".72c">[Music]</font>
+
+8
+00:03:48,519 --> 00:03:52,319
+<font color="white" size=".72c">particles pantaloons</font>
+
+9
+00:03:50,640 --> 00:03:55,319
+<font color="white" size=".72c">[Music]</font>
+
+10
+00:03:52,319 --> 00:03:55,319
+<font color="white" size=".72c">particulars</font>
+
+11
+00:03:58,680 --> 00:04:03,439
+<font color="white" size=".72c">particular</font>
+
+12
+00:04:00,200 --> 00:04:03,439
+<font color="white" size=".72c">it's that time of</font>
+
+13
+00:04:09,040 --> 00:04:14,599
+<font color="white" size=".72c">year porcupine</font>
+
+14
+00:04:12,280 --> 00:04:17,519
+<font color="white" size=".72c">possum</font>
+
+15
+00:04:14,599 --> 00:04:21,079
+<font color="white" size=".72c">particular uh</font>
+
+16
+00:04:17,519 --> 00:04:21,079
+<font color="white" size=".72c">pandas P</font>
+
+17
+00:04:24,210 --> 00:04:31,600
+<font color="white" size=".72c">[Music]</font>
+
+18
+00:04:28,400 --> 00:04:31,600
+<font color="white" size=".72c">pandas okay</font>
+
+19
+00:04:58,600 --> 00:05:06,639
+<font color="white" size=".72c">well there's defin lag in the video</font>
+
+20
+00:05:02,960 --> 00:05:06,639
+<font color="white" size=".72c">performance when switching between</font>
+
+21
+00:05:07,960 --> 00:05:17,039
+<font color="white" size=".72c">Windows as just say to move this to a</font>
+
+22
+00:05:12,680 --> 00:05:21,270
+<font color="white" size=".72c">floating there's a bit of delay</font>
+
+23
+00:05:17,039 --> 00:05:24,080
+<font color="white" size=".72c">there but I suspect that has to do with</font>
+
+24
+00:05:21,270 --> 00:05:27,160
+<font color="white" size=".72c">[Music]</font>
+
+25
+00:05:24,080 --> 00:05:31,160
+<font color="white" size=".72c">um the the two monitors that are that</font>
+
+26
+00:05:27,160 --> 00:05:32,720
+<font color="white" size=".72c">are um connected to</font>
+
+27
+00:05:31,160 --> 00:05:37,000
+<font color="white" size=".72c">the</font>
+
+28
+00:05:32,720 --> 00:05:42,440
+<font color="white" size=".72c">external GPU um are different</font>
+
+29
+00:05:37,000 --> 00:05:42,440
+<font color="white" size=".72c">resolutions so I think that</font>
+
+30
+00:05:51,210 --> 00:05:54,740
+<font color="white" size=".72c">[Music]</font>
+
+31
+00:05:58,479 --> 00:06:04,520
+<font color="white" size=".72c">um</font>
+
+32
+00:06:01,000 --> 00:06:04,520
+<font color="white" size=".72c">all right so back</font>
+
+33
+00:06:28,400 --> 00:06:31,400
+<font color="white" size=".72c">to</font>
+
+34
+00:06:31,510 --> 00:06:42,490
+<font color="white" size=".72c">[Music]</font>
+
+35
+00:06:53,919 --> 00:06:56,560
+<font color="white" size=".72c">variable</font>
+
+36
+00:06:58,400 --> 00:07:01,400
+<font color="white" size=".72c">bandwidth</font>
+
+37
+00:07:58,319 --> 00:08:01,319
+<font color="white" size=".72c">for</font>
+
+38
+00:08:28,240 --> 00:08:31,240
+<font color="white" size=".72c">for</font>
+
+39
+00:08:58,200 --> 00:09:01,200
+<font color="white" size=".72c">h</font>
+
+40
+00:09:28,120 --> 00:09:31,120
+<font color="white" size=".72c">back</font>
+
+41
+00:09:58,120 --> 00:10:01,120
+<font color="white" size=".72c">for</font>
+
+42
+00:10:28,040 --> 00:10:31,040
+<font color="white" size=".72c">for</font>
+
+43
+00:10:38,030 --> 00:10:41,210
+<font color="white" size=".72c">[Music]</font>
+
+44
+00:10:58,040 --> 00:11:01,040
+<font color="white" size=".72c">that's</font>
+
+45
+00:11:47,399 --> 00:11:52,480
+<font color="white" size=".72c">I had been</font>
+
+46
+00:11:49,240 --> 00:11:56,240
+<font color="white" size=".72c">practicing practicing that</font>
+
+47
+00:11:52,480 --> 00:11:57,959
+<font color="white" size=".72c">maneuver for a um comically madeup</font>
+
+48
+00:11:56,240 --> 00:12:00,959
+<font color="white" size=".72c">period of</font>
+
+49
+00:11:57,959 --> 00:12:00,959
+<font color="white" size=".72c">time</font>
+
+50
+00:12:06,320 --> 00:12:09,519
+<font color="white" size=".72c">huh yeah</font>
+
+51
+00:12:17,310 --> 00:12:20,600
+<font color="white" size=".72c">[Music]</font>
+
+52
+00:12:21,760 --> 00:12:26,800
+<font color="white" size=".72c">okay so the reason why I'm</font>
+
+53
+00:12:27,519 --> 00:12:33,399
+<font color="white" size=".72c">procrastinating I have sought out</font>
+
+54
+00:12:30,560 --> 00:12:34,399
+<font color="white" size=".72c">initially to accomplish a different set</font>
+
+55
+00:12:33,399 --> 00:12:36,880
+<font color="white" size=".72c">of</font>
+
+56
+00:12:34,399 --> 00:12:40,199
+<font color="white" size=".72c">tasks um but one thing that's been</font>
+
+57
+00:12:36,880 --> 00:12:40,199
+<font color="white" size=".72c">bothering me</font>
+
+58
+00:12:42,680 --> 00:12:48,880
+<font color="white" size=".72c">recently I'll I'll I'll rephrase they'll</font>
+
+59
+00:12:45,560 --> 00:12:54,490
+<font color="white" size=".72c">say an issue that I've been</font>
+
+60
+00:12:48,880 --> 00:12:56,760
+<font color="white" size=".72c">experiencing um recently is um video</font>
+
+61
+00:12:54,490 --> 00:13:01,560
+<font color="white" size=".72c">[Music]</font>
+
+62
+00:12:56,760 --> 00:13:01,560
+<font color="white" size=".72c">stutter or tearing believe is</font>
+
+63
+00:13:07,959 --> 00:13:12,079
+<font color="white" size=".72c">the so</font>
+
+64
+00:13:16,600 --> 00:13:20,800
+<font color="white" size=".72c">um by the by the way apparently if you</font>
+
+65
+00:13:19,560 --> 00:13:25,160
+<font color="white" size=".72c">have blue</font>
+
+66
+00:13:20,800 --> 00:13:30,760
+<font color="white" size=".72c">eyes um you are prone to</font>
+
+67
+00:13:25,160 --> 00:13:30,760
+<font color="white" size=".72c">alcoholism according to one person</font>
+
+68
+00:13:32,000 --> 00:13:35,240
+<font color="white" size=".72c">I I don't</font>
+
+69
+00:13:39,560 --> 00:13:46,199
+<font color="white" size=".72c">know something about that sort of</font>
+
+70
+00:13:41,720 --> 00:13:50,079
+<font color="white" size=".72c">bothers me but anyway it's um this one</font>
+
+71
+00:13:46,199 --> 00:13:53,880
+<font color="white" size=".72c">of those generalizations I guess</font>
+
+72
+00:13:50,079 --> 00:13:57,160
+<font color="white" size=".72c">um so yeah screen tearing</font>
+
+73
+00:13:53,880 --> 00:13:57,160
+<font color="white" size=".72c">um right</font>
+
+74
+00:13:57,759 --> 00:14:03,320
+<font color="white" size=".72c">now</font>
+
+75
+00:13:59,839 --> 00:14:06,880
+<font color="white" size=".72c">the host is using the default</font>
+
+76
+00:14:03,320 --> 00:14:06,880
+<font color="white" size=".72c">Intel driver</font>
+
+77
+00:14:07,740 --> 00:14:15,240
+<font color="white" size=".72c">[Music]</font>
+
+78
+00:14:11,000 --> 00:14:18,440
+<font color="white" size=".72c">packages which have not been the most</font>
+
+79
+00:14:15,240 --> 00:14:20,240
+<font color="white" size=".72c">Cooperative to use at least in my</font>
+
+80
+00:14:18,440 --> 00:14:22,399
+<font color="white" size=".72c">particular setup</font>
+
+81
+00:14:20,240 --> 00:14:25,120
+<font color="white" size=".72c">here so what</font>
+
+82
+00:14:22,399 --> 00:14:29,639
+<font color="white" size=".72c">I'm going to try to do</font>
+
+83
+00:14:25,120 --> 00:14:32,680
+<font color="white" size=".72c">now is to uh run A</font>
+
+84
+00:14:29,639 --> 00:14:38,839
+<font color="white" size=".72c">playbook that</font>
+
+85
+00:14:32,680 --> 00:14:41,910
+<font color="white" size=".72c">will um re yeah it'll remove the Intel</font>
+
+86
+00:14:38,839 --> 00:14:44,960
+<font color="white" size=".72c">drivers install the</font>
+
+87
+00:14:41,910 --> 00:14:44,960
+<font color="white" size=".72c">[Music]</font>
+
+88
+00:14:45,639 --> 00:14:52,010
+<font color="white" size=".72c">xorg I the reference to notes that uh</font>
+
+89
+00:14:49,800 --> 00:14:53,399
+<font color="white" size=".72c">the the mode setting</font>
+
+90
+00:14:52,010 --> 00:14:57,160
+<font color="white" size=".72c">[Music]</font>
+
+91
+00:14:53,399 --> 00:15:00,839
+<font color="white" size=".72c">drivers had better success with those uh</font>
+
+92
+00:14:57,160 --> 00:15:04,040
+<font color="white" size=".72c">than having to um</font>
+
+93
+00:15:00,839 --> 00:15:07,560
+<font color="white" size=".72c">specify uh to to</font>
+
+94
+00:15:04,040 --> 00:15:10,480
+<font color="white" size=".72c">not it's an odd option screen teing uh</font>
+
+95
+00:15:07,560 --> 00:15:13,560
+<font color="white" size=".72c">needs to be set as an perimeter or an</font>
+
+96
+00:15:10,480 --> 00:15:16,959
+<font color="white" size=".72c">option to be</font>
+
+97
+00:15:13,560 --> 00:15:22,800
+<font color="white" size=".72c">false was it</font>
+
+98
+00:15:16,959 --> 00:15:22,800
+<font color="white" size=".72c">true well anyways we'll find out and</font>
+
+99
+00:15:26,079 --> 00:15:30,600
+<font color="white" size=".72c">uh</font>
+
+100
+00:15:27,600 --> 00:15:30,600
+<font color="white" size=".72c">first</font>
+
+101
+00:15:32,670 --> 00:15:35,830
+<font color="white" size=".72c">[Music]</font>
+
+102
+00:15:48,360 --> 00:15:51,460
+<font color="white" size=".72c">[Music]</font>
+
+103
+00:15:57,600 --> 00:16:00,600
+<font color="white" size=".72c">aome</font>
+
+104
+00:16:05,040 --> 00:16:11,839
+<font color="white" size=".72c">that's right this is</font>
+
+105
+00:16:07,519 --> 00:16:14,560
+<font color="white" size=".72c">X I'm I've just recently in uh installed</font>
+
+106
+00:16:11,839 --> 00:16:18,399
+<font color="white" size=".72c">this particular distribution uh which is</font>
+
+107
+00:16:14,560 --> 00:16:21,560
+<font color="white" size=".72c">using xfc as uh desktop environment and</font>
+
+108
+00:16:18,399 --> 00:16:25,360
+<font color="white" size=".72c">I forgot but default delightfully enough</font>
+
+109
+00:16:21,560 --> 00:16:30,519
+<font color="white" size=".72c">uh it comes configured with the xsf</font>
+
+110
+00:16:25,360 --> 00:16:30,519
+<font color="white" size=".72c">xfce drop down terminal</font>
+
+111
+00:16:30,720 --> 00:16:39,290
+<font color="white" size=".72c">uh which I guess I'll do that later</font>
+
+112
+00:16:34,320 --> 00:16:39,290
+<font color="white" size=".72c">[Music]</font>
+
+113
+00:16:44,720 --> 00:16:49,519
+<font color="white" size=".72c">but uh this is a</font>
+
+114
+00:16:47,880 --> 00:16:52,600
+<font color="white" size=".72c">really</font>
+
+115
+00:16:49,519 --> 00:16:56,279
+<font color="white" size=".72c">surprisingly uh</font>
+
+116
+00:16:52,600 --> 00:17:00,480
+<font color="white" size=".72c">simple yeah for once I me it um</font>
+
+117
+00:16:56,279 --> 00:17:00,480
+<font color="white" size=".72c">application media media m</font>
+
+118
+00:17:01,600 --> 00:17:09,319
+<font color="white" size=".72c">TX I classify it as an application that</font>
+
+119
+00:17:04,799 --> 00:17:13,520
+<font color="white" size=".72c">you would publish um a stream with your</font>
+
+120
+00:17:09,319 --> 00:17:16,679
+<font color="white" size=".72c">preferred protocol uh to it which then</font>
+
+121
+00:17:13,520 --> 00:17:20,400
+<font color="white" size=".72c">um other hosts within the network can</font>
+
+122
+00:17:16,679 --> 00:17:26,400
+<font color="white" size=".72c">connect to uh to view that Stream So in</font>
+
+123
+00:17:20,400 --> 00:17:29,880
+<font color="white" size=".72c">this case on the host that is um</font>
+
+124
+00:17:26,400 --> 00:17:33,600
+<font color="white" size=".72c">streaming to the YouTube Channel using</font>
+
+125
+00:17:29,880 --> 00:17:33,600
+<font color="white" size=".72c">open broadcast</font>
+
+126
+00:17:35,039 --> 00:17:43,559
+<font color="white" size=".72c">studio within that</font>
+
+127
+00:17:37,799 --> 00:17:46,120
+<font color="white" size=".72c">client uh a scene is created with a</font>
+
+128
+00:17:43,559 --> 00:17:46,120
+<font color="white" size=".72c">media</font>
+
+129
+00:17:46,760 --> 00:17:54,160
+<font color="white" size=".72c">source as the</font>
+
+130
+00:17:50,480 --> 00:17:54,160
+<font color="white" size=".72c">RT MP</font>
+
+131
+00:17:55,960 --> 00:18:07,080
+<font color="white" size=".72c">stream so once I hit start streaming</font>
+
+132
+00:18:03,400 --> 00:18:07,080
+<font color="white" size=".72c">from the sending</font>
+
+133
+00:18:13,200 --> 00:18:20,120
+<font color="white" size=".72c">client to the the primary Gateway</font>
+
+134
+00:18:18,570 --> 00:18:23,120
+<font color="white" size=".72c">[Music]</font>
+
+135
+00:18:20,120 --> 00:18:23,120
+<font color="white" size=".72c">host</font>
+
+136
+00:18:27,039 --> 00:18:36,679
+<font color="white" size=".72c">yeah which I I think is particularly um</font>
+
+137
+00:18:30,559 --> 00:18:40,640
+<font color="white" size=".72c">neat uh the application uh media</font>
+
+138
+00:18:36,679 --> 00:18:44,039
+<font color="white" size=".72c">MTX uh requires no additional</font>
+
+139
+00:18:40,640 --> 00:18:45,520
+<font color="white" size=".72c">configuration for this particular setup</font>
+
+140
+00:18:44,039 --> 00:18:49,240
+<font color="white" size=".72c">to</font>
+
+141
+00:18:45,520 --> 00:18:52,360
+<font color="white" size=".72c">work uh which is super refreshing as</font>
+
+142
+00:18:49,240 --> 00:18:54,520
+<font color="white" size=".72c">someone who doesn't know the</font>
+
+143
+00:18:52,360 --> 00:18:57,320
+<font color="white" size=".72c">particular</font>
+
+144
+00:18:54,520 --> 00:18:59,799
+<font color="white" size=".72c">um how do I</font>
+
+145
+00:18:57,320 --> 00:19:01,960
+<font color="white" size=".72c">say</font>
+
+146
+00:18:59,799 --> 00:19:04,039
+<font color="white" size=".72c">the a video streaming protocols not</font>
+
+147
+00:19:01,960 --> 00:19:05,159
+<font color="white" size=".72c">familiar not particularly familiar with</font>
+
+148
+00:19:04,039 --> 00:19:09,200
+<font color="white" size=".72c">those</font>
+
+149
+00:19:05,159 --> 00:19:12,080
+<font color="white" size=".72c">protocols um but are required for for</font>
+
+150
+00:19:09,200 --> 00:19:16,000
+<font color="white" size=".72c">tasks such as</font>
+
+151
+00:19:12,080 --> 00:19:16,000
+<font color="white" size=".72c">these so I think that's really</font>
+
+152
+00:19:27,240 --> 00:19:32,080
+<font color="white" size=".72c">nice</font>
+
+153
+00:19:29,080 --> 00:19:32,080
+<font color="white" size=".72c">two</font>
+
+154
+00:19:38,490 --> 00:19:41,910
+<font color="white" size=".72c">[Music]</font>
+
+155
+00:19:49,159 --> 00:19:52,159
+<font color="white" size=".72c">three</font>
+
+156
+00:19:57,240 --> 00:20:00,240
+<font color="white" size=".72c">okay</font>
+
+157
+00:20:27,159 --> 00:20:30,159
+<font color="white" size=".72c">h</font>
+
+158
+00:20:36,200 --> 00:20:38,880
+<font color="white" size=".72c">excuse me</font>
+
+159
+00:20:41,919 --> 00:20:48,600
+<font color="white" size=".72c">Jesus so yeah I really got to get on the</font>
+
+160
+00:20:46,880 --> 00:20:51,600
+<font color="white" size=".72c">generative</font>
+
+161
+00:20:48,600 --> 00:20:51,600
+<font color="white" size=".72c">background</font>
+
+162
+00:20:54,280 --> 00:21:00,720
+<font color="white" size=".72c">music just I</font>
+
+163
+00:20:57,120 --> 00:21:00,720
+<font color="white" size=".72c">mean I don't</font>
+
+164
+00:21:02,080 --> 00:21:11,240
+<font color="white" size=".72c">know Lo Loi hipop comes to mind</font>
+
+165
+00:21:07,000 --> 00:21:13,320
+<font color="white" size=".72c">um which is a hit or miss um sometimes</font>
+
+166
+00:21:11,240 --> 00:21:16,880
+<font color="white" size=".72c">it kind of</font>
+
+167
+00:21:13,320 --> 00:21:20,880
+<font color="white" size=".72c">screws screwy sort of</font>
+
+168
+00:21:16,880 --> 00:21:20,880
+<font color="white" size=".72c">um that off tune</font>
+
+169
+00:21:21,960 --> 00:21:26,960
+<font color="white" size=".72c">zound I don't know how to describe it so</font>
+
+170
+00:21:24,720 --> 00:21:28,600
+<font color="white" size=".72c">I'm going to risk violating um some sort</font>
+
+171
+00:21:26,960 --> 00:21:33,440
+<font color="white" size=".72c">of copyright thing</font>
+
+172
+00:21:28,600 --> 00:21:37,480
+<font color="white" size=".72c">by finding a example an example of what</font>
+
+173
+00:21:33,440 --> 00:21:40,840
+<font color="white" size=".72c">I'm uh kind of yammering on here</font>
+
+174
+00:21:37,480 --> 00:21:40,840
+<font color="white" size=".72c">about uh</font>
+
+175
+00:21:45,039 --> 00:21:50,440
+<font color="white" size=".72c">L Christmas H sure let's</font>
+
+176
+00:21:53,760 --> 00:22:00,039
+<font color="white" size=".72c">uh that the</font>
+
+177
+00:21:57,039 --> 00:22:00,039
+<font color="white" size=".72c">speakers</font>
+
+178
+00:22:05,400 --> 00:22:08,760
+<font color="white" size=".72c">would be a to hear that</font>
+
+179
+00:22:18,390 --> 00:22:21,579
+<font color="white" size=".72c">[Music]</font>
+
+180
+00:22:26,960 --> 00:22:29,960
+<font color="white" size=".72c">okay</font>
+
+181
+00:22:35,260 --> 00:22:58,300
+<font color="white" size=".72c">[Music]</font>
+
+182
+00:22:56,960 --> 00:23:56,089
+<font color="white" size=".72c">he</font>
+
+183
+00:22:58,300 --> 00:23:56,089
+<font color="white" size=".72c">[Music]</font>
+
+184
+00:24:04,020 --> 00:24:27,840
+<font color="white" size=".72c">[Music]</font>
+
+185
+00:24:26,799 --> 00:24:37,400
+<font color="white" size=".72c">h</font>
+
+186
+00:24:27,840 --> 00:24:37,400
+<font color="white" size=".72c">[Music]</font>
+
+187
+00:24:40,990 --> 00:24:53,180
+<font color="white" size=".72c">[Music]</font>
+
+188
+00:24:50,170 --> 00:24:56,760
+<font color="white" size=".72c">[Applause]</font>
+
+189
+00:24:53,180 --> 00:24:59,760
+<font color="white" size=".72c">[Music]</font>
+
+190
+00:24:56,760 --> 00:24:59,760
+<font color="white" size=".72c">these</font>
+
+191
+00:25:00,680 --> 00:25:10,850
+<font color="white" size=".72c">[Music]</font>
+
+192
+00:25:09,000 --> 00:25:26,659
+<font color="white" size=".72c">oh</font>
+
+193
+00:25:10,850 --> 00:25:26,659
+<font color="white" size=".72c">[Music]</font>
+
+194
+00:25:26,679 --> 00:25:37,740
+<font color="white" size=".72c">right</font>
+
+195
+00:25:28,940 --> 00:25:37,740
+<font color="white" size=".72c">[Music]</font>
+
+196
+00:25:40,320 --> 00:25:45,789
+<font color="white" size=".72c">[Music]</font>
+
+197
+00:25:49,230 --> 00:25:53,559
+<font color="white" size=".72c">[Music]</font>
+
+198
+00:25:57,440 --> 00:25:59,679
+<font color="white" size=".72c">he</font>
+
+199
+00:26:00,700 --> 00:26:09,990
+<font color="white" size=".72c">[Music]</font>
+
+200
+00:26:10,240 --> 00:26:14,520
+<font color="white" size=".72c">well that that that was nice</font>
+
+201
+00:26:14,600 --> 00:26:22,250
+<font color="white" size=".72c">yeah I should put that on the</font>
+
+202
+00:26:18,960 --> 00:26:26,600
+<font color="white" size=".72c">uh back on the</font>
+
+203
+00:26:22,250 --> 00:26:29,600
+<font color="white" size=".72c">[Music]</font>
+
+204
+00:26:26,600 --> 00:26:29,600
+<font color="white" size=".72c">um</font>
+
+205
+00:26:36,520 --> 00:26:46,859
+<font color="white" size=".72c">[Music]</font>
+
+206
+00:26:49,000 --> 00:26:56,279
+<font color="white" size=".72c">so yeah that was um a Christmas uh</font>
+
+207
+00:26:56,600 --> 00:26:59,600
+<font color="white" size=".72c">themed</font>
+
+208
+00:27:09,660 --> 00:27:13,399
+<font color="white" size=".72c">[Music]</font>
+
+209
+00:27:11,440 --> 00:27:17,320
+<font color="white" size=".72c">that's that's Loi</font>
+
+210
+00:27:13,399 --> 00:27:17,320
+<font color="white" size=".72c">girl and her and her</font>
+
+211
+00:27:17,800 --> 00:27:23,679
+<font color="white" size=".72c">[Music]</font>
+
+212
+00:27:20,600 --> 00:27:26,600
+<font color="white" size=".72c">cat you didn't notice there but she got</font>
+
+213
+00:27:23,679 --> 00:27:31,320
+<font color="white" size=".72c">distracted by the beat coming in just a</font>
+
+214
+00:27:26,600 --> 00:27:34,279
+<font color="white" size=".72c">little too um not uh how do you say in</font>
+
+215
+00:27:31,320 --> 00:27:37,159
+<font color="white" size=".72c">time</font>
+
+216
+00:27:34,279 --> 00:27:38,799
+<font color="white" size=".72c">um that's just me though I find that</font>
+
+217
+00:27:37,159 --> 00:27:43,799
+<font color="white" size=".72c">stuff</font>
+
+218
+00:27:38,799 --> 00:27:47,159
+<font color="white" size=".72c">distracting ah all right uh I give up my</font>
+
+219
+00:27:43,799 --> 00:27:47,159
+<font color="white" size=".72c">dream of being a</font>
+
+220
+00:27:51,320 --> 00:27:56,519
+<font color="white" size=".72c">DJ you happy now</font>
+
+221
+00:27:53,470 --> 00:27:59,519
+<font color="white" size=".72c">[Music]</font>
+
+222
+00:27:56,519 --> 00:27:59,519
+<font color="white" size=".72c">dad</font>
+
+223
+00:27:59,640 --> 00:28:03,179
+<font color="white" size=".72c">[Music]</font>
+
+224
+00:28:13,840 --> 00:28:21,399
+<font color="white" size=".72c">well it's silly</font>
+
+225
+00:28:17,000 --> 00:28:25,320
+<font color="white" size=".72c">I not that I terribly mind the creative</font>
+
+226
+00:28:21,399 --> 00:28:29,159
+<font color="white" size=".72c">process but I I can't just put on</font>
+
+227
+00:28:25,320 --> 00:28:31,399
+<font color="white" size=".72c">background music um</font>
+
+228
+00:28:29,159 --> 00:28:34,159
+<font color="white" size=".72c">that might be slightly</font>
+
+229
+00:28:31,399 --> 00:28:38,600
+<font color="white" size=".72c">familiar uh otherwise</font>
+
+230
+00:28:34,159 --> 00:28:43,640
+<font color="white" size=".72c">um that part of the video gets muted</font>
+
+231
+00:28:38,600 --> 00:28:44,679
+<font color="white" size=".72c">um with a little notification of um oh</font>
+
+232
+00:28:43,640 --> 00:28:49,440
+<font color="white" size=".72c">how is it</font>
+
+233
+00:28:44,679 --> 00:28:49,440
+<font color="white" size=".72c">phrased some sort of copyright</font>
+
+234
+00:28:52,640 --> 00:28:55,640
+<font color="white" size=".72c">infringement</font>
+
+235
+00:28:56,399 --> 00:29:00,360
+<font color="white" size=".72c">right</font>
+
+236
+00:28:58,559 --> 00:29:03,430
+<font color="white" size=".72c">huh and it's just</font>
+
+237
+00:29:00,360 --> 00:29:03,430
+<font color="white" size=".72c">[Music]</font>
+
+238
+00:29:12,200 --> 00:29:15,320
+<font color="white" size=".72c">annoying I</font>
+
+239
+00:29:17,780 --> 00:29:30,399
+<font color="white" size=".72c">[Music]</font>
+
+240
+00:29:25,320 --> 00:29:30,399
+<font color="white" size=".72c">me um all right I'll one I one more</font>
+
+241
+00:29:32,679 --> 00:29:39,319
+<font color="white" size=".72c">try this is labeled uh</font>
+
+242
+00:29:36,270 --> 00:29:39,319
+<font color="white" size=".72c">[Music]</font>
+
+243
+00:29:45,760 --> 00:29:55,440
+<font color="white" size=".72c">midi uh by uh sir Cedric the</font>
+
+244
+00:29:51,770 --> 00:29:57,950
+<font color="white" size=".72c">[Music]</font>
+
+245
+00:29:55,440 --> 00:30:04,079
+<font color="white" size=".72c">Honus all right</font>
+
+246
+00:29:57,950 --> 00:30:04,079
+<font color="white" size=".72c">[Music]</font>
+
+247
+00:30:10,240 --> 00:30:13,309
+<font color="white" size=".72c">[Music]</font>
+
+248
+00:30:24,310 --> 00:30:27,430
+<font color="white" size=".72c">[Music]</font>
+
+249
+00:30:35,440 --> 00:30:40,370
+<font color="white" size=".72c">[Music]</font>
+
+250
+00:30:45,240 --> 00:30:51,299
+<font color="white" size=".72c">[Music]</font>
+
+251
+00:30:55,930 --> 00:31:16,259
+<font color="white" size=".72c">[Music]</font>
+
+252
+00:31:26,159 --> 00:31:29,159
+<font color="white" size=".72c">oh</font>
+
+253
+00:31:32,160 --> 00:31:38,179
+<font color="white" size=".72c">[Music]</font>
+
+254
+00:31:44,590 --> 00:31:49,840
+<font color="white" size=".72c">[Music]</font>
+
+255
+00:31:56,159 --> 00:31:59,159
+<font color="white" size=".72c">the</font>
+
+256
+00:32:05,820 --> 00:32:13,950
+<font color="white" size=".72c">[Music]</font>
+
+257
+00:32:18,160 --> 00:32:22,539
+<font color="white" size=".72c">[Music]</font>
+
+258
+00:32:26,440 --> 00:32:30,720
+<font color="white" size=".72c">hunting</font>
+
+259
+00:32:27,720 --> 00:32:30,720
+<font color="white" size=".72c">space</font>
+
+260
+00:32:31,440 --> 00:32:57,190
+<font color="white" size=".72c">[Music]</font>
+
+261
+00:32:56,039 --> 00:33:20,319
+<font color="white" size=".72c">Benjo</font>
+
+262
+00:32:57,190 --> 00:33:20,319
+<font color="white" size=".72c">[Music]</font>
+
+263
+00:33:26,140 --> 00:33:31,199
+<font color="white" size=".72c">[Music]</font>
+
+264
+00:33:33,820 --> 00:34:12,150
+<font color="white" size=".72c">[Music]</font>
+
+265
+00:34:15,860 --> 00:34:28,370
+<font color="white" size=".72c">[Music]</font>
+
+266
+00:34:25,879 --> 00:34:54,309
+<font color="white" size=".72c">d</font>
+
+267
+00:34:28,370 --> 00:34:54,309
+<font color="white" size=".72c">[Music]</font>
+
+268
+00:34:57,360 --> 00:35:23,550
+<font color="white" size=".72c">[Music]</font>
+
+269
+00:35:27,370 --> 00:35:31,520
+<font color="white" size=".72c">[Music]</font>
+
+270
+00:35:30,240 --> 00:35:35,480
+<font color="white" size=".72c">in the</font>
+
+271
+00:35:31,520 --> 00:35:38,690
+<font color="white" size=".72c">xorg xorg</font>
+
+272
+00:35:35,480 --> 00:35:38,690
+<font color="white" size=".72c">[Music]</font>
+
+273
+00:35:44,350 --> 00:35:50,400
+<font color="white" size=".72c">[Music]</font>
+
+274
+00:35:47,480 --> 00:35:52,560
+<font color="white" size=".72c">rooll right right now this this</font>
+
+275
+00:35:50,400 --> 00:35:54,119
+<font color="white" size=".72c">repository I'm sort of in the in the</font>
+
+276
+00:35:52,560 --> 00:35:55,640
+<font color="white" size=".72c">middle of</font>
+
+277
+00:35:54,119 --> 00:35:58,240
+<font color="white" size=".72c">um</font>
+
+278
+00:35:55,640 --> 00:36:01,720
+<font color="white" size=".72c">refactoring uh</font>
+
+279
+00:35:58,240 --> 00:36:01,720
+<font color="white" size=".72c">trying to</font>
+
+280
+00:36:04,119 --> 00:36:07,800
+<font color="white" size=".72c">um get as</font>
+
+281
+00:36:07,960 --> 00:36:16,440
+<font color="white" size=".72c">much of the dro agnostic configurations</font>
+
+282
+00:36:12,400 --> 00:36:18,599
+<font color="white" size=".72c">as I can into this particular collection</font>
+
+283
+00:36:16,440 --> 00:36:21,880
+<font color="white" size=".72c">um but within this</font>
+
+284
+00:36:18,599 --> 00:36:23,800
+<font color="white" size=".72c">role um where is</font>
+
+285
+00:36:21,880 --> 00:36:27,080
+<font color="white" size=".72c">it</font>
+
+286
+00:36:23,800 --> 00:36:33,400
+<font color="white" size=".72c">ah packages are installed</font>
+
+287
+00:36:27,080 --> 00:36:35,839
+<font color="white" size=".72c">[Music]</font>
+
+288
+00:36:33,400 --> 00:36:35,839
+<font color="white" size=".72c">which is</font>
+
+289
+00:36:41,240 --> 00:36:52,090
+<font color="white" size=".72c">[Music]</font>
+
+290
+00:36:52,680 --> 00:37:01,599
+<font color="white" size=".72c">great so I have two hosts one running a</font>
+
+291
+00:36:57,760 --> 00:37:07,200
+<font color="white" size=".72c">variant of Arch Linux called Endeavor</font>
+
+292
+00:37:01,599 --> 00:37:10,880
+<font color="white" size=".72c">o another a variant of Dean or MX Linux</font>
+
+293
+00:37:07,200 --> 00:37:10,880
+<font color="white" size=".72c">called a v</font>
+
+294
+00:37:16,980 --> 00:37:20,139
+<font color="white" size=".72c">[Music]</font>
+
+295
+00:37:25,400 --> 00:37:31,880
+<font color="white" size=".72c">Linux uh so two distinguishing features</font>
+
+296
+00:37:28,400 --> 00:37:34,830
+<font color="white" size=".72c">of these hosts um</font>
+
+297
+00:37:31,880 --> 00:37:35,960
+<font color="white" size=".72c">the Endeavor</font>
+
+298
+00:37:34,830 --> 00:37:39,000
+<font color="white" size=".72c">[Music]</font>
+
+299
+00:37:35,960 --> 00:37:43,160
+<font color="white" size=".72c">OS the host running Endeavor</font>
+
+300
+00:37:39,000 --> 00:37:46,240
+<font color="white" size=".72c">OS um is using I3 Window</font>
+
+301
+00:37:43,160 --> 00:37:50,119
+<font color="white" size=".72c">Manager when running a v Linux at</font>
+
+302
+00:37:46,240 --> 00:37:53,520
+<font color="white" size=".72c">current is using</font>
+
+303
+00:37:50,119 --> 00:37:55,200
+<font color="white" size=".72c">xfce as the window uh desktop</font>
+
+304
+00:37:53,520 --> 00:37:59,040
+<font color="white" size=".72c">environment excuse</font>
+
+305
+00:37:55,200 --> 00:38:04,880
+<font color="white" size=".72c">me which uh so far has been a uh quite</font>
+
+306
+00:37:59,040 --> 00:38:08,720
+<font color="white" size=".72c">an enjoyable uh experience in terms of</font>
+
+307
+00:38:04,880 --> 00:38:11,360
+<font color="white" size=".72c">um an aesthetically pleasing workflow</font>
+
+308
+00:38:08,720 --> 00:38:14,319
+<font color="white" size=".72c">there's</font>
+
+309
+00:38:11,360 --> 00:38:18,359
+<font color="white" size=".72c">[Music]</font>
+
+310
+00:38:14,319 --> 00:38:21,520
+<font color="white" size=".72c">um an array of system</font>
+
+311
+00:38:18,359 --> 00:38:25,440
+<font color="white" size=".72c">tools that make a lot of the</font>
+
+312
+00:38:21,520 --> 00:38:28,359
+<font color="white" size=".72c">configurations easier to get to uh</font>
+
+313
+00:38:25,440 --> 00:38:32,680
+<font color="white" size=".72c">really nice features like the ability to</font>
+
+314
+00:38:28,359 --> 00:38:37,040
+<font color="white" size=".72c">create a live ISO of the currently</font>
+
+315
+00:38:32,680 --> 00:38:40,599
+<font color="white" size=".72c">running system that's a really</font>
+
+316
+00:38:37,040 --> 00:38:40,599
+<font color="white" size=".72c">uh how do I</font>
+
+317
+00:38:40,920 --> 00:38:45,040
+<font color="white" size=".72c">say I'm going to say neat really</font>
+
+318
+00:38:44,000 --> 00:38:46,720
+<font color="white" size=".72c">neat</font>
+
+319
+00:38:45,040 --> 00:38:53,119
+<font color="white" size=".72c">feature</font>
+
+320
+00:38:46,720 --> 00:38:55,520
+<font color="white" size=".72c">um takes a lot of the uh leg work on of</font>
+
+321
+00:38:53,119 --> 00:38:59,960
+<font color="white" size=".72c">creating a custom</font>
+
+322
+00:38:55,520 --> 00:38:59,960
+<font color="white" size=".72c">ISO with a configured</font>
+
+323
+00:39:01,079 --> 00:39:05,680
+<font color="white" size=".72c">distribution now to be quite honest I'm</font>
+
+324
+00:39:03,280 --> 00:39:10,319
+<font color="white" size=".72c">just sort of</font>
+
+325
+00:39:05,680 --> 00:39:10,319
+<font color="white" size=".72c">uh clicked on some things just</font>
+
+326
+00:39:11,839 --> 00:39:19,119
+<font color="white" size=".72c">clicking but uh it's a it's a so far</font>
+
+327
+00:39:15,440 --> 00:39:19,119
+<font color="white" size=".72c">it's been a enjoyable</font>
+
+328
+00:39:25,440 --> 00:39:30,200
+<font color="white" size=".72c">experience</font>
+
+329
+00:39:27,880 --> 00:39:33,440
+<font color="white" size=".72c">right away it's a bit of a struggle</font>
+
+330
+00:39:30,200 --> 00:39:35,000
+<font color="white" size=".72c">coming from uh a keyboard driven</font>
+
+331
+00:39:33,440 --> 00:39:36,560
+<font color="white" size=".72c">keyboard driven</font>
+
+332
+00:39:35,000 --> 00:39:40,599
+<font color="white" size=".72c">workflow</font>
+
+333
+00:39:36,560 --> 00:39:44,050
+<font color="white" size=".72c">um and a tying Window Manager uh but</font>
+
+334
+00:39:40,599 --> 00:39:47,189
+<font color="white" size=".72c">those things can can be adjusted in</font>
+
+335
+00:39:44,050 --> 00:39:47,189
+<font color="white" size=".72c">[Music]</font>
+
+336
+00:39:50,079 --> 00:39:54,119
+<font color="white" size=".72c">xfce for example</font>
+
+337
+00:39:54,920 --> 00:40:00,040
+<font color="white" size=".72c">um terminal</font>
+
+338
+00:39:57,240 --> 00:40:03,359
+<font color="white" size=".72c">oh see okay so it remembered its La uh</font>
+
+339
+00:40:00,040 --> 00:40:07,359
+<font color="white" size=".72c">last location and then it's set to snap</font>
+
+340
+00:40:03,359 --> 00:40:07,359
+<font color="white" size=".72c">against other windows which is really</font>
+
+341
+00:40:25,359 --> 00:40:28,359
+<font color="white" size=".72c">nice</font>
+
+342
+00:40:33,920 --> 00:40:39,560
+<font color="white" size=".72c">I have this I think</font>
+
+343
+00:40:35,319 --> 00:40:41,079
+<font color="white" size=".72c">unreasonable uh sort of um you know it's</font>
+
+344
+00:40:39,560 --> 00:40:43,599
+<font color="white" size=".72c">it's definitely</font>
+
+345
+00:40:41,079 --> 00:40:48,480
+<font color="white" size=".72c">classifiable as um</font>
+
+346
+00:40:43,599 --> 00:40:50,720
+<font color="white" size=".72c">paranoid but uh paranoid thinking anyway</font>
+
+347
+00:40:48,480 --> 00:40:55,319
+<font color="white" size=".72c">um but</font>
+
+348
+00:40:50,720 --> 00:40:59,640
+<font color="white" size=".72c">uh even having my name displayed</font>
+
+349
+00:40:55,319 --> 00:41:03,280
+<font color="white" size=".72c">on public anything makes the back of my</font>
+
+350
+00:40:59,640 --> 00:41:06,480
+<font color="white" size=".72c">mind go hey is that safe and I I always</font>
+
+351
+00:41:03,280 --> 00:41:06,480
+<font color="white" size=".72c">have to remind myself</font>
+
+352
+00:41:10,520 --> 00:41:13,920
+<font color="white" size=".72c">yes at this</font>
+
+353
+00:41:16,000 --> 00:41:22,599
+<font color="white" size=".72c">point anything terrible that would</font>
+
+354
+00:41:19,319 --> 00:41:26,400
+<font color="white" size=".72c">happen through that</font>
+
+355
+00:41:22,599 --> 00:41:29,280
+<font color="white" size=".72c">Medium wouldn't be I wouldn't assume</font>
+
+356
+00:41:26,400 --> 00:41:29,280
+<font color="white" size=".72c">random</font>
+
+357
+00:41:32,240 --> 00:41:37,240
+<font color="white" size=".72c">randomized anyways getting off topic</font>
+
+358
+00:41:55,240 --> 00:41:58,240
+<font color="white" size=".72c">here</font>
+
+359
+00:42:00,210 --> 00:42:11,280
+<font color="white" size=".72c">[Music]</font>
+
+360
+00:42:08,839 --> 00:42:11,280
+<font color="white" size=".72c">Okay</font>
+
+361
+00:42:12,070 --> 00:42:21,079
+<font color="white" size=".72c">[Music]</font>
+
+362
+00:42:23,160 --> 00:42:27,110
+<font color="white" size=".72c">[Music]</font>
+
+363
+00:42:25,160 --> 00:42:30,229
+<font color="white" size=".72c">so</font>
+
+364
+00:42:27,110 --> 00:42:30,229
+<font color="white" size=".72c">[Music]</font>
+
+365
+00:42:33,010 --> 00:42:47,240
+<font color="white" size=".72c">[Music]</font>
+
+366
+00:42:44,400 --> 00:42:47,240
+<font color="white" size=".72c">so all</font>
+
+367
+00:42:55,160 --> 00:42:58,160
+<font color="white" size=".72c">right</font>
+
+368
+00:42:59,980 --> 00:43:05,880
+<font color="white" size=".72c">[Music]</font>
+
+369
+00:43:01,920 --> 00:43:07,930
+<font color="white" size=".72c">I had a whole lot of</font>
+
+370
+00:43:05,880 --> 00:43:19,960
+<font color="white" size=".72c">like really</font>
+
+371
+00:43:07,930 --> 00:43:19,960
+<font color="white" size=".72c">[Music]</font>
+
+372
+00:43:20,760 --> 00:43:26,170
+<font color="white" size=".72c">um there's a lot of like cool things to</font>
+
+373
+00:43:25,079 --> 00:43:30,110
+<font color="white" size=".72c">do</font>
+
+374
+00:43:26,170 --> 00:43:30,110
+<font color="white" size=".72c">[Music]</font>
+
+375
+00:43:30,119 --> 00:43:33,400
+<font color="white" size=".72c">with what we call a</font>
+
+376
+00:43:34,160 --> 00:43:40,559
+<font color="white" size=".72c">computer it's that word still sounds</font>
+
+377
+00:43:37,480 --> 00:43:43,940
+<font color="white" size=".72c">wrong in my head for what it</font>
+
+378
+00:43:40,559 --> 00:43:46,960
+<font color="white" size=".72c">is um</font>
+
+379
+00:43:43,940 --> 00:43:49,599
+<font color="white" size=".72c">[Music]</font>
+
+380
+00:43:46,960 --> 00:43:50,840
+<font color="white" size=".72c">but or I guess it's a workstation I can</font>
+
+381
+00:43:49,599 --> 00:43:54,010
+<font color="white" size=".72c">just call it old work</font>
+
+382
+00:43:50,840 --> 00:43:54,010
+<font color="white" size=".72c">[Music]</font>
+
+383
+00:43:55,079 --> 00:44:13,680
+<font color="white" size=".72c">station</font>
+
+384
+00:43:58,060 --> 00:44:15,319
+<font color="white" size=".72c">[Music]</font>
+
+385
+00:44:13,680 --> 00:44:18,359
+<font color="white" size=".72c">okay so in my head what I'm trying to</font>
+
+386
+00:44:15,319 --> 00:44:22,359
+<font color="white" size=".72c">think of is a um a variant of a</font>
+
+387
+00:44:18,359 --> 00:44:22,359
+<font color="white" size=".72c">character the the the</font>
+
+388
+00:44:22,880 --> 00:44:29,920
+<font color="white" size=".72c">classical just movs me the wrong way the</font>
+
+389
+00:44:25,680 --> 00:44:29,920
+<font color="white" size=".72c">class IAL uh burnout</font>
+
+390
+00:44:30,800 --> 00:44:39,880
+<font color="white" size=".72c">Stoner so reason why I'm mulling this</font>
+
+391
+00:44:34,720 --> 00:44:39,880
+<font color="white" size=".72c">over and over is</font>
+
+392
+00:44:40,160 --> 00:44:45,240
+<font color="white" size=".72c">that in a</font>
+
+393
+00:44:42,920 --> 00:44:47,640
+<font color="white" size=".72c">conventional uh from a conventional</font>
+
+394
+00:44:45,240 --> 00:44:51,040
+<font color="white" size=".72c">perspective I'm just kind of stoned</font>
+
+395
+00:44:47,640 --> 00:44:53,559
+<font color="white" size=".72c">right now and I I've lost um a</font>
+
+396
+00:44:51,040 --> 00:44:56,000
+<font color="white" size=".72c">significant amount of Mo motivation in</font>
+
+397
+00:44:53,559 --> 00:44:58,359
+<font color="white" size=".72c">terms of getting a specific task done</font>
+
+398
+00:44:56,000 --> 00:45:01,200
+<font color="white" size=".72c">done is this still a thing even I don't</font>
+
+399
+00:44:58,359 --> 00:45:04,500
+<font color="white" size=".72c">I don't even think it is I I bet I</font>
+
+400
+00:45:01,200 --> 00:45:07,670
+<font color="white" size=".72c">detached from that a long time ago</font>
+
+401
+00:45:04,500 --> 00:45:07,670
+<font color="white" size=".72c">[Music]</font>
+
+402
+00:45:08,839 --> 00:45:14,880
+<font color="white" size=".72c">um so anyways what I'm trying to think</font>
+
+403
+00:45:11,400 --> 00:45:18,880
+<font color="white" size=".72c">of is a new way of framing this cuz I'm</font>
+
+404
+00:45:14,880 --> 00:45:24,880
+<font color="white" size=".72c">not clearly burnt out but I am enjoyably</font>
+
+405
+00:45:18,880 --> 00:45:27,130
+<font color="white" size=".72c">stoned um and typically I do enjoy</font>
+
+406
+00:45:24,880 --> 00:45:28,520
+<font color="white" size=".72c">um working</font>
+
+407
+00:45:27,130 --> 00:45:32,040
+<font color="white" size=".72c">[Music]</font>
+
+408
+00:45:28,520 --> 00:45:33,080
+<font color="white" size=".72c">with software just any software in</font>
+
+409
+00:45:32,040 --> 00:45:35,880
+<font color="white" size=".72c">general</font>
+
+410
+00:45:33,080 --> 00:45:39,960
+<font color="white" size=".72c">[Music]</font>
+
+411
+00:45:35,880 --> 00:45:43,680
+<font color="white" size=".72c">um but then I started listening to this</font>
+
+412
+00:45:39,960 --> 00:45:43,680
+<font color="white" size=".72c">uh haunting space</font>
+
+413
+00:45:44,190 --> 00:45:57,800
+<font color="white" size=".72c">[Music]</font>
+
+414
+00:45:54,880 --> 00:46:24,800
+<font color="white" size=".72c">bjo</font>
+
+415
+00:45:57,800 --> 00:46:26,790
+<font color="white" size=".72c">[Music]</font>
+
+416
+00:46:24,800 --> 00:46:29,160
+<font color="white" size=".72c">m</font>
+
+417
+00:46:26,790 --> 00:46:30,440
+<font color="white" size=".72c">[Music]</font>
+
+418
+00:46:29,160 --> 00:46:33,160
+<font color="white" size=".72c">well one one thing that I'm thinking</font>
+
+419
+00:46:30,440 --> 00:46:38,910
+<font color="white" size=".72c">about is trying to</font>
+
+420
+00:46:33,160 --> 00:46:40,880
+<font color="white" size=".72c">um explain certain habits and behaviors</font>
+
+421
+00:46:38,910 --> 00:46:44,599
+<font color="white" size=".72c">[Music]</font>
+
+422
+00:46:40,880 --> 00:46:50,280
+<font color="white" size=".72c">um to help perhaps maybe fill</font>
+
+423
+00:46:44,599 --> 00:46:53,440
+<font color="white" size=".72c">in perspective fill out fill out</font>
+
+424
+00:46:50,280 --> 00:46:57,510
+<font color="white" size=".72c">perspective um it's a difficult place to</font>
+
+425
+00:46:53,440 --> 00:47:00,240
+<font color="white" size=".72c">get to in life if if you go looking for</font>
+
+426
+00:46:57,510 --> 00:47:03,760
+<font color="white" size=".72c">[Music]</font>
+
+427
+00:47:00,240 --> 00:47:03,760
+<font color="white" size=".72c">it which</font>
+
+428
+00:47:06,040 --> 00:47:12,930
+<font color="white" size=".72c">yeah I would I would doubt any of us</font>
+
+429
+00:47:08,720 --> 00:47:17,760
+<font color="white" size=".72c">truly do go go looking for</font>
+
+430
+00:47:12,930 --> 00:47:21,480
+<font color="white" size=".72c">[Music]</font>
+
+431
+00:47:17,760 --> 00:47:24,720
+<font color="white" size=".72c">it oh right so</font>
+
+432
+00:47:21,480 --> 00:47:27,720
+<font color="white" size=".72c">um besides all</font>
+
+433
+00:47:24,720 --> 00:47:27,720
+<font color="white" size=".72c">that</font>
+
+434
+00:47:35,020 --> 00:47:39,199
+<font color="white" size=".72c">[Music]</font>
+
+435
+00:47:40,599 --> 00:47:43,880
+<font color="white" size=".72c">all right the</font>
+
+436
+00:47:43,960 --> 00:47:47,880
+<font color="white" size=".72c">um the Intel video</font>
+
+437
+00:47:51,880 --> 00:47:56,150
+<font color="white" size=".72c">[Music]</font>
+
+438
+00:47:54,720 --> 00:48:05,010
+<font color="white" size=".72c">drivers</font>
+
+439
+00:47:56,150 --> 00:48:05,010
+<font color="white" size=".72c">[Music]</font>
+
+440
+00:48:07,810 --> 00:48:13,079
+<font color="white" size=".72c">[Music]</font>
+
+441
+00:48:18,230 --> 00:48:24,409
+<font color="white" size=".72c">[Music]</font>
+
+442
+00:48:24,640 --> 00:48:41,179
+<font color="white" size=".72c">h</font>
+
+443
+00:48:26,340 --> 00:48:41,179
+<font color="white" size=".72c">[Music]</font>
+
+444
+00:48:43,560 --> 00:48:46,690
+<font color="white" size=".72c">[Music]</font>
+
+445
+00:48:52,150 --> 00:49:13,979
+<font color="white" size=".72c">[Music]</font>
+
+446
+00:49:16,420 --> 00:49:24,839
+<font color="white" size=".72c">[Music]</font>
+
+447
+00:49:20,400 --> 00:49:26,240
+<font color="white" size=".72c">well I I procrastinate on um this</font>
+
+448
+00:49:24,839 --> 00:49:27,270
+<font color="white" size=".72c">delightful</font>
+
+449
+00:49:26,240 --> 00:49:32,880
+<font color="white" size=".72c">THS</font>
+
+450
+00:49:27,270 --> 00:49:37,200
+<font color="white" size=".72c">[Music]</font>
+
+451
+00:49:32,880 --> 00:49:39,079
+<font color="white" size=".72c">um as I find the the quality of my</font>
+
+452
+00:49:37,200 --> 00:49:43,720
+<font color="white" size=".72c">productive output</font>
+
+453
+00:49:39,079 --> 00:49:47,920
+<font color="white" size=".72c">is I suppose subjectively but</font>
+
+454
+00:49:43,720 --> 00:49:51,480
+<font color="white" size=".72c">better if I don't go into a task that</font>
+
+455
+00:49:47,920 --> 00:49:53,400
+<font color="white" size=".72c">I'm not particularly excited about with</font>
+
+456
+00:49:51,480 --> 00:49:56,240
+<font color="white" size=".72c">a oh I got to get this</font>
+
+457
+00:49:53,400 --> 00:49:58,440
+<font color="white" size=".72c">done um and just you know try to hammer</font>
+
+458
+00:49:56,240 --> 00:50:01,000
+<font color="white" size=".72c">it out as quickly as</font>
+
+459
+00:49:58,440 --> 00:50:03,640
+<font color="white" size=".72c">possible</font>
+
+460
+00:50:01,000 --> 00:50:06,520
+<font color="white" size=".72c">um it's</font>
+
+461
+00:50:03,640 --> 00:50:09,079
+<font color="white" size=".72c">funny the nice part about that is is</font>
+
+462
+00:50:06,520 --> 00:50:13,920
+<font color="white" size=".72c">that one wasn't really a conscious</font>
+
+463
+00:50:09,079 --> 00:50:18,240
+<font color="white" size=".72c">Choice by uh through my thought process</font>
+
+464
+00:50:13,920 --> 00:50:19,640
+<font color="white" size=".72c">it was a matter of uh the aging process</font>
+
+465
+00:50:18,240 --> 00:50:25,880
+<font color="white" size=".72c">sort of</font>
+
+466
+00:50:19,640 --> 00:50:28,680
+<font color="white" size=".72c">limiting the uh ability to even go about</font>
+
+467
+00:50:25,880 --> 00:50:28,680
+<font color="white" size=".72c">things that</font>
+
+468
+00:50:30,599 --> 00:50:40,400
+<font color="white" size=".72c">way where I I look back at the output I</font>
+
+469
+00:50:35,079 --> 00:50:45,520
+<font color="white" size=".72c">go hm okay there is um it's wide in</font>
+
+470
+00:50:40,400 --> 00:50:49,480
+<font color="white" size=".72c">scope which is you know</font>
+
+471
+00:50:45,520 --> 00:50:52,160
+<font color="white" size=".72c">um I consider you know a good thing but</font>
+
+472
+00:50:49,480 --> 00:50:53,680
+<font color="white" size=".72c">it's also</font>
+
+473
+00:50:52,160 --> 00:50:56,550
+<font color="white" size=".72c">um</font>
+
+474
+00:50:53,680 --> 00:50:58,119
+<font color="white" size=".72c">disorganized I would say</font>
+
+475
+00:50:56,550 --> 00:51:02,240
+<font color="white" size=".72c">[Music]</font>
+
+476
+00:50:58,119 --> 00:51:06,400
+<font color="white" size=".72c">um and I I believe that sort of</font>
+
+477
+00:51:02,240 --> 00:51:09,079
+<font color="white" size=".72c">scattered output is a result of certain</font>
+
+478
+00:51:06,400 --> 00:51:12,280
+<font color="white" size=".72c">pressures uh that we all</font>
+
+479
+00:51:09,079 --> 00:51:16,720
+<font color="white" size=".72c">feel in regards to our productivity in</font>
+
+480
+00:51:12,280 --> 00:51:16,720
+<font color="white" size=".72c">the amount of time that we feel</font>
+
+481
+00:51:24,359 --> 00:51:29,590
+<font color="white" size=".72c">productive</font>
+
+482
+00:51:26,410 --> 00:51:29,590
+<font color="white" size=".72c">[Music]</font>
+
+483
+00:51:36,240 --> 00:51:39,960
+<font color="white" size=".72c">always you know I'm always trying to be</font>
+
+484
+00:51:37,760 --> 00:51:42,880
+<font color="white" size=".72c">more descriptive than our previous</font>
+
+485
+00:51:39,960 --> 00:51:44,839
+<font color="white" size=".72c">generation was able to be so when I</font>
+
+486
+00:51:42,880 --> 00:51:48,280
+<font color="white" size=".72c">think about things of oh you know it</font>
+
+487
+00:51:44,839 --> 00:51:53,000
+<font color="white" size=".72c">just sort of works itself out in the</font>
+
+488
+00:51:48,280 --> 00:51:56,040
+<font color="white" size=".72c">end it's an oddly true enough</font>
+
+489
+00:51:53,000 --> 00:51:59,720
+<font color="white" size=".72c">phrase to a listener</font>
+
+490
+00:51:56,040 --> 00:52:04,319
+<font color="white" size=".72c">uh of who hears that phrase spoken by</font>
+
+491
+00:51:59,720 --> 00:52:06,920
+<font color="white" size=".72c">someone who has experience enough to</font>
+
+492
+00:52:04,319 --> 00:52:13,000
+<font color="white" size=".72c">know what that phrase represents and</font>
+
+493
+00:52:06,920 --> 00:52:13,000
+<font color="white" size=".72c">then use that phrase in a proper</font>
+
+494
+00:52:14,680 --> 00:52:21,920
+<font color="white" size=".72c">context it's it it does a disservice to</font>
+
+495
+00:52:18,280 --> 00:52:26,160
+<font color="white" size=".72c">just leave it at that without further</font>
+
+496
+00:52:21,920 --> 00:52:29,000
+<font color="white" size=".72c">explanation cuz it's it's a human</font>
+
+497
+00:52:26,160 --> 00:52:32,000
+<font color="white" size=".72c">phenomenon it's not cultural it's not</font>
+
+498
+00:52:29,000 --> 00:52:35,880
+<font color="white" size=".72c">State it's not uh you</font>
+
+499
+00:52:32,000 --> 00:52:37,359
+<font color="white" size=".72c">know border determined it's everyone</font>
+
+500
+00:52:35,880 --> 00:52:40,359
+<font color="white" size=".72c">goes through</font>
+
+501
+00:52:37,359 --> 00:52:40,359
+<font color="white" size=".72c">this</font>
+
+502
+00:52:52,359 --> 00:52:56,760
+<font color="white" size=".72c">um oh yeah and and I'm waiting</font>
+
+503
+00:52:55,300 --> 00:53:01,240
+<font color="white" size=".72c">[Music]</font>
+
+504
+00:52:56,760 --> 00:53:04,799
+<font color="white" size=".72c">just waiting for chat GDP</font>
+
+505
+00:53:01,240 --> 00:53:08,280
+<font color="white" size=".72c">or whatever next thing</font>
+
+506
+00:53:04,799 --> 00:53:10,040
+<font color="white" size=".72c">um well that's certainly not ready yet</font>
+
+507
+00:53:08,280 --> 00:53:13,640
+<font color="white" size=".72c">for that for this sort of thing I'm</font>
+
+508
+00:53:10,040 --> 00:53:15,799
+<font color="white" size=".72c">waiting for the models that are</font>
+
+509
+00:53:13,640 --> 00:53:19,799
+<font color="white" size=".72c">um how do I</font>
+
+510
+00:53:15,799 --> 00:53:21,960
+<font color="white" size=".72c">say that can fulfill any fantasy or whim</font>
+
+511
+00:53:19,799 --> 00:53:26,000
+<font color="white" size=".72c">that I have at any given moment at any</font>
+
+512
+00:53:21,960 --> 00:53:28,640
+<font color="white" size=".72c">particular time uh without</font>
+
+513
+00:53:26,000 --> 00:53:28,640
+<font color="white" size=".72c">um</font>
+
+514
+00:53:30,640 --> 00:53:34,000
+<font color="white" size=".72c">Direction I figured that should</font>
+
+515
+00:53:32,510 --> 00:53:39,079
+<font color="white" size=".72c">[Music]</font>
+
+516
+00:53:34,000 --> 00:53:39,079
+<font color="white" size=".72c">be next third quarter at the</font>
+
+517
+00:53:46,240 --> 00:53:51,480
+<font color="white" size=".72c">latest I love the smart move would have</font>
+
+518
+00:53:48,480 --> 00:53:51,480
+<font color="white" size=".72c">been Christmas</font>
+
+519
+00:53:54,160 --> 00:53:57,160
+<font color="white" size=".72c">but</font>
+
+520
+00:53:58,310 --> 00:54:01,420
+<font color="white" size=".72c">[Music]</font>
+
+521
+00:54:14,980 --> 00:54:18,070
+<font color="white" size=".72c">[Music]</font>
+
+522
+00:54:20,500 --> 00:54:23,780
+<font color="white" size=".72c">[Music]</font>
+
+523
+00:54:24,079 --> 00:54:27,079
+<font color="white" size=".72c">oh</font>
+
+524
+00:54:30,100 --> 00:54:33,360
+<font color="white" size=".72c">[Music]</font>
+
+525
+00:54:36,800 --> 00:54:39,989
+<font color="white" size=".72c">[Music]</font>
+
+526
+00:54:42,050 --> 00:54:52,510
+<font color="white" size=".72c">[Music]</font>
+
+527
+00:54:57,800 --> 00:55:00,849
+<font color="white" size=".72c">[Music]</font>
+
+528
+00:55:01,280 --> 00:55:08,040
+<font color="white" size=".72c">I'm serious though</font>
+
+529
+00:55:04,400 --> 00:55:08,040
+<font color="white" size=".72c">um the best</font>
+
+530
+00:55:09,880 --> 00:55:16,160
+<font color="white" size=".72c">work is not reflected unfortunately it's</font>
+
+531
+00:55:13,359 --> 00:55:16,160
+<font color="white" size=".72c">not truly</font>
+
+532
+00:55:18,200 --> 00:55:22,359
+<font color="white" size=".72c">reflected sorry</font>
+
+533
+00:55:23,839 --> 00:55:28,359
+<font color="white" size=".72c">um by find yourself find</font>
+
+534
+00:55:46,850 --> 00:55:49,940
+<font color="white" size=".72c">[Music]</font>
+
+535
+00:55:54,000 --> 00:56:01,720
+<font color="white" size=".72c">yourself</font>
+
+536
+00:55:55,950 --> 00:56:04,319
+<font color="white" size=".72c">[Music]</font>
+
+537
+00:56:01,720 --> 00:56:07,880
+<font color="white" size=".72c">besides radical free speech and all that</font>
+
+538
+00:56:04,319 --> 00:56:12,839
+<font color="white" size=".72c">it's just now occurring to me</font>
+
+539
+00:56:07,880 --> 00:56:12,839
+<font color="white" size=".72c">um at least today again</font>
+
+540
+00:56:12,960 --> 00:56:18,920
+<font color="white" size=".72c">[Music]</font>
+
+541
+00:56:14,599 --> 00:56:18,920
+<font color="white" size=".72c">that oh it'll come back hold on a</font>
+
+542
+00:56:23,920 --> 00:56:29,720
+<font color="white" size=".72c">second</font>
+
+543
+00:56:25,480 --> 00:56:34,799
+<font color="white" size=".72c">I have to be uh what I think is an oddly</font>
+
+544
+00:56:29,720 --> 00:56:38,640
+<font color="white" size=".72c">an odd amount of dishonest about uh who</font>
+
+545
+00:56:34,799 --> 00:56:41,079
+<font color="white" size=".72c">I uh choose or how I choose to rep</font>
+
+546
+00:56:38,640 --> 00:56:43,319
+<font color="white" size=".72c">represent myself as a</font>
+
+547
+00:56:41,079 --> 00:56:46,039
+<font color="white" size=".72c">person</font>
+
+548
+00:56:43,319 --> 00:56:48,960
+<font color="white" size=".72c">um I find that rather</font>
+
+549
+00:56:46,039 --> 00:56:51,079
+<font color="white" size=".72c">unfortunate it's an aspect of it's just</font>
+
+550
+00:56:48,960 --> 00:56:53,640
+<font color="white" size=".72c">it's an aspect of the environment it's</font>
+
+551
+00:56:51,079 --> 00:56:57,200
+<font color="white" size=".72c">not um a grand</font>
+
+552
+00:56:53,640 --> 00:57:00,760
+<font color="white" size=".72c">conspiracy um it's a</font>
+
+553
+00:56:57,200 --> 00:57:00,760
+<font color="white" size=".72c">result sadly</font>
+
+554
+00:57:01,319 --> 00:57:07,680
+<font color="white" size=".72c">enough what that means is You know</font>
+
+555
+00:57:05,119 --> 00:57:12,359
+<font color="white" size=".72c">despite the alleviation of</font>
+
+556
+00:57:07,680 --> 00:57:16,039
+<font color="white" size=".72c">fear despair is a classic um notion</font>
+
+557
+00:57:12,359 --> 00:57:22,119
+<font color="white" size=".72c">that's still around and</font>
+
+558
+00:57:16,039 --> 00:57:26,799
+<font color="white" size=".72c">um no more or rest more or less relevant</font>
+
+559
+00:57:22,119 --> 00:57:26,799
+<font color="white" size=".72c">than any other time in our existence</font>
+
+560
+00:57:29,080 --> 00:57:35,949
+<font color="white" size=".72c">[Music]</font>
+
+561
+00:57:43,890 --> 00:57:46,969
+<font color="white" size=".72c">[Music]</font>
+
+562
+00:57:50,550 --> 00:57:53,749
+<font color="white" size=".72c">[Music]</font>
+
+563
+00:57:53,799 --> 00:58:00,550
+<font color="white" size=".72c">distance</font>
+
+564
+00:57:55,660 --> 00:58:00,550
+<font color="white" size=".72c">[Music]</font>
+
+565
+00:58:07,520 --> 00:58:14,880
+<font color="white" size=".72c">yeah I guess it's a it's um not I would</font>
+
+566
+00:58:11,839 --> 00:58:19,319
+<font color="white" size=".72c">say common but it's somewhat of a</font>
+
+567
+00:58:14,880 --> 00:58:23,359
+<font color="white" size=".72c">stereotype of the um disgruntle</font>
+
+568
+00:58:19,319 --> 00:58:26,359
+<font color="white" size=".72c">philosophical uh Linux uh computer</font>
+
+569
+00:58:23,359 --> 00:58:28,480
+<font color="white" size=".72c">operator um Andor</font>
+
+570
+00:58:26,359 --> 00:58:30,839
+<font color="white" size=".72c">programmer</font>
+
+571
+00:58:28,480 --> 00:58:35,160
+<font color="white" size=".72c">[Laughter]</font>
+
+572
+00:58:30,839 --> 00:58:41,039
+<font color="white" size=".72c">uh as most as most part of me tries to</font>
+
+573
+00:58:35,160 --> 00:58:44,520
+<font color="white" size=".72c">actively uh make that person or persons</font>
+
+574
+00:58:41,039 --> 00:58:46,319
+<font color="white" size=".72c">um question at least why they go about</font>
+
+575
+00:58:44,520 --> 00:58:52,960
+<font color="white" size=".72c">things that way at least if not for a</font>
+
+576
+00:58:46,319 --> 00:58:52,960
+<font color="white" size=".72c">small time to uh enjoy the</font>
+
+577
+00:58:53,720 --> 00:58:58,050
+<font color="white" size=".72c">relaxation</font>
+
+578
+00:58:54,810 --> 00:58:58,050
+<font color="white" size=".72c">[Music]</font>
+
+579
+00:58:58,640 --> 00:59:04,839
+<font color="white" size=".72c">cuz if you believe in stuff in the year</font>
+
+580
+00:59:01,680 --> 00:59:09,960
+<font color="white" size=".72c">2023 in the land of</font>
+
+581
+00:59:04,839 --> 00:59:09,960
+<font color="white" size=".72c">America um it's a tough</font>
+
+582
+00:59:10,039 --> 00:59:20,039
+<font color="white" size=".72c">life it's not a terrible life it's not</font>
+
+583
+00:59:14,280 --> 00:59:20,039
+<font color="white" size=".72c">an atrociously tragic life traumatic</font>
+
+584
+00:59:20,440 --> 00:59:26,640
+<font color="white" size=".72c">Etc but it's not great it's not it's not</font>
+
+585
+00:59:24,400 --> 00:59:26,640
+<font color="white" size=".72c">great</font>
+
+586
+00:59:29,359 --> 00:59:34,760
+<font color="white" size=".72c">and see it takes a huge amount of kind</font>
+
+587
+00:59:31,480 --> 00:59:38,200
+<font color="white" size=".72c">of weird energy to take what's</font>
+
+588
+00:59:34,760 --> 00:59:39,110
+<font color="white" size=".72c">essentially starting off as like uh a</font>
+
+589
+00:59:38,200 --> 00:59:42,309
+<font color="white" size=".72c">rage</font>
+
+590
+00:59:39,110 --> 00:59:42,309
+<font color="white" size=".72c">[Music]</font>
+
+591
+00:59:44,039 --> 00:59:52,400
+<font color="white" size=".72c">of you know the rage as a result of</font>
+
+592
+00:59:48,480 --> 00:59:52,400
+<font color="white" size=".72c">giving attention to the Human</font>
+
+593
+00:59:52,640 --> 01:00:01,039
+<font color="white" size=".72c">Condition it's an unexp ected kind of go</font>
+
+594
+00:59:58,039 --> 01:00:01,039
+<font color="white" size=".72c">nowhere</font>
+
+595
+01:00:01,240 --> 01:00:07,400
+<font color="white" size=".72c">feeling I mean don't get me wrong it</font>
+
+596
+01:00:04,400 --> 01:00:07,400
+<font color="white" size=".72c">feels</font>
+
+597
+01:00:10,520 --> 01:00:16,640
+<font color="white" size=".72c">good I don't understand that um alls I</font>
+
+598
+01:00:14,520 --> 01:00:20,799
+<font color="white" size=".72c">know is it can hurt</font>
+
+599
+01:00:16,640 --> 01:00:23,160
+<font color="white" size=".72c">people to allow yourself to</font>
+
+600
+01:00:20,799 --> 01:00:28,359
+<font color="white" size=".72c">consistently</font>
+
+601
+01:00:23,160 --> 01:00:29,760
+<font color="white" size=".72c">um let the anger Cho the words in that</font>
+
+602
+01:00:28,359 --> 01:00:34,119
+<font color="white" size=".72c">part of the</font>
+
+603
+01:00:29,760 --> 01:00:34,119
+<font color="white" size=".72c">brain that does that sort of</font>
+
+604
+01:00:39,300 --> 01:00:56,520
+<font color="white" size=".72c">[Music]</font>
+
+605
+01:00:53,520 --> 01:00:56,520
+<font color="white" size=".72c">thing</font>
+
+606
+01:00:57,800 --> 01:01:04,530
+<font color="white" size=".72c">[Music]</font>
+
+607
+01:01:10,550 --> 01:01:13,659
+<font color="white" size=".72c">[Music]</font>
+
+608
+01:01:16,280 --> 01:01:21,389
+<font color="white" size=".72c">[Music]</font>
+
+609
+01:01:23,440 --> 01:01:26,440
+<font color="white" size=".72c">EX</font>
+
+610
+01:01:29,590 --> 01:01:33,719
+<font color="white" size=".72c">[Music]</font>
+
+611
+01:01:34,280 --> 01:01:40,280
+<font color="white" size=".72c">I suppose my my sort of sort of one take</font>
+
+612
+01:01:38,359 --> 01:01:44,119
+<font color="white" size=".72c">on my</font>
+
+613
+01:01:40,280 --> 01:01:49,480
+<font color="white" size=".72c">experience is that</font>
+
+614
+01:01:44,119 --> 01:01:52,480
+<font color="white" size=".72c">um it's really hard to focus</font>
+
+615
+01:01:49,480 --> 01:01:52,480
+<font color="white" size=".72c">on</font>
+
+616
+01:01:53,440 --> 01:02:02,440
+<font color="white" size=".72c">life</font>
+
+617
+01:01:56,440 --> 01:02:02,440
+<font color="white" size=".72c">and still find the motivation to</font>
+
+618
+01:02:04,680 --> 01:02:13,000
+<font color="white" size=".72c">type which is just my um attempt at</font>
+
+619
+01:02:09,200 --> 01:02:16,140
+<font color="white" size=".72c">revity and what is typically a long</font>
+
+620
+01:02:13,000 --> 01:02:19,219
+<font color="white" size=".72c">winded uh set of shared</font>
+
+621
+01:02:16,140 --> 01:02:19,219
+<font color="white" size=".72c">[Music]</font>
+
+622
+01:02:20,359 --> 01:02:26,359
+<font color="white" size=".72c">experiences I</font>
+
+623
+01:02:23,359 --> 01:02:26,359
+<font color="white" size=".72c">this</font>
+
+624
+01:02:30,000 --> 01:02:35,000
+<font color="white" size=".72c">I'm always trying to think of ways to be</font>
+
+625
+01:02:31,839 --> 01:02:40,760
+<font color="white" size=".72c">funny which is uh then when I say always</font>
+
+626
+01:02:35,000 --> 01:02:40,760
+<font color="white" size=".72c">I mean like I don't know every 3 to 5</font>
+
+627
+01:02:43,200 --> 01:02:48,440
+<font color="white" size=".72c">minutes I do my best it's a huge kind of</font>
+
+628
+01:02:46,200 --> 01:02:51,559
+<font color="white" size=".72c">like pain in the ass like actually it's</font>
+
+629
+01:02:48,440 --> 01:02:55,200
+<font color="white" size=".72c">a tremendous pain in the ass I I cannot</font>
+
+630
+01:02:51,559 --> 01:02:57,760
+<font color="white" size=".72c">express enough how</font>
+
+631
+01:02:55,200 --> 01:03:00,480
+<font color="white" size=".72c">un um</font>
+
+632
+01:02:57,760 --> 01:03:04,440
+<font color="white" size=".72c">oversimplified</font>
+
+633
+01:03:00,480 --> 01:03:10,400
+<font color="white" size=".72c">the um the railway system is in the</font>
+
+634
+01:03:04,440 --> 01:03:10,400
+<font color="white" size=".72c">upper Northern uh Peninsula States it's</font>
+
+635
+01:03:11,400 --> 01:03:16,039
+<font color="white" size=".72c">[Music]</font>
+
+636
+01:03:13,480 --> 01:03:18,680
+<font color="white" size=".72c">crazy that thing upper North what it</font>
+
+637
+01:03:16,039 --> 01:03:21,640
+<font color="white" size=".72c">upper North Peninsula States uh I don't</font>
+
+638
+01:03:18,680 --> 01:03:26,279
+<font color="white" size=".72c">think I'm not sure it's a thing</font>
+
+639
+01:03:21,640 --> 01:03:26,279
+<font color="white" size=".72c">um there's one Peninsula State</font>
+
+640
+01:03:26,799 --> 01:03:29,799
+<font color="white" size=".72c">anyways</font>
+
+641
+01:03:32,080 --> 01:03:54,770
+<font color="white" size=".72c">[Music]</font>
+
+642
+01:03:53,279 --> 01:03:58,139
+<font color="white" size=".72c">um</font>
+
+643
+01:03:54,770 --> 01:03:58,139
+<font color="white" size=".72c">[Music]</font>
+
+644
+01:04:00,270 --> 01:04:03,369
+<font color="white" size=".72c">[Music]</font>
+
+645
+01:04:04,480 --> 01:04:11,000
+<font color="white" size=".72c">oh the the Monumental task</font>
+
+646
+01:04:07,160 --> 01:04:13,079
+<font color="white" size=".72c">um of making a habit of not using</font>
+
+647
+01:04:11,000 --> 01:04:17,079
+<font color="white" size=".72c">absolute</font>
+
+648
+01:04:13,079 --> 01:04:20,520
+<font color="white" size=".72c">words um like always never all the time</font>
+
+649
+01:04:17,079 --> 01:04:23,200
+<font color="white" size=".72c">um it's another one</font>
+
+650
+01:04:20,520 --> 01:04:25,640
+<font color="white" size=".72c">um well I I guess</font>
+
+651
+01:04:23,200 --> 01:04:29,359
+<font color="white" size=".72c">that's</font>
+
+652
+01:04:25,640 --> 01:04:33,160
+<font color="white" size=".72c">a good set of examples um it's</font>
+
+653
+01:04:29,359 --> 01:04:38,119
+<font color="white" size=".72c">surprisingly just though that</font>
+
+654
+01:04:33,160 --> 01:04:43,720
+<font color="white" size=".72c">little twist in what is truly</font>
+
+655
+01:04:38,119 --> 01:04:43,720
+<font color="white" size=".72c">intended in terms of the thought</font>
+
+656
+01:04:44,000 --> 01:04:51,319
+<font color="white" size=".72c">really it it affects things</font>
+
+657
+01:04:48,319 --> 01:04:53,160
+<font color="white" size=".72c">that I wish I can describe better cuz</font>
+
+658
+01:04:51,319 --> 01:04:56,160
+<font color="white" size=".72c">it's subtle but</font>
+
+659
+01:04:53,160 --> 01:04:56,160
+<font color="white" size=".72c">profound</font>
+
+660
+01:04:56,720 --> 01:05:02,119
+<font color="white" size=".72c">why he always does that I always do this</font>
+
+661
+01:04:59,839 --> 01:05:06,440
+<font color="white" size=".72c">no you</font>
+
+662
+01:05:02,119 --> 01:05:09,480
+<font color="white" size=".72c">don't typically anybody spends a very</font>
+
+663
+01:05:06,440 --> 01:05:11,839
+<font color="white" size=".72c">oddly small fraction of amount of time</font>
+
+664
+01:05:09,480 --> 01:05:11,839
+<font color="white" size=".72c">doing</font>
+
+665
+01:05:13,760 --> 01:05:18,480
+<font color="white" size=".72c">anything and this is weird right like</font>
+
+666
+01:05:16,440 --> 01:05:20,950
+<font color="white" size=".72c">the uh at least to me to think about it</font>
+
+667
+01:05:18,480 --> 01:05:22,799
+<font color="white" size=".72c">in these terms</font>
+
+668
+01:05:20,950 --> 01:05:28,680
+<font color="white" size=".72c">[Music]</font>
+
+669
+01:05:22,799 --> 01:05:28,680
+<font color="white" size=".72c">uh you know can't see it when we're by</font>
+
+670
+01:05:28,760 --> 01:05:35,920
+<font color="white" size=".72c">ourselves or not even necessarily like</font>
+
+671
+01:05:31,559 --> 01:05:36,960
+<font color="white" size=".72c">alone but within familiar space um when</font>
+
+672
+01:05:35,920 --> 01:05:39,680
+<font color="white" size=".72c">we go</font>
+
+673
+01:05:36,960 --> 01:05:42,279
+<font color="white" size=".72c">outside uh to interact with the</font>
+
+674
+01:05:39,680 --> 01:05:46,240
+<font color="white" size=".72c">environment in our communities we have</font>
+
+675
+01:05:42,279 --> 01:05:50,400
+<font color="white" size=".72c">to act differently than we do when we</font>
+
+676
+01:05:46,240 --> 01:05:52,920
+<font color="white" size=".72c">are by ourselves or otherwise familiar</font>
+
+677
+01:05:50,400 --> 01:05:58,079
+<font color="white" size=".72c">space</font>
+
+678
+01:05:52,920 --> 01:06:00,839
+<font color="white" size=".72c">um and and the depictions through um</font>
+
+679
+01:05:58,079 --> 01:06:06,960
+<font color="white" size=".72c">I'll leave it at media television movies</font>
+
+680
+01:06:00,839 --> 01:06:06,960
+<font color="white" size=".72c">etc etc and I think paints a very narrow</font>
+
+681
+01:06:10,890 --> 01:06:14,960
+<font color="white" size=".72c">[Music]</font>
+
+682
+01:06:12,240 --> 01:06:18,119
+<font color="white" size=".72c">picture and while some of that you know</font>
+
+683
+01:06:14,960 --> 01:06:23,000
+<font color="white" size=".72c">I know is designed for good intent well</font>
+
+684
+01:06:18,119 --> 01:06:25,920
+<font color="white" size=".72c">intention uh I suppose um Safeguard</font>
+
+685
+01:06:23,000 --> 01:06:28,920
+<font color="white" size=".72c">reasons</font>
+
+686
+01:06:25,920 --> 01:06:32,720
+<font color="white" size=".72c">um I don't know if it doesn't doesn't</font>
+
+687
+01:06:28,920 --> 01:06:34,920
+<font color="white" size=".72c">end up making the general listener of</font>
+
+688
+01:06:32,720 --> 01:06:34,920
+<font color="white" size=".72c">the</font>
+
+689
+01:06:35,839 --> 01:06:41,400
+<font color="white" size=".72c">message at a disadvantage in terms of</font>
+
+690
+01:06:39,599 --> 01:06:45,960
+<font color="white" size=".72c">the amount of</font>
+
+691
+01:06:41,400 --> 01:06:50,160
+<font color="white" size=".72c">information they have available to</font>
+
+692
+01:06:45,960 --> 01:06:53,720
+<font color="white" size=".72c">compare their entire experience their</font>
+
+693
+01:06:50,160 --> 01:06:56,799
+<font color="white" size=".72c">entire waking living dreaming whatever</font>
+
+694
+01:06:53,720 --> 01:07:01,119
+<font color="white" size=".72c">EXP experience not dead you know</font>
+
+695
+01:06:56,799 --> 01:07:01,119
+<font color="white" size=".72c">whatever um the whole</font>
+
+696
+01:07:02,580 --> 01:07:07,909
+<font color="white" size=".72c">[Music]</font>
+
+697
+01:07:08,599 --> 01:07:14,760
+<font color="white" size=".72c">thing I believe and yes I'm one of those</font>
+
+698
+01:07:13,039 --> 01:07:16,960
+<font color="white" size=".72c">uh I don't know how it's considered</font>
+
+699
+01:07:14,760 --> 01:07:19,160
+<font color="white" size=".72c">these days but like uh it's like</font>
+
+700
+01:07:16,960 --> 01:07:21,400
+<font color="white" size=".72c">pretentious I think like oh yeah I don't</font>
+
+701
+01:07:19,160 --> 01:07:23,640
+<font color="white" size=".72c">want I don't really watch TV anymore you</font>
+
+702
+01:07:21,400 --> 01:07:26,480
+<font color="white" size=".72c">know that's that sort of thing yeah well</font>
+
+703
+01:07:23,640 --> 01:07:30,359
+<font color="white" size=".72c">also one of those people um but I I only</font>
+
+704
+01:07:26,480 --> 01:07:31,640
+<font color="white" size=".72c">bring it up CU it's an important uh fact</font>
+
+705
+01:07:30,359 --> 01:07:37,640
+<font color="white" size=".72c">of</font>
+
+706
+01:07:31,640 --> 01:07:41,160
+<font color="white" size=".72c">an to to know that I'm generally unaware</font>
+
+707
+01:07:37,640 --> 01:07:44,279
+<font color="white" size=".72c">if you know it a c censorship is still</font>
+
+708
+01:07:41,160 --> 01:07:46,640
+<font color="white" size=".72c">what it was oh uh you know it was like</font>
+
+709
+01:07:44,279 --> 01:07:49,119
+<font color="white" size=".72c">five six years ago you know I don't know</font>
+
+710
+01:07:46,640 --> 01:07:51,480
+<font color="white" size=".72c">if that's progressed at all soz I didn't</font>
+
+711
+01:07:49,119 --> 01:07:54,079
+<font color="white" size=".72c">kept up on it so I generally speak in</font>
+
+712
+01:07:51,480 --> 01:07:56,440
+<font color="white" size=".72c">ignorance on that topic and I'm believe</font>
+
+713
+01:07:54,079 --> 01:07:59,520
+<font color="white" size=".72c">that's how you're supposed to sound when</font>
+
+714
+01:07:56,440 --> 01:08:01,760
+<font color="white" size=".72c">you're um when you don't know something</font>
+
+715
+01:07:59,520 --> 01:08:03,880
+<font color="white" size=".72c">or</font>
+
+716
+01:08:01,760 --> 01:08:05,640
+<font color="white" size=".72c">otherwise</font>
+
+717
+01:08:03,880 --> 01:08:08,200
+<font color="white" size=".72c">unaware</font>
+
+718
+01:08:05,640 --> 01:08:09,880
+<font color="white" size=".72c">um but it took me a moment to recall</font>
+
+719
+01:08:08,200 --> 01:08:14,839
+<font color="white" size=".72c">that it's only been a short amount of</font>
+
+720
+01:08:09,880 --> 01:08:14,839
+<font color="white" size=".72c">time I doubt it's changed that much</font>
+
+721
+01:08:15,170 --> 01:08:25,839
+<font color="white" size=".72c">[Music]</font>
+
+722
+01:08:22,839 --> 01:08:25,839
+<font color="white" size=".72c">um</font>
+
+723
+01:08:26,158 --> 01:08:30,719
+<font color="white" size=".72c">I don't think it's within our control I</font>
+
+724
+01:08:28,399 --> 01:08:34,520
+<font color="white" size=".72c">think that that control is</font>
+
+725
+01:08:30,719 --> 01:08:38,439
+<font color="white" size=".72c">lost whatever day it was that they</font>
+
+726
+01:08:34,520 --> 01:08:38,439
+<font color="white" size=".72c">plugged the internet in</font>
+
+727
+01:08:41,238 --> 01:08:48,799
+<font color="white" size=".72c">together which uh Jesus that's been like</font>
+
+728
+01:08:45,359 --> 01:08:48,799
+<font color="white" size=".72c">30 some OD</font>
+
+729
+01:08:51,319 --> 01:09:00,080
+<font color="white" size=".72c">years yeah so</font>
+
+730
+01:08:55,029 --> 01:09:03,600
+<font color="white" size=".72c">[Music]</font>
+
+731
+01:09:00,080 --> 01:09:06,319
+<font color="white" size=".72c">if I say too much more than that uh then</font>
+
+732
+01:09:03,600 --> 01:09:06,319
+<font color="white" size=".72c">I have to take a</font>
+
+733
+01:09:07,719 --> 01:09:13,640
+<font color="white" size=".72c">position no it's not it turns out to not</font>
+
+734
+01:09:10,640 --> 01:09:16,679
+<font color="white" size=".72c">be worth it in this I want to say day</font>
+
+735
+01:09:13,640 --> 01:09:18,679
+<font color="white" size=".72c">and age but current</font>
+
+736
+01:09:16,679 --> 01:09:22,719
+<font color="white" size=".72c">time which</font>
+
+737
+01:09:18,679 --> 01:09:24,238
+<font color="white" size=".72c">just conveniently enough now</font>
+
+738
+01:09:22,719 --> 01:09:26,520
+<font color="white" size=".72c">um</font>
+
+739
+01:09:24,238 --> 01:09:28,640
+<font color="white" size=".72c">we we need better phrases for expressing</font>
+
+740
+01:09:26,520 --> 01:09:31,799
+<font color="white" size=".72c">these sort of things it's sort of funny</font>
+
+741
+01:09:28,640 --> 01:09:35,279
+<font color="white" size=".72c">I miss the space balls routine when it's</font>
+
+742
+01:09:31,799 --> 01:09:38,520
+<font color="white" size=".72c">then now Nows when however that went you</font>
+
+743
+01:09:35,279 --> 01:09:40,238
+<font color="white" size=".72c">know hilarious but now it's like</font>
+
+744
+01:09:38,520 --> 01:09:42,679
+<font color="white" size=".72c">[Music]</font>
+
+745
+01:09:40,238 --> 01:09:45,960
+<font color="white" size=".72c"> using the same words to try to</font>
+
+746
+01:09:42,679 --> 01:09:48,399
+<font color="white" size=".72c">describe two different experiences and</font>
+
+747
+01:09:45,960 --> 01:09:51,359
+<font color="white" size=".72c">then you know like why is it why is it</font>
+
+748
+01:09:48,399 --> 01:09:54,400
+<font color="white" size=".72c">confusing that's why um one of one of</font>
+
+749
+01:09:51,359 --> 01:09:56,199
+<font color="white" size=".72c">the reasons um that's that's the one I I</font>
+
+750
+01:09:54,400 --> 01:09:58,560
+<font color="white" size=".72c">focus on I</font>
+
+751
+01:09:56,199 --> 01:10:00,360
+<font color="white" size=".72c">don't well sometimes I do I try to</font>
+
+752
+01:09:58,560 --> 01:10:02,360
+<font color="white" size=".72c">pretend to know everything only in the</font>
+
+753
+01:10:00,360 --> 01:10:05,320
+<font color="white" size=".72c">sense of being confident in the things</font>
+
+754
+01:10:02,360 --> 01:10:11,080
+<font color="white" size=".72c">that I am saying um which is just you</font>
+
+755
+01:10:05,320 --> 01:10:14,520
+<font color="white" size=".72c">know knowing things and such a weird um</font>
+
+756
+01:10:11,080 --> 01:10:17,360
+<font color="white" size=".72c">thing I'm so I'm 43 I was</font>
+
+757
+01:10:14,520 --> 01:10:18,460
+<font color="white" size=".72c">born in 1980 I don't know why that's</font>
+
+758
+01:10:17,360 --> 01:10:20,800
+<font color="white" size=".72c">relevant but it came to</font>
+
+759
+01:10:18,460 --> 01:10:23,440
+<font color="white" size=".72c">[Music]</font>
+
+760
+01:10:20,800 --> 01:10:26,719
+<font color="white" size=".72c">mind which then distracted my thought</font>
+
+761
+01:10:23,440 --> 01:10:28,520
+<font color="white" size=".72c">process this and I've now U lost that</font>
+
+762
+01:10:26,719 --> 01:10:32,239
+<font color="white" size=".72c">particular thought somewhere back over</font>
+
+763
+01:10:28,520 --> 01:10:34,679
+<font color="white" size=".72c">here I'm guessing but will somehow I can</font>
+
+764
+01:10:32,239 --> 01:10:36,960
+<font color="white" size=".72c">only say through electrical impulses uh</font>
+
+765
+01:10:34,679 --> 01:10:41,400
+<font color="white" size=".72c">give back to the center that processes</font>
+
+766
+01:10:36,960 --> 01:10:42,560
+<font color="white" size=".72c">it um you know in conscious or um</font>
+
+767
+01:10:41,400 --> 01:10:46,480
+<font color="white" size=".72c">immediate</font>
+
+768
+01:10:42,560 --> 01:10:47,560
+<font color="white" size=".72c">attention um which I think is neat I</font>
+
+769
+01:10:46,480 --> 01:10:49,520
+<font color="white" size=".72c">think it's a neat</font>
+
+770
+01:10:47,560 --> 01:10:55,640
+<font color="white" size=".72c">[Music]</font>
+
+771
+01:10:49,520 --> 01:10:55,640
+<font color="white" size=".72c">uh I've been saying that too much um</font>
+
+772
+01:10:56,150 --> 01:10:59,250
+<font color="white" size=".72c">[Music]</font>
+
+773
+01:11:07,230 --> 01:11:10,370
+<font color="white" size=".72c">[Music]</font>
+
+774
+01:11:18,190 --> 01:11:21,610
+<font color="white" size=".72c">[Music]</font>
+
+775
+01:11:44,330 --> 01:11:53,800
+<font color="white" size=".72c">[Music]</font>
+
+776
+01:11:52,560 --> 01:12:21,720
+<font color="white" size=".72c">for</font>
+
+777
+01:11:53,800 --> 01:12:21,720
+<font color="white" size=".72c">[Music]</font>
+
+778
+01:12:22,480 --> 01:12:28,739
+<font color="white" size=".72c">is</font>
+
+779
+01:12:25,300 --> 01:12:28,739
+<font color="white" size=".72c">[Music]</font>
+
+780
+01:12:39,000 --> 01:12:43,760
+<font color="white" size=".72c">[Music]</font>
+
+781
+01:13:08,170 --> 01:13:17,539
+<font color="white" size=".72c">[Music]</font>
+
+782
+01:13:22,960 --> 01:13:29,200
+<font color="white" size=".72c">well let's see I do wish I had a bit</font>
+
+783
+01:13:25,360 --> 01:13:33,120
+<font color="white" size=".72c">more energy to</font>
+
+784
+01:13:29,200 --> 01:13:33,120
+<font color="white" size=".72c">[Music]</font>
+
+785
+01:13:36,440 --> 01:13:41,560
+<font color="white" size=".72c">um in my mind it wants to insert a some</font>
+
+786
+01:13:39,880 --> 01:13:43,280
+<font color="white" size=".72c">sort of humor there since I didn't</font>
+
+787
+01:13:41,560 --> 01:13:47,239
+<font color="white" size=".72c">really have anything of substance right</font>
+
+788
+01:13:43,280 --> 01:13:50,600
+<font color="white" size=".72c">away was kind of one to like</font>
+
+789
+01:13:47,239 --> 01:13:52,880
+<font color="white" size=".72c">that and so there's always something for</font>
+
+790
+01:13:50,600 --> 01:13:56,560
+<font color="white" size=".72c">the you know to fill in for what what it</font>
+
+791
+01:13:52,880 --> 01:13:56,560
+<font color="white" size=".72c">wants to to be humor</font>
+
+792
+01:13:57,239 --> 01:14:05,280
+<font color="white" size=".72c">it's uh it's it it is it's a I don't</font>
+
+793
+01:14:02,360 --> 01:14:05,280
+<font color="white" size=".72c">know it's</font>
+
+794
+01:14:05,360 --> 01:14:11,280
+<font color="white" size=".72c">uh it's the part of the thought process</font>
+
+795
+01:14:07,840 --> 01:14:13,560
+<font color="white" size=".72c">that's doing that and is uh wonderful it</font>
+
+796
+01:14:11,280 --> 01:14:13,560
+<font color="white" size=".72c">really</font>
+
+797
+01:14:14,159 --> 01:14:20,120
+<font color="white" size=".72c">is I don't know what exact Condition</font>
+
+798
+01:14:17,480 --> 01:14:22,520
+<font color="white" size=".72c">it's diagnosed as</font>
+
+799
+01:14:20,120 --> 01:14:24,199
+<font color="white" size=".72c">uh I don't want to say these days I'm</font>
+
+800
+01:14:22,520 --> 01:14:28,840
+<font color="white" size=".72c">not from</font>
+
+801
+01:14:24,199 --> 01:14:29,880
+<font color="white" size=".72c">1943 but it it's um yeah I would have to</font>
+
+802
+01:14:28,840 --> 01:14:33,159
+<font color="white" size=".72c">I would have</font>
+
+803
+01:14:29,880 --> 01:14:37,400
+<font color="white" size=".72c">to uh share</font>
+
+804
+01:14:33,159 --> 01:14:40,800
+<font color="white" size=".72c">that yeah again and again again and I</font>
+
+805
+01:14:37,400 --> 01:14:43,600
+<font color="white" size=".72c">don't really want to do that actually</font>
+
+806
+01:14:40,800 --> 01:14:47,480
+<font color="white" size=".72c">reason um sorry I didn't mean to be</font>
+
+807
+01:14:43,600 --> 01:14:52,280
+<font color="white" size=".72c">defensive at anything just</font>
+
+808
+01:14:47,480 --> 01:14:55,080
+<font color="white" size=".72c">uh sharing does that to people</font>
+
+809
+01:14:52,280 --> 01:14:58,480
+<font color="white" size=".72c">sometimes</font>
+
+810
+01:14:55,080 --> 01:14:58,480
+<font color="white" size=".72c">that's why I like stealing</font>
+
+811
+01:15:00,980 --> 01:15:04,120
+<font color="white" size=".72c">[Music]</font>
+
+812
+01:15:11,120 --> 01:15:17,880
+<font color="white" size=".72c">things iry</font>
+
+813
+01:15:14,159 --> 01:15:20,090
+<font color="white" size=".72c">anyways it's that kind</font>
+
+814
+01:15:17,880 --> 01:15:22,199
+<font color="white" size=".72c">of wa minute what is</font>
+
+815
+01:15:20,090 --> 01:15:25,199
+<font color="white" size=".72c">[Music]</font>
+
+816
+01:15:22,199 --> 01:15:25,199
+<font color="white" size=".72c">that</font>
+
+817
+01:15:27,980 --> 01:15:32,970
+<font color="white" size=".72c">[Music]</font>
+
+818
+01:15:44,650 --> 01:15:47,939
+<font color="white" size=".72c">[Music]</font>
+
+819
+01:15:52,199 --> 01:15:59,000
+<font color="white" size=".72c">o</font>
+
+820
+01:15:54,520 --> 01:16:02,400
+<font color="white" size=".72c">right right but I know it's a</font>
+
+821
+01:15:59,000 --> 01:16:05,400
+<font color="white" size=".72c">thing it's um some sort of identity</font>
+
+822
+01:16:02,400 --> 01:16:05,400
+<font color="white" size=".72c">disorder</font>
+
+823
+01:16:08,350 --> 01:16:12,219
+<font color="white" size=".72c">[Music]</font>
+
+824
+01:16:21,120 --> 01:16:27,080
+<font color="white" size=".72c">um which I uh</font>
+
+825
+01:16:24,560 --> 01:16:29,199
+<font color="white" size=".72c">for uh editorial purposes I happen to</font>
+
+826
+01:16:27,080 --> 01:16:32,360
+<font color="white" size=".72c">believe it's a byproduct of our culture</font>
+
+827
+01:16:29,199 --> 01:16:37,639
+<font color="white" size=".72c">more than an inherited Mental</font>
+
+828
+01:16:32,360 --> 01:16:43,159
+<font color="white" size=".72c">Illness but that is the least popular</font>
+
+829
+01:16:37,639 --> 01:16:45,800
+<font color="white" size=".72c">opinion in any sort of um commercial</font>
+
+830
+01:16:43,159 --> 01:16:45,800
+<font color="white" size=".72c">Endeavor</font>
+
+831
+01:16:47,460 --> 01:16:54,719
+<font color="white" size=".72c">[Music]</font>
+
+832
+01:16:49,920 --> 01:16:57,050
+<font color="white" size=".72c">so oh no was a thing I wanted to</font>
+
+833
+01:16:54,719 --> 01:17:03,440
+<font color="white" size=".72c">click on oh</font>
+
+834
+01:16:57,050 --> 01:17:07,360
+<font color="white" size=".72c">[Music]</font>
+
+835
+01:17:03,440 --> 01:17:10,360
+<font color="white" size=".72c">yes this interface it really is it it's</font>
+
+836
+01:17:07,360 --> 01:17:13,360
+<font color="white" size=".72c">really easy to um is it on the interface</font>
+
+837
+01:17:10,360 --> 01:17:17,840
+<font color="white" size=".72c">it is excellent um it's it is really</font>
+
+838
+01:17:13,360 --> 01:17:22,000
+<font color="white" size=".72c">easy to sort of um</font>
+
+839
+01:17:17,840 --> 01:17:23,600
+<font color="white" size=".72c">move the uh desired</font>
+
+840
+01:17:22,000 --> 01:17:26,040
+<font color="white" size=".72c">um</font>
+
+841
+01:17:23,600 --> 01:17:29,840
+<font color="white" size=".72c">uh well it's a representation of a task</font>
+
+842
+01:17:26,040 --> 01:17:29,840
+<font color="white" size=".72c">right application</font>
+
+843
+01:17:30,560 --> 01:17:36,800
+<font color="white" size=".72c">um in other words uh the workflow is</font>
+
+844
+01:17:33,880 --> 01:17:38,440
+<font color="white" size=".72c">it's it's a nice change of pace uh from</font>
+
+845
+01:17:36,800 --> 01:17:41,679
+<font color="white" size=".72c">the keyboard</font>
+
+846
+01:17:38,440 --> 01:17:45,440
+<font color="white" size=".72c">driven feels kind of flowy where the Keo</font>
+
+847
+01:17:41,679 --> 01:17:45,440
+<font color="white" size=".72c">Dr feels just more like uh</font>
+
+848
+01:17:45,679 --> 01:17:52,000
+<font color="white" size=".72c">rmic so the music makes sense</font>
+
+849
+01:17:49,900 --> 01:17:55,000
+<font color="white" size=".72c">[Music]</font>
+
+850
+01:17:52,000 --> 01:17:55,000
+<font color="white" size=".72c">um</font>
+
+851
+01:18:00,440 --> 01:18:02,800
+<font color="white" size=".72c">oh</font>
+
+852
+01:18:03,320 --> 01:18:07,360
+<font color="white" size=".72c">right well I don't like all the labels</font>
+
+853
+01:18:05,560 --> 01:18:10,560
+<font color="white" size=".72c">cuz they're all attached with uh</font>
+
+854
+01:18:07,360 --> 01:18:10,560
+<font color="white" size=".72c">opinions and</font>
+
+855
+01:18:16,200 --> 01:18:23,000
+<font color="white" size=".72c">[Music]</font>
+
+856
+01:18:21,920 --> 01:18:28,239
+<font color="white" size=".72c">it's</font>
+
+857
+01:18:23,000 --> 01:18:31,120
+<font color="white" size=".72c">[Music]</font>
+
+858
+01:18:28,239 --> 01:18:33,719
+<font color="white" size=".72c">oh disassociative identity disorder</font>
+
+859
+01:18:31,120 --> 01:18:35,480
+<font color="white" size=".72c">that's the that's what it's called Uh</font>
+
+860
+01:18:33,719 --> 01:18:37,239
+<font color="white" size=".72c">disintegration of normal integrated M</font>
+
+861
+01:18:35,480 --> 01:18:39,000
+<font color="white" size=".72c">Moder systems</font>
+
+862
+01:18:37,239 --> 01:18:44,800
+<font color="white" size=".72c">compartmentalization an alter of</font>
+
+863
+01:18:39,000 --> 01:18:44,800
+<font color="white" size=".72c">Consciousness Detachment and a defense</font>
+
+864
+01:18:44,960 --> 01:18:49,320
+<font color="white" size=".72c">mechanism that's funny</font>
+
+865
+01:18:51,400 --> 01:19:00,360
+<font color="white" size=".72c">um 83 % of the behavior defense</font>
+
+866
+01:18:56,840 --> 01:19:00,360
+<font color="white" size=".72c">Mech oh that's</font>
+
+867
+01:19:01,560 --> 01:19:06,840
+<font color="white" size=".72c">funny the last definition basically</font>
+
+868
+01:19:03,920 --> 01:19:10,159
+<font color="white" size=".72c">reflects the function of the first two</font>
+
+869
+01:19:06,840 --> 01:19:14,480
+<font color="white" size=".72c">definitions okay the last</font>
+
+870
+01:19:10,159 --> 01:19:16,880
+<font color="white" size=".72c">definition basically reflects the</font>
+
+871
+01:19:14,480 --> 01:19:18,960
+<font color="white" size=".72c">function the last definition basically</font>
+
+872
+01:19:16,880 --> 01:19:20,560
+<font color="white" size=".72c">reflects the functions of the first two</font>
+
+873
+01:19:18,960 --> 01:19:22,600
+<font color="white" size=".72c">definitions now I'm going to play a</font>
+
+874
+01:19:20,560 --> 01:19:25,400
+<font color="white" size=".72c">little game with myself where I try to</font>
+
+875
+01:19:22,600 --> 01:19:26,830
+<font color="white" size=".72c">de am I really stoned or is this a</font>
+
+876
+01:19:25,400 --> 01:19:28,639
+<font color="white" size=".72c">poorly written</font>
+
+877
+01:19:26,830 --> 01:19:30,800
+<font color="white" size=".72c">[Music]</font>
+
+878
+01:19:28,639 --> 01:19:32,639
+<font color="white" size=".72c">sentence I'm sorry I guess that sounds</font>
+
+879
+01:19:30,800 --> 01:19:36,040
+<font color="white" size=".72c">rude not poorly</font>
+
+880
+01:19:32,639 --> 01:19:38,880
+<font color="white" size=".72c">um H I forget what it's supposed to</font>
+
+881
+01:19:36,040 --> 01:19:41,760
+<font color="white" size=".72c">be but it's U meant to be</font>
+
+882
+01:19:38,880 --> 01:19:44,199
+<font color="white" size=".72c">polite Believe It or</font>
+
+883
+01:19:41,760 --> 01:19:45,960
+<font color="white" size=".72c">Not unfortunately I do not have enough</font>
+
+884
+01:19:44,199 --> 01:19:47,239
+<font color="white" size=".72c">context to fully understand or respond</font>
+
+885
+01:19:45,960 --> 01:19:48,960
+<font color="white" size=".72c">to your statement so that tells me</font>
+
+886
+01:19:47,239 --> 01:19:51,800
+<font color="white" size=".72c">something right there I'm usually pretty</font>
+
+887
+01:19:48,960 --> 01:19:52,960
+<font color="white" size=".72c">good at getting Claud to talk to me so</font>
+
+888
+01:19:51,800 --> 01:19:54,960
+<font color="white" size=".72c">but now's going to lecture me for for</font>
+
+889
+01:19:52,960 --> 01:19:56,639
+<font color="white" size=".72c">some reason to have a productive</font>
+
+890
+01:19:54,960 --> 01:19:58,760
+<font color="white" size=".72c">discussion would be helpful if you would</font>
+
+891
+01:19:56,639 --> 01:20:00,480
+<font color="white" size=".72c">provide full context what were the</font>
+
+892
+01:19:58,760 --> 01:20:03,920
+<font color="white" size=".72c">previous sub you gave what was the final</font>
+
+893
+01:20:00,480 --> 01:20:07,400
+<font color="white" size=".72c">third okay slow down Claude</font>
+
+894
+01:20:03,920 --> 01:20:11,120
+<font color="white" size=".72c">okay like what the</font>
+
+895
+01:20:07,400 --> 01:20:13,600
+<font color="white" size=".72c"> I ask was it a question or a</font>
+
+896
+01:20:11,120 --> 01:20:17,400
+<font color="white" size=".72c">statement it was a</font>
+
+897
+01:20:13,600 --> 01:20:19,520
+<font color="white" size=".72c">statement and it just</font>
+
+898
+01:20:17,400 --> 01:20:24,679
+<font color="white" size=".72c">onslaught</font>
+
+899
+01:20:19,520 --> 01:20:28,560
+<font color="white" size=".72c">of uh well in the context of a database</font>
+
+900
+01:20:24,679 --> 01:20:30,530
+<font color="white" size=".72c">response to a query uh it is a thorough</font>
+
+901
+01:20:28,560 --> 01:20:32,199
+<font color="white" size=".72c">clarification of the</font>
+
+902
+01:20:30,530 --> 01:20:35,480
+<font color="white" size=".72c">[Music]</font>
+
+903
+01:20:32,199 --> 01:20:39,600
+<font color="white" size=".72c">information that it's trying to</font>
+
+904
+01:20:35,480 --> 01:20:42,199
+<font color="white" size=".72c">produce for the</font>
+
+905
+01:20:39,600 --> 01:20:47,120
+<font color="white" size=".72c">[Music]</font>
+
+906
+01:20:42,199 --> 01:20:47,120
+<font color="white" size=".72c">uh person using the</font>
+
+907
+01:20:51,520 --> 01:20:58,400
+<font color="white" size=".72c">tool and now I have to do more</font>
+
+908
+01:20:55,440 --> 01:21:03,159
+<font color="white" size=".72c">work I didn't mean to copy and paste it</font>
+
+909
+01:20:58,400 --> 01:21:03,159
+<font color="white" size=".72c">just like that last two yeah hold</font>
+
+910
+01:21:09,690 --> 01:21:24,639
+<font color="white" size=".72c">[Music]</font>
+
+911
+01:21:21,639 --> 01:21:24,639
+<font color="white" size=".72c">on</font>
+
+912
+01:21:26,130 --> 01:21:29,430
+<font color="white" size=".72c">[Music]</font>
+
+913
+01:21:34,040 --> 01:21:46,760
+<font color="white" size=".72c">[Music]</font>
+
+914
+01:21:44,960 --> 01:21:48,280
+<font color="white" size=".72c">start there unfortunately I cannot</font>
+
+915
+01:21:46,760 --> 01:21:49,960
+<font color="white" size=".72c">definitively State whether generative</font>
+
+916
+01:21:48,280 --> 01:21:51,639
+<font color="white" size=".72c">and functional grammars are fully align</font>
+
+917
+01:21:49,960 --> 01:21:54,639
+<font color="white" size=".72c">with the syntactical standards of</font>
+
+918
+01:21:51,639 --> 01:21:54,639
+<font color="white" size=".72c">commonly spoken</font>
+
+919
+01:21:56,159 --> 01:22:02,440
+<font color="white" size=".72c">that's good it didn't chat GTP me so</font>
+
+920
+01:21:59,760 --> 01:22:06,159
+<font color="white" size=".72c">chat GTP would have tried to me</font>
+
+921
+01:22:02,440 --> 01:22:08,170
+<font color="white" size=".72c">here which don't uh you</font>
+
+922
+01:22:06,159 --> 01:22:11,880
+<font color="white" size=".72c">know</font>
+
+923
+01:22:08,170 --> 01:22:17,239
+<font color="white" size=".72c">[Laughter]</font>
+
+924
+01:22:11,880 --> 01:22:21,679
+<font color="white" size=".72c">I it is also much better at</font>
+
+925
+01:22:17,239 --> 01:22:24,239
+<font color="white" size=".72c">um defining layouts defining outlines uh</font>
+
+926
+01:22:21,679 --> 01:22:28,320
+<font color="white" size=".72c">summarizing</font>
+
+927
+01:22:24,239 --> 01:22:28,320
+<font color="white" size=".72c">um but yeah it</font>
+
+928
+01:22:29,159 --> 01:22:36,360
+<font color="white" size=".72c">lies um but anyway it's it's an OD</font>
+
+929
+01:22:32,400 --> 01:22:37,960
+<font color="white" size=".72c">restriction that is is obviously Up For</font>
+
+930
+01:22:36,360 --> 01:22:41,400
+<font color="white" size=".72c">Debate as to how much it should be</font>
+
+931
+01:22:37,960 --> 01:22:43,920
+<font color="white" size=".72c">restricted restricted excuse me you know</font>
+
+932
+01:22:41,400 --> 01:22:46,040
+<font color="white" size=".72c">who should restrict it is it the user</font>
+
+933
+01:22:43,920 --> 01:22:50,199
+<font color="white" size=".72c">responsibility is it the company</font>
+
+934
+01:22:46,040 --> 01:22:52,239
+<font color="white" size=".72c">responsibility you know that whole thing</font>
+
+935
+01:22:50,199 --> 01:22:57,199
+<font color="white" size=".72c">um I don't know what we've learned from</font>
+
+936
+01:22:52,239 --> 01:23:03,239
+<font color="white" size=".72c">every re how do I say uh uh all the</font>
+
+937
+01:22:57,199 --> 01:23:05,239
+<font color="white" size=".72c">other sectors in our um</font>
+
+938
+01:23:03,239 --> 01:23:08,920
+<font color="white" size=".72c">economy I'm just I'm trying to think of</font>
+
+939
+01:23:05,239 --> 01:23:11,600
+<font color="white" size=".72c">a a PO a more polite way of saying um</font>
+
+940
+01:23:08,920 --> 01:23:14,760
+<font color="white" size=".72c">this is not a new problem and a lot of a</font>
+
+941
+01:23:11,600 --> 01:23:18,440
+<font color="white" size=".72c">lot of it seems to be uh being treated</font>
+
+942
+01:23:14,760 --> 01:23:21,320
+<font color="white" size=".72c">like it is and it's um it's hard it's</font>
+
+943
+01:23:18,440 --> 01:23:24,080
+<font color="white" size=".72c">hard to try to figure out ways to be um</font>
+
+944
+01:23:21,320 --> 01:23:26,320
+<font color="white" size=".72c">sort of uh</font>
+
+945
+01:23:24,080 --> 01:23:28,239
+<font color="white" size=".72c">you're kind of raising the signal hey uh</font>
+
+946
+01:23:26,320 --> 01:23:31,840
+<font color="white" size=".72c">we need to kind of</font>
+
+947
+01:23:28,239 --> 01:23:35,600
+<font color="white" size=".72c">uh really really</font>
+
+948
+01:23:31,840 --> 01:23:38,040
+<font color="white" size=".72c">assess uh how how we use and how we</font>
+
+949
+01:23:35,600 --> 01:23:43,560
+<font color="white" size=".72c">using these these</font>
+
+950
+01:23:38,040 --> 01:23:43,560
+<font color="white" size=".72c">tools these fantastically useful</font>
+
+951
+01:23:44,199 --> 01:23:52,400
+<font color="white" size=".72c">tools okay so it does uh does uh it</font>
+
+952
+01:23:49,199 --> 01:23:56,080
+<font color="white" size=".72c">neglects to make an attempt at pulling</font>
+
+953
+01:23:52,400 --> 01:24:00,239
+<font color="white" size=".72c">pulling together an answer that's good</font>
+
+954
+01:23:56,080 --> 01:24:04,280
+<font color="white" size=".72c">um although what I what I do like about</font>
+
+955
+01:24:00,239 --> 01:24:09,880
+<font color="white" size=".72c">uh gbt chat GBP that when it does you</font>
+
+956
+01:24:04,280 --> 01:24:11,080
+<font color="white" size=".72c">that there are instances where in that</font>
+
+957
+01:24:09,880 --> 01:24:13,159
+<font color="white" size=".72c">[Music]</font>
+
+958
+01:24:11,080 --> 01:24:19,360
+<font color="white" size=".72c">um I don't know I don't I don't know</font>
+
+959
+01:24:13,159 --> 01:24:23,520
+<font color="white" size=".72c">what to call it lies seems to much</font>
+
+960
+01:24:19,360 --> 01:24:27,480
+<font color="white" size=".72c">uh it needs to be a a a more computery</font>
+
+961
+01:24:23,520 --> 01:24:30,239
+<font color="white" size=".72c">word I guess it can't this one can't be</font>
+
+962
+01:24:27,480 --> 01:24:30,239
+<font color="white" size=".72c">part of that</font>
+
+963
+01:24:32,040 --> 01:24:40,400
+<font color="white" size=".72c">metaphor but you know anyways um so I'm</font>
+
+964
+01:24:37,120 --> 01:24:42,679
+<font color="white" size=".72c">I'm just trying to say that if you run</font>
+
+965
+01:24:40,400 --> 01:24:45,320
+<font color="white" size=".72c">into that sort of thing uh obviously</font>
+
+966
+01:24:42,679 --> 01:24:47,360
+<font color="white" size=".72c">it's probably not the desired result but</font>
+
+967
+01:24:45,320 --> 01:24:51,280
+<font color="white" size=".72c">it's not necessarily dismissive of just</font>
+
+968
+01:24:47,360 --> 01:24:55,280
+<font color="white" size=".72c">something that's wrong um it does uh</font>
+
+969
+01:24:51,280 --> 01:24:58,199
+<font color="white" size=".72c">anyways um which I but then it it does</font>
+
+970
+01:24:55,280 --> 01:25:01,400
+<font color="white" size=".72c">then just take take the extra bandwidth</font>
+
+971
+01:24:58,199 --> 01:25:04,080
+<font color="white" size=".72c">to um you know</font>
+
+972
+01:25:01,400 --> 01:25:08,159
+<font color="white" size=".72c">layout let's</font>
+
+973
+01:25:04,080 --> 01:25:10,280
+<font color="white" size=".72c">see as the listen to this</font>
+
+974
+01:25:08,159 --> 01:25:13,400
+<font color="white" size=".72c">reasoning</font>
+
+975
+01:25:10,280 --> 01:25:16,800
+<font color="white" size=".72c">gives is this is a this is a complex</font>
+
+976
+01:25:13,400 --> 01:25:18,040
+<font color="white" size=".72c">issue with ongoing debate among</font>
+
+977
+01:25:16,800 --> 01:25:20,080
+<font color="white" size=".72c">[Music]</font>
+
+978
+01:25:18,040 --> 01:25:22,800
+<font color="white" size=".72c">lists it's like oh I didn't I</font>
+
+979
+01:25:20,080 --> 01:25:25,800
+<font color="white" size=".72c">technically didn't know that</font>
+
+980
+01:25:22,800 --> 01:25:25,800
+<font color="white" size=".72c">so</font>
+
+981
+01:25:26,000 --> 01:25:34,159
+<font color="white" size=".72c">um oh okay so my question was very</font>
+
+982
+01:25:29,840 --> 01:25:36,960
+<font color="white" size=".72c">specific to something else and it</font>
+
+983
+01:25:34,159 --> 01:25:38,800
+<font color="white" size=".72c">replied withfor cannot depend State</font>
+
+984
+01:25:36,960 --> 01:25:40,320
+<font color="white" size=".72c">whether generative function of grammars</font>
+
+985
+01:25:38,800 --> 01:25:42,239
+<font color="white" size=".72c">are fully aligned with the syntactical</font>
+
+986
+01:25:40,320 --> 01:25:44,280
+<font color="white" size=".72c">standards of commonly spoken English</font>
+
+987
+01:25:42,239 --> 01:25:46,159
+<font color="white" size=".72c">which is by the way kind just basically</font>
+
+988
+01:25:44,280 --> 01:25:49,040
+<font color="white" size=".72c">a</font>
+
+989
+01:25:46,159 --> 01:25:53,280
+<font color="white" size=".72c">sentence any it's</font>
+
+990
+01:25:49,040 --> 01:25:56,920
+<font color="white" size=".72c">uh how do I say um commonly spoken</font>
+
+991
+01:25:53,280 --> 01:25:58,520
+<font color="white" size=".72c">English is sort of um the semi-ironic</font>
+
+992
+01:25:56,920 --> 01:26:02,560
+<font color="white" size=".72c">part</font>
+
+993
+01:25:58,520 --> 01:26:07,080
+<font color="white" size=".72c">um not for honestly not for humor sake</font>
+
+994
+01:26:02,560 --> 01:26:12,400
+<font color="white" size=".72c">for um for the sake of how do I say at</font>
+
+995
+01:26:07,080 --> 01:26:14,760
+<font color="white" size=".72c">the end of that thought I go oh okay</font>
+
+996
+01:26:12,400 --> 01:26:19,360
+<font color="white" size=".72c">what I'm trying to really ascertain here</font>
+
+997
+01:26:14,760 --> 01:26:22,719
+<font color="white" size=".72c">is whether or not this person who is uh</font>
+
+998
+01:26:19,360 --> 01:26:27,960
+<font color="white" size=".72c">representing an institution that</font>
+
+999
+01:26:22,719 --> 01:26:31,080
+<font color="white" size=".72c">is publishing information in what is</font>
+
+1000
+01:26:27,960 --> 01:26:33,920
+<font color="white" size=".72c">known to be and this this sucks to say</font>
+
+1001
+01:26:31,080 --> 01:26:36,239
+<font color="white" size=".72c">cuz I know it's not intentional I do</font>
+
+1002
+01:26:33,920 --> 01:26:40,440
+<font color="white" size=".72c">believe that but I do believe it is</font>
+
+1003
+01:26:36,239 --> 01:26:43,600
+<font color="white" size=".72c">still used in the sense of um you know</font>
+
+1004
+01:26:40,440 --> 01:26:48,239
+<font color="white" size=".72c">that's what they</font>
+
+1005
+01:26:43,600 --> 01:26:50,480
+<font color="white" size=".72c">do it's not to them it's not about this</font>
+
+1006
+01:26:48,239 --> 01:26:52,920
+<font color="white" size=".72c">just I have to give that very loud</font>
+
+1007
+01:26:50,480 --> 01:26:55,840
+<font color="white" size=".72c">disclaimer it's not to them it's not</font>
+
+1008
+01:26:52,920 --> 01:27:00,840
+<font color="white" size=".72c">about this so therefore you know it's</font>
+
+1009
+01:26:55,840 --> 01:27:02,380
+<font color="white" size=".72c">not something to hold against but</font>
+
+1010
+01:27:00,840 --> 01:27:05,630
+<font color="white" size=".72c">um</font>
+
+1011
+01:27:02,380 --> 01:27:05,630
+<font color="white" size=".72c">[Music]</font>
+
+1012
+01:27:05,960 --> 01:27:13,360
+<font color="white" size=".72c">it's um using this tool is very</font>
+
+1013
+01:27:09,360 --> 01:27:13,360
+<font color="white" size=".72c">powerful uh to put it</font>
+
+1014
+01:27:14,960 --> 01:27:18,920
+<font color="white" size=".72c">simply a</font>
+
+1015
+01:27:17,400 --> 01:27:21,119
+<font color="white" size=".72c">sentence</font>
+
+1016
+01:27:18,920 --> 01:27:24,020
+<font color="white" size=".72c">misworded</font>
+
+1017
+01:27:21,119 --> 01:27:25,239
+<font color="white" size=".72c">misunderstood otherwise</font>
+
+1018
+01:27:24,020 --> 01:27:27,719
+<font color="white" size=".72c">[Music]</font>
+
+1019
+01:27:25,239 --> 01:27:30,920
+<font color="white" size=".72c">misinterpreted read</font>
+
+1020
+01:27:27,719 --> 01:27:35,199
+<font color="white" size=".72c">by an overly</font>
+
+1021
+01:27:30,920 --> 01:27:35,199
+<font color="white" size=".72c">enthusiastic person trying to</font>
+
+1022
+01:27:35,360 --> 01:27:43,880
+<font color="white" size=".72c">help who then dedicates their life to</font>
+
+1023
+01:27:39,480 --> 01:27:43,880
+<font color="white" size=".72c">studying some sort of</font>
+
+1024
+01:27:44,760 --> 01:27:53,520
+<font color="white" size=".72c">uh some sort of medicinal path I</font>
+
+1025
+01:27:49,440 --> 01:27:56,840
+<font color="white" size=".72c">suppose huh and that person can then</font>
+
+1026
+01:27:53,520 --> 01:27:58,159
+<font color="white" size=".72c">inherit that sort of</font>
+
+1027
+01:27:56,840 --> 01:28:03,400
+<font color="white" size=".72c">[Music]</font>
+
+1028
+01:27:58,159 --> 01:28:05,480
+<font color="white" size=".72c">um information and do significant</font>
+
+1029
+01:28:03,400 --> 01:28:11,199
+<font color="white" size=".72c">damage to</font>
+
+1030
+01:28:05,480 --> 01:28:11,199
+<font color="white" size=".72c">lives people's lives like yours like</font>
+
+1031
+01:28:14,360 --> 01:28:20,239
+<font color="white" size=".72c">[Music]</font>
+
+1032
+01:28:16,920 --> 01:28:24,480
+<font color="white" size=".72c">mine so it's a hard task to critique</font>
+
+1033
+01:28:20,239 --> 01:28:27,800
+<font color="white" size=".72c">these things with kind of the framework</font>
+
+1034
+01:28:24,480 --> 01:28:33,119
+<font color="white" size=".72c">of uh Where Do We</font>
+
+1035
+01:28:27,800 --> 01:28:35,119
+<font color="white" size=".72c">Begin you know uh so uh the only thing I</font>
+
+1036
+01:28:33,119 --> 01:28:41,280
+<font color="white" size=".72c">believe I can do in my</font>
+
+1037
+01:28:35,119 --> 01:28:43,880
+<font color="white" size=".72c">lifetime uh is to do my bus to use what</font>
+
+1038
+01:28:41,280 --> 01:28:45,639
+<font color="white" size=".72c">you know is our version of like a wheel</font>
+
+1039
+01:28:43,880 --> 01:28:49,239
+<font color="white" size=".72c">or something of that to that effect or a</font>
+
+1040
+01:28:45,639 --> 01:28:54,000
+<font color="white" size=".72c">light bulb if you will I guess uh you</font>
+
+1041
+01:28:49,239 --> 01:28:56,159
+<font color="white" size=".72c">know and sort of due diligence to use a</font>
+
+1042
+01:28:54,000 --> 01:29:00,080
+<font color="white" size=".72c">tool that makes a lot of this type of</font>
+
+1043
+01:28:56,159 --> 01:29:00,080
+<font color="white" size=".72c">work uh just much</font>
+
+1044
+01:29:00,320 --> 01:29:09,239
+<font color="white" size=".72c">easier truly uh it it is something just</font>
+
+1045
+01:29:05,080 --> 01:29:12,320
+<font color="white" size=".72c">indeed remarkable</font>
+
+1046
+01:29:09,239 --> 01:29:15,520
+<font color="white" size=".72c">um but the languages that are used to</font>
+
+1047
+01:29:12,320 --> 01:29:18,630
+<font color="white" size=".72c">being Express that are used to express</font>
+
+1048
+01:29:15,520 --> 01:29:19,880
+<font color="white" size=".72c">uh you know so much</font>
+
+1049
+01:29:18,630 --> 01:29:23,719
+<font color="white" size=".72c">[Music]</font>
+
+1050
+01:29:19,880 --> 01:29:25,400
+<font color="white" size=".72c">of circumstance in idual circumstance is</font>
+
+1051
+01:29:23,719 --> 01:29:27,679
+<font color="white" size=".72c">incorrect it turns out to be</font>
+
+1052
+01:29:25,400 --> 01:29:30,880
+<font color="white" size=".72c">syntactically grammatically</font>
+
+1053
+01:29:27,679 --> 01:29:35,040
+<font color="white" size=".72c">incorrect not by my assessment that is</font>
+
+1054
+01:29:30,880 --> 01:29:38,800
+<font color="white" size=".72c">an assessment based on um people's uh</font>
+
+1055
+01:29:35,040 --> 01:29:42,520
+<font color="white" size=".72c">how do you say qualified FK people's um</font>
+
+1056
+01:29:38,800 --> 01:29:46,119
+<font color="white" size=".72c">pointing out of the fact that oh yeah</font>
+
+1057
+01:29:42,520 --> 01:29:46,119
+<font color="white" size=".72c">English is based on a set of</font>
+
+1058
+01:29:46,740 --> 01:29:53,040
+<font color="white" size=".72c">[Laughter]</font>
+
+1059
+01:29:48,760 --> 01:29:57,080
+<font color="white" size=".72c">rules you know um that's fair very</font>
+
+1060
+01:29:53,040 --> 01:29:57,080
+<font color="white" size=".72c">important uh in</font>
+
+1061
+01:30:00,639 --> 01:30:04,760
+<font color="white" size=".72c">understanding it's supposed to be like</font>
+
+1062
+01:30:02,679 --> 01:30:06,320
+<font color="white" size=".72c">hopeful it's a it's a hopeful message</font>
+
+1063
+01:30:04,760 --> 01:30:08,679
+<font color="white" size=".72c">it's not it's a bit of it's my</font>
+
+1064
+01:30:06,320 --> 01:30:11,679
+<font color="white" size=".72c">frustration of not being able to</font>
+
+1065
+01:30:08,679 --> 01:30:11,679
+<font color="white" size=".72c">articulate</font>
+
+1066
+01:30:16,980 --> 01:30:24,360
+<font color="white" size=".72c">[Music]</font>
+
+1067
+01:30:19,840 --> 01:30:24,360
+<font color="white" size=".72c">uh is this one I hope</font>
+
+1068
+01:30:27,700 --> 01:30:30,840
+<font color="white" size=".72c">[Music]</font>
+
+1069
+01:30:31,440 --> 01:30:35,639
+<font color="white" size=".72c">not I'm just hoping I haven't gotten all</font>
+
+1070
+01:30:34,040 --> 01:30:38,040
+<font color="white" size=".72c">the way through this yet that there is</font>
+
+1071
+01:30:35,639 --> 01:30:40,760
+<font color="white" size=".72c">no sweeping</font>
+
+1072
+01:30:38,040 --> 01:30:41,590
+<font color="white" size=".72c">generalizations that's what I'm</font>
+
+1073
+01:30:40,760 --> 01:30:42,920
+<font color="white" size=".72c">concerned</font>
+
+1074
+01:30:41,590 --> 01:30:46,719
+<font color="white" size=".72c">[Music]</font>
+
+1075
+01:30:42,920 --> 01:30:46,719
+<font color="white" size=".72c">with is when we</font>
+
+1076
+01:30:48,040 --> 01:30:54,719
+<font color="white" size=".72c">get when we explore these sort of things</font>
+
+1077
+01:30:51,199 --> 01:30:54,719
+<font color="white" size=".72c">we feel that a sense of</font>
+
+1078
+01:30:55,360 --> 01:31:01,400
+<font color="white" size=".72c">importance and unfortunately what comes</font>
+
+1079
+01:30:58,520 --> 01:31:04,400
+<font color="white" size=".72c">along with that is a very persistent</font>
+
+1080
+01:31:01,400 --> 01:31:07,119
+<font color="white" size=".72c">sense of</font>
+
+1081
+01:31:04,400 --> 01:31:12,719
+<font color="white" size=".72c">certainty and then</font>
+
+1082
+01:31:07,119 --> 01:31:15,400
+<font color="white" size=".72c">excitement uh at the at the uh you</font>
+
+1083
+01:31:12,719 --> 01:31:18,199
+<font color="white" size=".72c">know it's a conditioned response but the</font>
+
+1084
+01:31:15,400 --> 01:31:20,760
+<font color="white" size=".72c">excitement at the prospect of future</font>
+
+1085
+01:31:18,199 --> 01:31:22,600
+<font color="white" size=".72c">recognition or acceptance or</font>
+
+1086
+01:31:20,760 --> 01:31:24,280
+<font color="white" size=".72c">validation</font>
+
+1087
+01:31:22,600 --> 01:31:27,480
+<font color="white" size=".72c">a lot of people's lines have been</font>
+
+1088
+01:31:24,280 --> 01:31:30,280
+<font color="white" size=".72c">damaged because prominent figures in</font>
+
+1089
+01:31:27,480 --> 01:31:30,280
+<font color="white" size=".72c">institutional</font>
+
+1090
+01:31:32,000 --> 01:31:38,760
+<font color="white" size=".72c">positions um wanted to succeed just too</font>
+
+1091
+01:31:36,119 --> 01:31:38,760
+<font color="white" size=".72c">a little too</font>
+
+1092
+01:31:42,960 --> 01:31:48,280
+<font color="white" size=".72c">much which I hear myself say that out</font>
+
+1093
+01:31:46,080 --> 01:31:51,840
+<font color="white" size=".72c">loud it sounds it sounds a bit vague</font>
+
+1094
+01:31:48,280 --> 01:31:53,639
+<font color="white" size=".72c">it's not really um CU what I'm trying to</font>
+
+1095
+01:31:51,840 --> 01:31:57,679
+<font color="white" size=".72c">do is not to offend but I'm also trying</font>
+
+1096
+01:31:53,639 --> 01:32:00,600
+<font color="white" size=".72c">not to um leave any detail</font>
+
+1097
+01:31:57,679 --> 01:32:04,760
+<font color="white" size=".72c">out and that's really hard to</font>
+
+1098
+01:32:00,600 --> 01:32:07,000
+<font color="white" size=".72c">do um growing up on television</font>
+
+1099
+01:32:04,760 --> 01:32:10,880
+<font color="white" size=".72c">programming</font>
+
+1100
+01:32:07,000 --> 01:32:15,420
+<font color="white" size=".72c">um which I love that's what it's called</font>
+
+1101
+01:32:10,880 --> 01:32:20,679
+<font color="white" size=".72c">I I truly do it's</font>
+
+1102
+01:32:15,420 --> 01:32:23,679
+<font color="white" size=".72c">[Music]</font>
+
+1103
+01:32:20,679 --> 01:32:23,679
+<font color="white" size=".72c">um</font>
+
+1104
+01:32:27,400 --> 01:32:31,480
+<font color="white" size=".72c">it makes sense right like why we're</font>
+
+1105
+01:32:29,159 --> 01:32:34,080
+<font color="white" size=".72c">always so excited about everything</font>
+
+1106
+01:32:31,480 --> 01:32:34,080
+<font color="white" size=".72c">especially in</font>
+
+1107
+01:32:34,640 --> 01:32:40,159
+<font color="white" size=".72c">[Music]</font>
+
+1108
+01:32:36,679 --> 01:32:44,560
+<font color="white" size=".72c">America it's it's just something that</font>
+
+1109
+01:32:40,159 --> 01:32:46,960
+<font color="white" size=".72c">has developed as a society over 2 300</font>
+
+1110
+01:32:44,560 --> 01:32:48,760
+<font color="white" size=".72c">years as a result</font>
+
+1111
+01:32:46,960 --> 01:32:52,440
+<font color="white" size=".72c">of</font>
+
+1112
+01:32:48,760 --> 01:32:55,920
+<font color="white" size=".72c">um a sort of move away from oppressing</font>
+
+1113
+01:32:52,440 --> 01:32:55,920
+<font color="white" size=".72c">or repressing</font>
+
+1114
+01:33:06,400 --> 01:33:09,490
+<font color="white" size=".72c">[Music]</font>
+
+1115
+01:33:12,280 --> 01:33:16,880
+<font color="white" size=".72c">[Music]</font>
+
+1116
+01:33:20,560 --> 01:33:24,920
+<font color="white" size=".72c">ourselves it's also</font>
+
+1117
+01:33:29,930 --> 01:33:34,649
+<font color="white" size=".72c">[Music]</font>
+
+1118
+01:33:39,600 --> 01:33:43,840
+<font color="white" size=".72c">yeah struggled could not comprehend the</font>
+
+1119
+01:33:42,520 --> 01:33:46,840
+<font color="white" size=".72c">logic of her</font>
+
+1120
+01:33:43,840 --> 01:33:46,840
+<font color="white" size=".72c">maltreatment</font>
+
+1121
+01:33:49,840 --> 01:33:56,800
+<font color="white" size=".72c">that's that that to me in hopefully</font>
+
+1122
+01:33:53,760 --> 01:33:58,960
+<font color="white" size=".72c">terms that are just an attempt at</font>
+
+1123
+01:33:56,800 --> 01:34:00,840
+<font color="white" size=".72c">getting you know the most number of</font>
+
+1124
+01:33:58,960 --> 01:34:05,760
+<font color="white" size=".72c">people to</font>
+
+1125
+01:34:00,840 --> 01:34:07,560
+<font color="white" size=".72c">agree on the words but um could not</font>
+
+1126
+01:34:05,760 --> 01:34:10,360
+<font color="white" size=".72c">comprehend the logic of her Mal</font>
+
+1127
+01:34:07,560 --> 01:34:13,080
+<font color="white" size=".72c">treatment those so that's so picture two</font>
+
+1128
+01:34:10,360 --> 01:34:15,920
+<font color="white" size=".72c">people engaged in uh</font>
+
+1129
+01:34:13,080 --> 01:34:19,520
+<font color="white" size=".72c">in engaged two people</font>
+
+1130
+01:34:15,920 --> 01:34:23,480
+<font color="white" size=".72c">engaged and they're in a disagreement a</font>
+
+1131
+01:34:19,520 --> 01:34:23,480
+<font color="white" size=".72c">conflict about something</font>
+
+1132
+01:34:24,639 --> 01:34:31,679
+<font color="white" size=".72c">right so a fascinating study about 68</font>
+
+1133
+01:34:28,639 --> 01:34:34,360
+<font color="white" size=".72c">months ago uh from a set of</font>
+
+1134
+01:34:31,679 --> 01:34:39,119
+<font color="white" size=".72c">neuroscientists they discover with their</font>
+
+1135
+01:34:34,360 --> 01:34:44,000
+<font color="white" size=".72c">Mr functional MRIs um</font>
+
+1136
+01:34:39,119 --> 01:34:47,040
+<font color="white" size=".72c">uh visualization technology uh that when</font>
+
+1137
+01:34:44,000 --> 01:34:50,239
+<font color="white" size=".72c">people are are engaged in a meaningful</font>
+
+1138
+01:34:47,040 --> 01:34:52,199
+<font color="white" size=".72c">um scenario situation conversation</font>
+
+1139
+01:34:50,239 --> 01:34:54,679
+<font color="white" size=".72c">meeting as it were</font>
+
+1140
+01:34:52,199 --> 01:34:57,199
+<font color="white" size=".72c">um electrical signals in the brain light</font>
+
+1141
+01:34:54,679 --> 01:35:00,159
+<font color="white" size=".72c">up in the same areas of the brain in the</font>
+
+1142
+01:34:57,199 --> 01:35:02,119
+<font color="white" size=".72c">two people suggesting that some sort of</font>
+
+1143
+01:35:00,159 --> 01:35:06,119
+<font color="white" size=".72c">synchronization is taking place when two</font>
+
+1144
+01:35:02,119 --> 01:35:09,639
+<font color="white" size=".72c">people are engaged in you know connected</font>
+
+1145
+01:35:06,119 --> 01:35:11,440
+<font color="white" size=".72c">thought um and that like you know Cosmic</font>
+
+1146
+01:35:09,639 --> 01:35:13,360
+<font color="white" size=".72c">Consciousness connected thought like you</font>
+
+1147
+01:35:11,440 --> 01:35:16,719
+<font color="white" size=".72c">know hey do you see that stapler over</font>
+
+1148
+01:35:13,360 --> 01:35:18,080
+<font color="white" size=".72c">there uh yes yes I do too uh you know</font>
+
+1149
+01:35:16,719 --> 01:35:20,520
+<font color="white" size=".72c">when you're engaged in that sort of</font>
+
+1150
+01:35:18,080 --> 01:35:23,520
+<font color="white" size=".72c">mutual agreement of something um you</font>
+
+1151
+01:35:20,520 --> 01:35:26,159
+<font color="white" size=".72c">know the the they so they see now</font>
+
+1152
+01:35:23,520 --> 01:35:29,880
+<font color="white" size=".72c">there's um the similar regions of the</font>
+
+1153
+01:35:26,159 --> 01:35:29,880
+<font color="white" size=".72c">brain light up in in the two</font>
+
+1154
+01:35:31,280 --> 01:35:36,199
+<font color="white" size=".72c">individuals so what I think is happening</font>
+
+1155
+01:35:33,520 --> 01:35:38,800
+<font color="white" size=".72c">in these extreme cases where you have</font>
+
+1156
+01:35:36,199 --> 01:35:40,119
+<font color="white" size=".72c">one side who is the practitioner trying</font>
+
+1157
+01:35:38,800 --> 01:35:43,119
+<font color="white" size=".72c">to figure out the problem trying to</font>
+
+1158
+01:35:40,119 --> 01:35:45,080
+<font color="white" size=".72c">diagnose the problem driven intelligent</font>
+
+1159
+01:35:43,119 --> 01:35:48,080
+<font color="white" size=".72c">um some of that's ego driven some of</font>
+
+1160
+01:35:45,080 --> 01:35:51,639
+<font color="white" size=".72c">that is pure altruism It's a combination</font>
+
+1161
+01:35:48,080 --> 01:35:55,920
+<font color="white" size=".72c">of both that um you know none of us are</font>
+
+1162
+01:35:51,639 --> 01:35:55,920
+<font color="white" size=".72c">properly trained now growing up</font>
+
+1163
+01:35:57,920 --> 01:36:04,000
+<font color="white" size=".72c">um it's two it's two parts of the brain</font>
+
+1164
+01:36:02,119 --> 01:36:06,600
+<font color="white" size=".72c">two sections of the brain that see the</font>
+
+1165
+01:36:04,000 --> 01:36:09,159
+<font color="white" size=".72c">world differently based on the</font>
+
+1166
+01:36:06,600 --> 01:36:11,800
+<font color="white" size=".72c">information those sections of the brain</font>
+
+1167
+01:36:09,159 --> 01:36:16,040
+<font color="white" size=".72c">receive</font>
+
+1168
+01:36:11,800 --> 01:36:19,520
+<font color="white" size=".72c">right so that is what is sort I would</font>
+
+1169
+01:36:16,040 --> 01:36:24,400
+<font color="white" size=".72c">call it a a Mel sync or a Miss sync or</font>
+
+1170
+01:36:19,520 --> 01:36:27,280
+<font color="white" size=".72c">something something uh inverse to sync</font>
+
+1171
+01:36:24,400 --> 01:36:30,480
+<font color="white" size=".72c">synchronization um</font>
+
+1172
+01:36:27,280 --> 01:36:32,480
+<font color="white" size=".72c">where yeah I what I cannot comprehend</font>
+
+1173
+01:36:30,480 --> 01:36:34,360
+<font color="white" size=".72c">why you are treating me this way and the</font>
+
+1174
+01:36:32,480 --> 01:36:36,639
+<font color="white" size=".72c">other side is I cannot comprehend why</font>
+
+1175
+01:36:34,360 --> 01:36:37,800
+<font color="white" size=".72c">you are acting this way and those are</font>
+
+1176
+01:36:36,639 --> 01:36:41,119
+<font color="white" size=".72c">two people</font>
+
+1177
+01:36:37,800 --> 01:36:42,159
+<font color="white" size=".72c">engaged in uh what they they coin as</font>
+
+1178
+01:36:41,119 --> 01:36:45,320
+<font color="white" size=".72c">brain</font>
+
+1179
+01:36:42,159 --> 01:36:48,119
+<font color="white" size=".72c">synchrony um with</font>
+
+1180
+01:36:45,320 --> 01:36:53,280
+<font color="white" size=".72c">malaligned function sections of the</font>
+
+1181
+01:36:48,119 --> 01:36:53,280
+<font color="white" size=".72c">brain processing information incorrectly</font>
+
+1182
+01:36:53,600 --> 01:36:58,360
+<font color="white" size=".72c">when it's when it's being processed</font>
+
+1183
+01:36:55,000 --> 01:37:01,639
+<font color="white" size=".72c">correctly there is no question about</font>
+
+1184
+01:36:58,360 --> 01:37:05,560
+<font color="white" size=".72c">what that is what is that there's no</font>
+
+1185
+01:37:01,639 --> 01:37:08,159
+<font color="white" size=".72c">question when when it's in um in</font>
+
+1186
+01:37:05,560 --> 01:37:11,159
+<font color="white" size=".72c">alignment how much influence we have</font>
+
+1187
+01:37:08,159 --> 01:37:14,679
+<font color="white" size=".72c">over that alignment is really what</font>
+
+1188
+01:37:11,159 --> 01:37:15,679
+<font color="white" size=".72c">the problem I guess it's not it's more</font>
+
+1189
+01:37:14,679 --> 01:37:19,119
+<font color="white" size=".72c">than an</font>
+
+1190
+01:37:15,679 --> 01:37:22,000
+<font color="white" size=".72c">issue um</font>
+
+1191
+01:37:19,119 --> 01:37:25,080
+<font color="white" size=".72c">is I I I can only say from personal</font>
+
+1192
+01:37:22,000 --> 01:37:26,760
+<font color="white" size=".72c">experience it's um there this is a</font>
+
+1193
+01:37:25,080 --> 01:37:30,800
+<font color="white" size=".72c">higher level of</font>
+
+1194
+01:37:26,760 --> 01:37:34,159
+<font color="white" size=".72c">degree that we have to</font>
+
+1195
+01:37:30,800 --> 01:37:36,199
+<font color="white" size=".72c">control whether or not we can you know</font>
+
+1196
+01:37:34,159 --> 01:37:40,480
+<font color="white" size=".72c">purposely</font>
+
+1197
+01:37:36,199 --> 01:37:40,480
+<font color="white" size=".72c">engage and have</font>
+
+1198
+01:37:40,520 --> 01:37:46,960
+<font color="white" size=".72c">everything you know going</font>
+
+1199
+01:37:44,540 --> 01:37:49,400
+<font color="white" size=".72c">[Music]</font>
+
+1200
+01:37:46,960 --> 01:37:53,800
+<font color="white" size=".72c">well</font>
+
+1201
+01:37:49,400 --> 01:37:55,880
+<font color="white" size=".72c">but that is an observ ation of a um both</font>
+
+1202
+01:37:53,800 --> 01:37:59,080
+<font color="white" size=".72c">personal and</font>
+
+1203
+01:37:55,880 --> 01:38:04,480
+<font color="white" size=".72c">um you know un passionately tried my</font>
+
+1204
+01:37:59,080 --> 01:38:04,480
+<font color="white" size=".72c">best to be as objective as anyone can be</font>
+
+1205
+01:38:04,719 --> 01:38:09,360
+<font color="white" size=".72c">um but um you</font>
+
+1206
+01:38:14,980 --> 01:38:18,440
+<font color="white" size=".72c">[Music]</font>
+
+1207
+01:38:20,119 --> 01:38:23,119
+<font color="white" size=".72c">know</font>
+
+1208
+01:38:23,920 --> 01:38:30,560
+<font color="white" size=".72c">oh yeah and certainly Taco Bell is not</font>
+
+1209
+01:38:26,360 --> 01:38:33,860
+<font color="white" size=".72c">nearly as um good of quality of an</font>
+
+1210
+01:38:30,560 --> 01:38:36,280
+<font color="white" size=".72c">experience as it was in</font>
+
+1211
+01:38:33,860 --> 01:38:39,719
+<font color="white" size=".72c">[Music]</font>
+
+1212
+01:38:36,280 --> 01:38:43,159
+<font color="white" size=".72c">1998 that was the golden year of that</font>
+
+1213
+01:38:39,719 --> 01:38:46,239
+<font color="white" size=".72c">particular food</font>
+
+1214
+01:38:43,159 --> 01:38:47,760
+<font color="white" size=".72c">experience and they know it they know it</font>
+
+1215
+01:38:46,239 --> 01:38:52,880
+<font color="white" size=".72c">they're sitting on</font>
+
+1216
+01:38:47,760 --> 01:38:54,719
+<font color="white" size=".72c">that hot medium and Mild Taco Bell money</font>
+
+1217
+01:38:52,880 --> 01:38:58,520
+<font color="white" size=".72c">and they don't really need to try</font>
+
+1218
+01:38:54,719 --> 01:39:00,360
+<font color="white" size=".72c">anymore which I I as a human I don't</font>
+
+1219
+01:38:58,520 --> 01:39:05,159
+<font color="white" size=".72c">blame</font>
+
+1220
+01:39:00,360 --> 01:39:05,159
+<font color="white" size=".72c">them as a member of society I'm</font>
+
+1221
+01:39:05,880 --> 01:39:11,239
+<font color="white" size=".72c">enraged yes just stop just stop doing</font>
+
+1222
+01:39:09,080 --> 01:39:14,159
+<font color="white" size=".72c">that you don't need that anymore we</font>
+
+1223
+01:39:11,239 --> 01:39:16,119
+<font color="white" size=".72c">don't need that anymore we can free up</font>
+
+1224
+01:39:14,159 --> 01:39:17,880
+<font color="white" size=".72c">that resource those people do not want</font>
+
+1225
+01:39:16,119 --> 01:39:20,119
+<font color="white" size=".72c">to be doing that kind of work</font>
+
+1226
+01:39:17,880 --> 01:39:22,000
+<font color="white" size=".72c">robots don't want to be programmed to be</font>
+
+1227
+01:39:20,119 --> 01:39:24,679
+<font color="white" size=".72c">doing that kind of work</font>
+
+1228
+01:39:22,000 --> 01:39:26,639
+<font color="white" size=".72c">work and maybe I don't know just</font>
+
+1229
+01:39:24,679 --> 01:39:30,320
+<font color="white" size=".72c">something different just something</font>
+
+1230
+01:39:26,639 --> 01:39:34,280
+<font color="white" size=".72c">different how about start</font>
+
+1231
+01:39:30,320 --> 01:39:37,800
+<font color="white" size=".72c">there oh that's too much then do nothing</font>
+
+1232
+01:39:34,280 --> 01:39:41,480
+<font color="white" size=".72c">that's the second best option and it is</font>
+
+1233
+01:39:37,800 --> 01:39:41,480
+<font color="white" size=".72c">pretty good</font>
+
+1234
+01:39:42,950 --> 01:39:46,370
+<font color="white" size=".72c">[Music]</font>
+
+1235
+01:39:47,840 --> 01:39:53,040
+<font color="white" size=".72c">actually that is asking a lot I</font>
+
+1236
+01:39:50,159 --> 01:39:53,040
+<font color="white" size=".72c">understand that um</font>
+
+1237
+01:39:56,870 --> 01:40:02,760
+<font color="white" size=".72c">[Music]</font>
+
+1238
+01:40:00,239 --> 01:40:05,700
+<font color="white" size=".72c">um my only suggestion is a 40-year-old</font>
+
+1239
+01:40:02,760 --> 01:40:18,279
+<font color="white" size=".72c">is drugs try drugs I don't</font>
+
+1240
+01:40:05,700 --> 01:40:18,279
+<font color="white" size=".72c">[Music]</font>
+
+1241
+01:40:19,960 --> 01:40:22,960
+<font color="white" size=".72c">know</font>
+
+1242
+01:40:29,290 --> 01:40:32,439
+<font color="white" size=".72c">[Music]</font>
+
+1243
+01:40:39,730 --> 01:40:42,770
+<font color="white" size=".72c">[Music]</font>
+
+1244
+01:40:49,920 --> 01:40:52,920
+<font color="white" size=".72c">oh</font>
+
+1245
+01:40:54,700 --> 01:40:59,020
+<font color="white" size=".72c">[Music]</font>
+
+1246
+01:41:02,620 --> 01:41:10,760
+<font color="white" size=".72c">[Music]</font>
+
+1247
+01:41:13,530 --> 01:41:22,840
+<font color="white" size=".72c">[Music]</font>
+
+1248
+01:41:19,840 --> 01:41:22,840
+<font color="white" size=".72c">Che</font>
+
+1249
+01:41:26,740 --> 01:41:35,959
+<font color="white" size=".72c">[Music]</font>
+

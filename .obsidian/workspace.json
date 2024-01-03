@@ -46,9 +46,49 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ec6c5d45040cd887",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Various Writing/personal transcripts/personal transcripts.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "95dd44298d6b0b73",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/Prompt Engineering/character personas/Steve Tomotolier.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "f4d32f99312b8460",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-01-02.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -98,7 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 250.5
   },
   "right": {
     "id": "de5b2b7c9ff73890",
@@ -133,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Prompt Engineering/Prompt Engineering.md",
+                "file": "Daily/2024-01-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Prompt Engineering/Prompt Engineering.md",
+                "file": "Daily/2024-01-02.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Prompt Engineering/Prompt Engineering.md"
+                "file": "Daily/2024-01-02.md"
               }
             }
           },
@@ -210,50 +250,51 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b281e195a98544c5",
+  "active": "f4d32f99312b8460",
   "lastOpenFiles": [
-    "resume.pdf",
-    "AI/Prompt Engineering/Prompt Engineering.md",
     "Daily/How I Met *Your* Mother.md",
-    "rwpannick_resume_latest.pdf",
+    "Daily/2024-01-02.md",
+    "Daily/2024-01-02_19-24-10.md",
+    "Daily/2024-01-02_19-23-45.md",
+    "AI/Prompt Engineering/character personas/Steve Tomotolier.md",
+    "Daily/2024-01-02_19-21-28.md",
+    "Daily/2024-01-02_19-20-00.md",
+    "Daily/2024-01-02_19-20-32.md",
     "Daily/2023-12-31.md",
+    "AI/Prompt Engineering/character personas/character personas.md",
+    "Various Writing/personal transcripts/personal transcripts.md",
+    "Untitled.md",
+    "rwpannick_resume_latest.pdf",
+    "resumev2.pdf",
+    "resume.pdf",
     "resume.md",
-    "AI/Prompt Engineering/characters/Steve Tomotolier.md",
+    "Notebook.canvas",
+    "Desktop/a.md",
+    "Desktop/Desktop.md",
+    "Various Writing/personal transcripts/transcript.en.ttml",
+    "Various Writing/personal transcripts/transcript.en.ttml.part",
+    "AI/Prompt Engineering/Prompt Engineering.md",
+    "Various Writing/personal transcripts/characters.md",
+    "Various Writing/personal transcripts/output.txt",
+    "Various Writing/personal transcripts/simulating_context_and_daydreaming_of_llmos.txt",
+    "Various Writing/personal transcripts/transcript.en.srt",
+    "Various Writing/transcripts/transcript.en.ttml",
+    "Various Writing/transcripts/transcript.en.ttml.part",
     "Syncopated/laudLLM/agentgpt_results/agentGPT_01.md",
     "Various Writing/Black Holes-The Grand Conspiracy/claude.md",
     "Syncopated/laudLLM/laudLLM.md",
     "Writing Techniques/Writing Styles.md",
     "AI/LLM/Retrieval.md",
     "AI/LLM/Training.md",
-    "AI/Prompt Engineering/characters/transcripts/Open Source Audio Success, Failure and The In-Between - Paul Davis.md",
-    "AI/Prompt Engineering/characters/transcripts/sound design course.md",
-    "AI/Prompt Engineering/characters/transcripts/marvel/**THE AVENGERS**.md",
-    "AI/Prompt Engineering/characters/transcripts/uncle bob solid principles.md",
-    "Daily/2023-11-08.md",
-    "Daily/2023-12-30.md",
-    "pygments.theme",
-    "Untitled.md",
-    "_temp.html",
-    "resumev2.pdf",
-    "rwpannick_resume_latest.pdf.crdownload",
-    "resumev2.pdf.crdownload",
-    "Writing Techniques/Synonyms for \"rewrite\".md",
-    "Writing Techniques/Dialogue Tone.md",
-    "Writing Techniques/Descriptive writing techniques.md",
-    "Linux/input-remapper.md",
-    "AI/Applications/wordcraft.md",
-    "AI/AI.md",
-    "AI/LLM/LLM.md",
-    "Notebook.canvas",
-    "Various Writing/Tom and Jerry/Total_otherness_in_dissociative_identity.pdf",
+    "AI/Prompt Engineering/character personas/transcripts/Open Source Audio Success, Failure and The In-Between - Paul Davis.md",
+    "AI/Prompt Engineering/character personas/transcripts/sound design course.md",
+    "AI/Prompt Engineering/character personas/transcripts/marvel/**THE AVENGERS**.md",
     "Daily/attachments/Pasted image 20231221070508.png",
     "Daily/attachments/Pasted image 20231220073819.png",
     "Daily/attachments/Pasted image 20231220073529.png",
-    "Writing Techniques",
     "DevOPs/attachments/Pasted image 20231029202308.png",
     "DevOPs/attachments/Pasted image 20231029202232.png",
     "DevOPs/attachments/Pasted image 20231029202237.png",
-    "Daily/attachments/Recording 20231027051501.webm",
     "Syncopated/laudLLM/attachments/Pasted image 20231010164114.png",
     "Syncopated/laudLLM/attachments/Pasted image 20231005015604.png",
     "Syncopated/laudLLM/attachments/Pasted image 20231005015434.png",

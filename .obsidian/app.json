@@ -14,5 +14,6 @@
     "website/_site/",
     "website/node_modules/",
     "website/assets/"
-  ]
+  ],
+  "vimMode": true
 }
