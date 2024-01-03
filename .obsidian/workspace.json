@@ -6,7 +6,7 @@
       {
         "id": "11719f57817a1d9e",
         "type": "tabs",
-        "dimension": 61.45139813581891,
+        "dimension": 40.96561814191661,
         "children": [
           {
             "id": "19e4f0ee47b07c6e",
@@ -82,7 +82,7 @@
       {
         "id": "cb3a0d520fc7d123",
         "type": "tabs",
-        "dimension": 38.548601864181094,
+        "dimension": 59.03438185808339,
         "children": [
           {
             "id": "f4d32f99312b8460",
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Prompt Engineering/Prompt Engineering.md",
+                "file": "Daily/2024-01-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Prompt Engineering/Prompt Engineering.md",
+                "file": "Daily/2024-01-02.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Prompt Engineering/Prompt Engineering.md"
+                "file": "Daily/2024-01-02.md"
               }
             }
           },
@@ -261,8 +261,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b281e195a98544c5",
+  "active": "f4d32f99312b8460",
   "lastOpenFiles": [
+    "AI/Prompt Engineering/Prompt Engineering.md",
     "Daily/How I Met *Your* Mother.md",
     "Daily/2024-01-02.md",
     "Daily/2023-12-31.md",
@@ -284,7 +285,6 @@
     "Desktop/Desktop.md",
     "Various Writing/personal transcripts/transcript.en.ttml",
     "Various Writing/personal transcripts/transcript.en.ttml.part",
-    "AI/Prompt Engineering/Prompt Engineering.md",
     "Various Writing/personal transcripts/characters.md",
     "Various Writing/personal transcripts/output.txt",
     "Various Writing/personal transcripts/simulating_context_and_daydreaming_of_llmos.txt",
