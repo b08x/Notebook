@@ -1,6 +1,6 @@
 {
-  "aestheticStyle": "glass",
-  "positionStyle": "top",
+  "aestheticStyle": "default",
+  "positionStyle": "fixed",
   "menuCommands": [
     {
       "id": "editing-toolbar:editor-undo",
@@ -211,7 +211,7 @@
       "icon": "codeblock-glyph"
     }
   ],
-  "appendMethod": "body",
+  "appendMethod": "workspace",
   "shouldShowMenuOnSelect": false,
   "cMenuVisibility": false,
   "cMenuBottomValue": 4.25,
@@ -219,7 +219,7 @@
   "cMenuWidth": 554,
   "cMenuFontColor": "#2DC26B",
   "cMenuBackgroundColor": "#d3f8b6",
-  "autohide": true,
+  "autohide": false,
   "custom_bg1": "#FFB78B",
   "custom_bg2": "#CDF4698C",
   "custom_bg3": "#A0CCF68C",
