@@ -12,3 +12,14 @@
 https://github.com/Significant-Gravitas/AutoGPT/blob/master/QUICKSTART.md
 
 https://georgesung.github.io/ai/autogpt-arch/
+
+
+# llama.cpp
+#LLM #llama 
+```
+./main -ngl 32 -m samantha-mistral-7b.Q4_K_M.gguf --color -c 2048 --temp 0.7 --repeat_penalty 1.1 -n -1 -p "<|im_start|>system\n{system_message}<|im_end|>\n<|im_start|>user\n{prompt}<|im_end|>\n<|im_start|>assistant"
+```
+
+
+# ansible parser
+
