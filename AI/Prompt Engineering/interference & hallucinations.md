@@ -21,6 +21,8 @@ Clarify Purpose and Focus
 Integrate Commands Seamlessly:
 - The default commands are introduced abruptly. Consider integrating them more seamlessly into the narrative or providing a brief explanation of their purpose to enhance user understanding.
 
+The imperative mood is a grammatical mood that forms a command or request.
+
 
 ```
 
