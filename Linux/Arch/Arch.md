@@ -56,4 +56,3 @@ sudo mount --mkdir -t tmpfs -o defaults,size=8G tmpfs $CHROOT
 ```
 
 
-
