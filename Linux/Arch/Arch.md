@@ -39,6 +39,13 @@ sudo pacman -Rns xdg-desktop-portal-gnome
 sudo reboot
 ```
 
+newest version of ncurses interferes with ranger
+downgrade to 6.4.1
+
+```shell
+sudo downgrade ncurses
+```
+
 ## [Further reading](https://gist.github.com/yqlbu/70c3aa3f1612f7e35d9847a9855b6f73#further-reading)
 
 - [https://arch.icekylin.online/](https://arch.icekylin.online/)
@@ -46,13 +53,5 @@ sudo reboot
 
 ---
 
-# package building
-
-```bash
-
-sudo mount --mkdir -t tmpfs -o defaults,size=8G tmpfs $CHROOT
-
-/usr/share/devtools/makepkg.conf.d/x86_64.conf
-```
 
 

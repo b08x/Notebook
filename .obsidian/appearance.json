@@ -1,10 +1,10 @@
 {
   "accentColor": "#19840b",
-  "cssTheme": "Dracula Official",
+  "cssTheme": "Notation 2",
   "interfaceFontFamily": "Hack Nerd Font,FiraCode Nerd Font Mono,mononoki Nerd Font",
   "textFontFamily": "Hack Nerd Font",
   "monospaceFontFamily": "Hack Nerd Font Mono",
-  "baseFontSize": 15,
+  "baseFontSize": 20,
   "theme": "obsidian",
   "nativeMenus": true,
   "enabledCssSnippets": [
