@@ -44,3 +44,16 @@ sudo reboot
 - [https://arch.icekylin.online/](https://arch.icekylin.online/)
 - [https://sspai.com/post/78916](https://sspai.com/post/78916)
 
+---
+
+# package building
+
+```bash
+
+sudo mount --mkdir -t tmpfs -o defaults,size=8G tmpfs $CHROOT
+
+/usr/share/devtools/makepkg.conf.d/x86_64.conf
+```
+
+
+

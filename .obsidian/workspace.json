@@ -6,7 +6,7 @@
       {
         "id": "11719f57817a1d9e",
         "type": "tabs",
-        "dimension": 40.96561814191661,
+        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "19e4f0ee47b07c6e",
@@ -78,40 +78,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "cb3a0d520fc7d123",
-        "type": "tabs",
-        "dimension": 59.03438185808339,
-        "children": [
-          {
-            "id": "f4d32f99312b8460",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024-01-02.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "7ca5ab597ab5d0be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Syncopated/syncopatedNotes/syncopatedNotes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -161,7 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5
+    "width": 200
   },
   "right": {
     "id": "de5b2b7c9ff73890",
@@ -254,7 +220,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 506.5
+    "width": 506.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -273,14 +240,53 @@
       "homepage:Open homepage": false
     }
   },
+  "floating": {
+    "id": "d9dc21ecaa49a2e2",
+    "type": "floating",
+    "children": [
+      {
+        "id": "6e7beaf93e060df8",
+        "type": "window",
+        "children": [
+          {
+            "id": "7dc8341ac5483f74",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f4d32f99312b8460",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Daily/2024-01-02.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 3656,
+        "y": 92,
+        "width": 1457,
+        "height": 1341,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "f4d32f99312b8460",
   "lastOpenFiles": [
+    "Daily/How I Met *Your* Mother.md",
     "Syncopated/syncopatedNotes/syncopatedNotes.md",
     "Syncopated/syncopatedLLM/syncopatedLLM.md",
     "Syncopated/Syncopated.md",
     "AI/Prompt Engineering/Prompt Engineering.md",
     "Daily/2024-01-02.md",
-    "Daily/How I Met *Your* Mother.md",
     "Daily/2023-12-31.md",
     "Various Writing/personal transcripts/personal transcripts.md",
     "AI/Prompt Engineering/character personas/Steve Tomotolier.md",
