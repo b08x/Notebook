@@ -1,6 +1,5 @@
 ----
 
-# Ruby NLP gems
 #ruby #nlp
 
 ## task management in ruby

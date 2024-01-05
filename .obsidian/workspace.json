@@ -4,80 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "11719f57817a1d9e",
+        "id": "64d85cfc16e98b74",
         "type": "tabs",
-        "dimension": 99.99999999999999,
         "children": [
           {
-            "id": "19e4f0ee47b07c6e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/How I Met *Your* Mother.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "b281e195a98544c5",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/Prompt Engineering/Prompt Engineering.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "fc7b271f96f623fd",
+            "id": "958d8d619465c3a3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Daily/2023-12-31.md",
-                "mode": "source",
-                "source": false
+                "file": "Notebook.canvas",
+                "viewState": {
+                  "x": -900,
+                  "y": -1820,
+                  "zoom": 0
+                }
               }
             }
-          },
-          {
-            "id": "ec6c5d45040cd887",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Various Writing/personal transcripts/personal transcripts.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "95dd44298d6b0b73",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/Prompt Engineering/character personas/Steve Tomotolier.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-01-02.md",
+                "file": "Notebook.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-01-02.md",
+                "file": "Notebook.canvas",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -191,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-01-02.md"
+                "file": "Notebook.canvas"
               }
             }
           },
@@ -220,8 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 506.5,
-    "collapsed": true
+    "width": 506.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -255,40 +199,56 @@
               {
                 "id": "f4d32f99312b8460",
                 "type": "leaf",
-                "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
                     "file": "Daily/2024-01-02.md",
                     "mode": "source",
                     "source": false
-                  },
-                  "pinned": true
+                  }
+                }
+              },
+              {
+                "id": "fc7b271f96f623fd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Daily/2023-12-31.md",
+                    "mode": "source",
+                    "source": false
+                  }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
-        "x": 3656,
-        "y": 92,
-        "width": 1457,
-        "height": 1341,
+        "x": 4577,
+        "y": 33,
+        "width": 536,
+        "height": 1400,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "f4d32f99312b8460",
+  "active": "958d8d619465c3a3",
   "lastOpenFiles": [
-    "Daily/How I Met *Your* Mother.md",
-    "Syncopated/syncopatedNotes/syncopatedNotes.md",
-    "Syncopated/syncopatedLLM/syncopatedLLM.md",
-    "Syncopated/Syncopated.md",
+    "resume.md",
+    "resume.pdf",
+    "resumev2.pdf",
+    "rwpannick_resume_latest.pdf",
+    "Various Writing/personal transcripts/personal transcripts.md",
     "AI/Prompt Engineering/Prompt Engineering.md",
     "Daily/2024-01-02.md",
     "Daily/2023-12-31.md",
-    "Various Writing/personal transcripts/personal transcripts.md",
+    "Daily/How I Met *Your* Mother.md",
+    "Daily/2024-01-04.md",
+    "Syncopated/syncopatedNotes/syncopatedNotes.md",
+    "Syncopated/syncopatedLLM/syncopatedLLM.md",
+    "Syncopated/Syncopated.md",
     "AI/Prompt Engineering/character personas/Steve Tomotolier.md",
     "Daily/2024-01-02_19-24-10.md",
     "Daily/2024-01-02_19-23-45.md",
@@ -297,10 +257,6 @@
     "Daily/2024-01-02_19-20-32.md",
     "AI/Prompt Engineering/character personas/character personas.md",
     "Untitled.md",
-    "rwpannick_resume_latest.pdf",
-    "resumev2.pdf",
-    "resume.pdf",
-    "resume.md",
     "Notebook.canvas",
     "Desktop/a.md",
     "Desktop/Desktop.md",
@@ -316,8 +272,6 @@
     "Various Writing/Black Holes-The Grand Conspiracy/claude.md",
     "Writing Techniques/Writing Styles.md",
     "AI/LLM/Retrieval.md",
-    "AI/LLM/Training.md",
-    "AI/Prompt Engineering/character personas/transcripts/Open Source Audio Success, Failure and The In-Between - Paul Davis.md",
     "Daily/attachments/Pasted image 20231221070508.png",
     "Daily/attachments/Pasted image 20231220073819.png",
     "Daily/attachments/Pasted image 20231220073529.png",

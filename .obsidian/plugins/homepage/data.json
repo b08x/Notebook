@@ -3,12 +3,12 @@
   "homepages": {
     "Main Homepage": {
       "value": "Project Manager/Index",
-      "kind": "File",
+      "kind": "Daily Note",
       "openOnStartup": true,
       "hasRibbonIcon": true,
       "openMode": "Replace all open notes",
       "manualOpenMode": "Keep open notes",
-      "view": "Reading view",
+      "view": "Editing view (Live Preview)",
       "revertView": true,
       "openWhenEmpty": true,
       "refreshDataview": false,

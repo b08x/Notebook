@@ -2,17 +2,6 @@
 ---
 
 
-
-## Chat Arena 
-
-### Chat with two models side-by-side and vote for which one is better!
-
-https://chat.lmsys.org/
-
-
-
-## notes on redis and postgres
-
 So, adding contextual memory... So, for each message before the LLM is queried, a Redis cache is queried. for the top-k relevant quote-unquote memories. This will allow the addressing of topic changes in a conversation without the occurrence of catastrophic interference.
 
 

@@ -1,5 +1,5 @@
 {
-  "attachmentFolderPath": "./",
+  "attachmentFolderPath": "assets/img",
   "newFileLocation": "current",
   "newFileFolderPath": "Notes",
   "readableLineLength": false,
@@ -15,5 +15,5 @@
     "website/node_modules/",
     "website/assets/"
   ],
-  "vimMode": true
+  "vimMode": false
 }

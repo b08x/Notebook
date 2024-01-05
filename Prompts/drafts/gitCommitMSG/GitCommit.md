@@ -7,7 +7,7 @@
 Using Past Tense, Summarize this git diff for a git commit message: 
 
 
-![](AI/Prompt%20Engineering/prompts/gitCommitMSG/attachments/git_commit_query_and_response.json)
+![](Prompts/drafts/gitCommitMSG/attachments/git_commit_query_and_response.json)
 
 
 

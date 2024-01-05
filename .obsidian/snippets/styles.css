@@ -78,3 +78,42 @@ body:not(.minimal-status-off) .status-bar {
 HyperMD-quote-1 {
 	padding-inline-start: 1.25rem !important;
 }
+
+body.hr-enable :is(.markdown-source-view.mod-cm6, .markdown-rendered) hr {
+
+  max-width: 100%;
+  border: 0;
+  height: 1px;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+  background: #b90f67;
+  &:after {
+  	content: var(--setting-hr-icon, "&");
+  }
+}
+
+.HyperMD-header-1, .inline-title[data-level='2'], .HyperMD-list-line .cm-header-1 {
+	font-size: 3rem;
+	font-family: 'mononoki Nerd Font' !important;
+}
+
+
+.HyperMD-header-2, .inline-title[data-level='2'], .HyperMD-list-line .cm-header-2 {
+	font-size: 2rem;	
+}
+
+
+body.heading-h2-underline :is(h2, .HyperMD-header-2)::after {
+  content: "";
+  position: absolute;
+  height: var(--size-4-1);
+  width: 100%;
+  // bottom: calc(var(--font-text-size) * var(--line-height-normal) * 0.2 - var(--size-2-1));
+  border-radius: var(--size-2-1);
+  // background-image: linear-gradient(to right, var(--h2-color) 30%, transparent 70%);
+}
+
+
+.cm-strong {
+  color: rgb(20, 167, 220);
+}
