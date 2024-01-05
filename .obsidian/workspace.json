@@ -4,36 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "741e16ee0a232c43",
+        "id": "a2a98feaf826edb7",
         "type": "tabs",
         "children": [
           {
-            "id": "ede553f5f6316729",
+            "id": "f4d32f99312b8460",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-01-05.md",
+                "file": "Daily/2024-01-02.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "be3167c9bbd9926f",
+            "id": "fc7b271f96f623fd",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-01-05.md",
+                "file": "Daily/2023-12-31.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -84,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 258.5
   },
   "right": {
     "id": "de5b2b7c9ff73890",
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-01-05.md",
+                "file": "Daily/2023-12-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-01-05.md",
+                "file": "Daily/2023-12-31.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-01-05.md"
+                "file": "Daily/2023-12-31.md"
               }
             }
           },
@@ -190,66 +189,26 @@
       "workspaces:Manage workspace layouts": false,
       "markdown-importer:Open format converter": false,
       "audio-recorder:Start/stop recording": false,
+      "random-note:Open random note": false,
       "omnisearch:Omnisearch": false,
       "markdown-table-editor:Open Markdown Table Editor": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "homepage:Open homepage": false,
-      "random-note:Open random note": false
+      "homepage:Open homepage": false
     }
   },
-  "floating": {
-    "id": "d9dc21ecaa49a2e2",
-    "type": "floating",
-    "children": [
-      {
-        "id": "6e7beaf93e060df8",
-        "type": "window",
-        "children": [
-          {
-            "id": "7dc8341ac5483f74",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f4d32f99312b8460",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Daily/2024-01-02.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "fc7b271f96f623fd",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Daily/2023-12-31.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 990,
-        "y": 992,
-        "width": 1563,
-        "height": 441,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "ede553f5f6316729",
+  "active": "fc7b271f96f623fd",
   "lastOpenFiles": [
     "Daily/2024-01-02.md",
     "Daily/2024-01-05.md",
+    "Ruby/FileIterator.md",
+    "Daily/2024-01-05_06-33-00.md",
+    "Ruby/design patterns.md",
+    "Ruby/Glimmer.md",
+    "Ruby/GlossaryIndex.md",
+    "Ruby/Ruby.md",
+    "Notebook.canvas",
+    "AI/Applications/2023-11-14.md",
+    "Ruby/2023-11-27.md",
     "AI/Prompt Engineering/CRISPE.md",
     "AI/Prompt Engineering/LLM settings.md",
     "Linux/Arch/Arch.md",
@@ -267,15 +226,6 @@
     "Writing Techniques/Descriptive writing techniques.md",
     "Linux/Audio/Audio.md",
     "1704405850-YWZJ.md",
-    "Linux/Audio/pipewire/pipewire.md",
-    "Linux/Realtime/research/attachments/attachments.md",
-    "Linux/Realtime/research/research.md",
-    "Linux/Realtime/Realtime.md",
-    "Linux/X11/X11.md",
-    "Linux/input-remapper.md",
-    "Linux/Navigating around multiple buffers.md",
-    "Prompts/character personas/transcripts/How do I prepare Manjaro KDE for audio production?.md",
-    "Notebook.canvas",
     "resume.pdf",
     "resumev2.pdf",
     "rwpannick_resume_latest.pdf",

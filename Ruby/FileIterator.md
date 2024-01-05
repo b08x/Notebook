@@ -1,6 +1,14 @@
 ---
 ---
 
+## using fd|fzf to select files
+
+```ruby
+Dir.chdir(ENV["MEDIA_ROOT"]) do
+	outputFile = `fd -t f -a | fzf --preview "cat {}"`.strip
+	return outputFile
+end
+```
 
 create a ruby function to traverse a list of files using the iterator design pattern
 Sure! Here’s an example of a Ruby function that uses the iterator design pattern to traverse a list of files:
