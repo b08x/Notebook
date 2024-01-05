@@ -4,51 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "049bbe9843a72442",
+        "id": "741e16ee0a232c43",
         "type": "tabs",
         "children": [
           {
-            "id": "d36aa6d64cd8b024",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prompts/character personas/transcripts/10 Chord Patterns for 10 Different Emotions.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "8804dc712bd0f624",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prompts/character personas/transcripts/Clear Instrumentos SFZ - Master Class.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "35eb650a391069ab",
+            "id": "ede553f5f6316729",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Syncopated/Syncopated.md",
+                "file": "Daily/2024-01-05.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "be3167c9bbd9926f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-01-05.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -78,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tom",
+                "query": "tag:#TODO",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -134,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Syncopated/Syncopated.md",
+                "file": "Daily/2024-01-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Syncopated/Syncopated.md",
+                "file": "Daily/2024-01-05.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -163,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Syncopated/Syncopated.md"
+                "file": "Daily/2024-01-05.md"
               }
             }
           },
@@ -208,7 +193,8 @@
       "omnisearch:Omnisearch": false,
       "markdown-table-editor:Open Markdown Table Editor": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "random-note:Open random note": false
     }
   },
   "floating": {
@@ -251,24 +237,34 @@
           }
         ],
         "direction": "vertical",
-        "x": 4322,
-        "y": 33,
-        "width": 791,
-        "height": 1400,
+        "x": 990,
+        "y": 992,
+        "width": 1563,
+        "height": 441,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "35eb650a391069ab",
+  "active": "ede553f5f6316729",
   "lastOpenFiles": [
     "Daily/2024-01-02.md",
-    "Daily/2023-12-31.md",
+    "Daily/2024-01-05.md",
+    "AI/Prompt Engineering/CRISPE.md",
+    "AI/Prompt Engineering/LLM settings.md",
+    "Linux/Arch/Arch.md",
+    "AI/AI.md",
     "Syncopated/Syncopated.md",
+    "Various Writing/Various Writing.md",
+    "Writing Techniques/Writing Techniques.md",
+    "AI/Applications/monadic/monadic.md",
+    "Daily/2024-01-04.md",
+    "Daily/2024-01-02.md~",
+    "Database/postgresql.md",
+    "Daily/2023-12-31.md",
     "Writing Techniques/Writing Styles.md",
     "Writing Techniques/Synonyms for \"rewrite\".md",
     "Writing Techniques/Descriptive writing techniques.md",
-    "Writing Techniques/Writing Techniques.md",
     "Linux/Audio/Audio.md",
     "1704405850-YWZJ.md",
     "Linux/Audio/pipewire/pipewire.md",
@@ -279,16 +275,7 @@
     "Linux/input-remapper.md",
     "Linux/Navigating around multiple buffers.md",
     "Prompts/character personas/transcripts/How do I prepare Manjaro KDE for audio production?.md",
-    "Prompts/character personas/transcripts/Clear Instrumentos SFZ - Master Class.md",
-    "Prompts/character personas/transcripts/10 Chord Patterns for 10 Different Emotions.md",
     "Notebook.canvas",
-    "AI/Prompt Engineering/Prompt Engineering.md",
-    "AI/Applications/Applications.md",
-    "AI/AI.md",
-    "Ruby/Ruby.md",
-    "Prompts/character personas/transcripts/How to master your mix using stock plugins in REAPER.md",
-    "Prompts/character personas/transcripts/3d mid-side processing for immersive and binaural audio.md",
-    "Prompts/character personas/transcripts/marvel/**THE AVENGERS**.md",
     "resume.pdf",
     "resumev2.pdf",
     "rwpannick_resume_latest.pdf",
@@ -298,7 +285,6 @@
     "Various Writing/personal transcripts/simulating_context_and_daydreaming_of_llmos.txt",
     "Various Writing/personal transcripts/transcript.en.srt",
     "Various Writing/transcripts/transcript.en.ttml",
-    "Various Writing/transcripts/transcript.en.ttml.part",
     "Daily/attachments/Pasted image 20231221070508.png",
     "Daily/attachments/Pasted image 20231220073819.png",
     "Daily/attachments/Pasted image 20231220073529.png",

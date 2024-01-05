@@ -24,13 +24,13 @@
     "id": "",
     "folderPath": "",
     "title": "{{folderName}} overview",
-    "showTitle": false,
+    "showTitle": true,
     "depth": 3,
     "includeTypes": [
       "folder",
       "markdown"
     ],
-    "style": "list",
+    "style": "explorer",
     "disableFileTag": false,
     "sortBy": "name",
     "sortByAsc": true,
@@ -47,7 +47,7 @@
     "explorer": true,
     "path": true
   },
-  "settingsTab": "general",
+  "settingsTab": "path",
   "supportedFileTypes": [
     "md",
     "canvas"
