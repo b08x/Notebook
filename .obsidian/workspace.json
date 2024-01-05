@@ -10,16 +10,46 @@
           {
             "id": "d36aa6d64cd8b024",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Prompt Engineering/Prompt Engineering.md",
+                "file": "Prompts/character personas/transcripts/10 Chord Patterns for 10 Different Emotions.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "8804dc712bd0f624",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prompts/character personas/transcripts/Clear Instrumentos SFZ - Master Class.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "35eb650a391069ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Syncopated/Syncopated.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -104,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Prompt Engineering/Prompt Engineering.md",
+                "file": "Syncopated/Syncopated.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Prompt Engineering/Prompt Engineering.md",
+                "file": "Syncopated/Syncopated.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Prompt Engineering/Prompt Engineering.md"
+                "file": "Syncopated/Syncopated.md"
               }
             }
           },
@@ -217,52 +247,51 @@
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
-        "x": 4577,
+        "x": 4322,
         "y": 33,
-        "width": 536,
+        "width": 791,
         "height": 1400,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "d36aa6d64cd8b024",
+  "active": "35eb650a391069ab",
   "lastOpenFiles": [
+    "Daily/2024-01-02.md",
     "Daily/2023-12-31.md",
+    "Syncopated/Syncopated.md",
+    "Writing Techniques/Writing Styles.md",
+    "Writing Techniques/Synonyms for \"rewrite\".md",
+    "Writing Techniques/Descriptive writing techniques.md",
+    "Writing Techniques/Writing Techniques.md",
+    "Linux/Audio/Audio.md",
+    "1704405850-YWZJ.md",
+    "Linux/Audio/pipewire/pipewire.md",
+    "Linux/Realtime/research/attachments/attachments.md",
+    "Linux/Realtime/research/research.md",
+    "Linux/Realtime/Realtime.md",
+    "Linux/X11/X11.md",
+    "Linux/input-remapper.md",
+    "Linux/Navigating around multiple buffers.md",
+    "Prompts/character personas/transcripts/How do I prepare Manjaro KDE for audio production?.md",
+    "Prompts/character personas/transcripts/Clear Instrumentos SFZ - Master Class.md",
+    "Prompts/character personas/transcripts/10 Chord Patterns for 10 Different Emotions.md",
+    "Notebook.canvas",
     "AI/Prompt Engineering/Prompt Engineering.md",
     "AI/Applications/Applications.md",
     "AI/AI.md",
     "Ruby/Ruby.md",
-    "Notebook.canvas",
     "Prompts/character personas/transcripts/How to master your mix using stock plugins in REAPER.md",
-    "Prompts/character personas/transcripts/Clear Instrumentos SFZ - Master Class.md",
-    "Prompts/character personas/transcripts/10 Chord Patterns for 10 Different Emotions.md",
     "Prompts/character personas/transcripts/3d mid-side processing for immersive and binaural audio.md",
     "Prompts/character personas/transcripts/marvel/**THE AVENGERS**.md",
-    "Prompts/character personas/character personas.md",
-    "DevOPs/docker.md",
-    "DevOPs/pihole docker container macvlan ddwrt.md",
-    "LLM/LLM.md",
-    "Linux/Arch/Arch.md",
-    "DevOPs/DevOPs.md",
-    "Linux/Linux.md",
-    "Linux/X11/X11.md",
-    "Linux/input-remapper.md",
-    "Linux/Navigating around multiple buffers.md",
-    "1704405850-YWZJ.md",
-    "resume.md",
     "resume.pdf",
     "resumev2.pdf",
     "rwpannick_resume_latest.pdf",
-    "Various Writing/personal transcripts/personal transcripts.md",
-    "Daily/2024-01-02.md",
-    "Daily/How I Met *Your* Mother.md",
-    "Daily/2024-01-04.md",
     "Various Writing/personal transcripts/transcript.en.ttml",
     "Various Writing/personal transcripts/transcript.en.ttml.part",
     "Various Writing/personal transcripts/output.txt",

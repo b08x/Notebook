@@ -176,6 +176,11 @@
   "shiba-theme-settings@@shib-h6-underline": true,
   "shiba-theme-settings@@shib-h1-underline": false,
   "shiba-theme-settings@@h1-line-height": 1.6,
-  "shiba-theme-settings@@shiba-clutter-free-headings": true,
-  "shiba-theme-settings@@h3-size": 1.55
+  "shiba-theme-settings@@shiba-clutter-free-headings": false,
+  "shiba-theme-settings@@h3-size": 1.55,
+  "shiba-theme-settings@@h1-size": 1.8,
+  "shiba-theme-settings@@shiba-remove-heading-indicator": true,
+  "shiba-theme-settings@@shiba-alt-tab-style": "shib-default-tab",
+  "shiba-theme-settings@@shib-disable-newtab-align": true,
+  "shiba-theme-settings@@blockquote-style": "blockquote-style-border-left"
 }

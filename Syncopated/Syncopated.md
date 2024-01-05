@@ -10,14 +10,11 @@ the operating system
 configures audio workstations|servers|nodes
 
 # syncopatedLLM
-an operating system AI assistant
+functions and methods for creating a LLM RaG Application
+
 
 
 
 
 [Syncopated Notes](syncopatedNotes.md): The Observation and Documentation Broadcast System 
-
-
-
-
 
