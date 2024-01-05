@@ -2,6 +2,7 @@
 tags: obsidian-auto-glossary
 ---
 ## Index
+
 - [[ruby wordnet]]
 - [[Ruby Methods]]
 - [[using drop_while]]

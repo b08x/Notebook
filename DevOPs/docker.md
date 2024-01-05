@@ -2,7 +2,6 @@
 ---
 
 
-
 [using extension fields to reuse variables](https://docs.docker.com/compose/compose-file/compose-file-v3/#extension-fields)
 
 [dockerfile multi-stage build](https://docs.docker.com/build/building/multi-stage/)

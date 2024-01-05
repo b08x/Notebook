@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "64d85cfc16e98b74",
+        "id": "049bbe9843a72442",
         "type": "tabs",
         "children": [
           {
-            "id": "958d8d619465c3a3",
+            "id": "d36aa6d64cd8b024",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Notebook.canvas",
-                "viewState": {
-                  "x": -900,
-                  "y": -1820,
-                  "zoom": 0
-                }
+                "file": "AI/Prompt Engineering/Prompt Engineering.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -72,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 382.5
   },
   "right": {
     "id": "de5b2b7c9ff73890",
@@ -107,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notebook.canvas",
+                "file": "AI/Prompt Engineering/Prompt Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notebook.canvas",
+                "file": "AI/Prompt Engineering/Prompt Engineering.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -136,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notebook.canvas"
+                "file": "AI/Prompt Engineering/Prompt Engineering.md"
               }
             }
           },
@@ -234,44 +231,45 @@
       }
     ]
   },
-  "active": "958d8d619465c3a3",
+  "active": "d36aa6d64cd8b024",
   "lastOpenFiles": [
+    "Daily/2023-12-31.md",
+    "AI/Prompt Engineering/Prompt Engineering.md",
+    "AI/Applications/Applications.md",
+    "AI/AI.md",
+    "Ruby/Ruby.md",
+    "Notebook.canvas",
+    "Prompts/character personas/transcripts/How to master your mix using stock plugins in REAPER.md",
+    "Prompts/character personas/transcripts/Clear Instrumentos SFZ - Master Class.md",
+    "Prompts/character personas/transcripts/10 Chord Patterns for 10 Different Emotions.md",
+    "Prompts/character personas/transcripts/3d mid-side processing for immersive and binaural audio.md",
+    "Prompts/character personas/transcripts/marvel/**THE AVENGERS**.md",
+    "Prompts/character personas/character personas.md",
+    "DevOPs/docker.md",
+    "DevOPs/pihole docker container macvlan ddwrt.md",
+    "LLM/LLM.md",
+    "Linux/Arch/Arch.md",
+    "DevOPs/DevOPs.md",
+    "Linux/Linux.md",
+    "Linux/X11/X11.md",
+    "Linux/input-remapper.md",
+    "Linux/Navigating around multiple buffers.md",
+    "1704405850-YWZJ.md",
     "resume.md",
     "resume.pdf",
     "resumev2.pdf",
     "rwpannick_resume_latest.pdf",
     "Various Writing/personal transcripts/personal transcripts.md",
-    "AI/Prompt Engineering/Prompt Engineering.md",
     "Daily/2024-01-02.md",
-    "Daily/2023-12-31.md",
     "Daily/How I Met *Your* Mother.md",
     "Daily/2024-01-04.md",
-    "Syncopated/syncopatedNotes/syncopatedNotes.md",
-    "Syncopated/syncopatedLLM/syncopatedLLM.md",
-    "Syncopated/Syncopated.md",
-    "AI/Prompt Engineering/character personas/Steve Tomotolier.md",
-    "Daily/2024-01-02_19-24-10.md",
-    "Daily/2024-01-02_19-23-45.md",
-    "Daily/2024-01-02_19-21-28.md",
-    "Daily/2024-01-02_19-20-00.md",
-    "Daily/2024-01-02_19-20-32.md",
-    "AI/Prompt Engineering/character personas/character personas.md",
-    "Untitled.md",
-    "Notebook.canvas",
-    "Desktop/a.md",
-    "Desktop/Desktop.md",
     "Various Writing/personal transcripts/transcript.en.ttml",
     "Various Writing/personal transcripts/transcript.en.ttml.part",
-    "Various Writing/personal transcripts/characters.md",
     "Various Writing/personal transcripts/output.txt",
     "Various Writing/personal transcripts/simulating_context_and_daydreaming_of_llmos.txt",
     "Various Writing/personal transcripts/transcript.en.srt",
     "Various Writing/transcripts/transcript.en.ttml",
     "Various Writing/transcripts/transcript.en.ttml.part",
-    "Syncopated/syncopatedLLM/agentgpt_results/agentGPT_01.md",
-    "Various Writing/Black Holes-The Grand Conspiracy/claude.md",
-    "Writing Techniques/Writing Styles.md",
-    "AI/LLM/Retrieval.md",
     "Daily/attachments/Pasted image 20231221070508.png",
     "Daily/attachments/Pasted image 20231220073819.png",
     "Daily/attachments/Pasted image 20231220073529.png",

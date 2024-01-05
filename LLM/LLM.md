@@ -1,7 +1,4 @@
 
-
-
-
 ## Chat Arena 
 
 Chat with two models side-by-side and vote for which one is better!

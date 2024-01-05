@@ -1,10 +1,15 @@
 {
 	"nodes":[
 		{"id":"90027d21a90148e8","type":"file","file":"DevOPs/docker.md","x":-620,"y":-2380,"width":400,"height":400},
-		{"id":"78943f833eddd3e5","x":-1600,"y":-2380,"width":400,"height":400,"type":"file","file":"resume.pdf"},
-		{"id":"b4f03fa6a92312df","x":-720,"y":-1780,"width":400,"height":400,"type":"file","file":"Syncopated/syncopatedNotes/syncopatedNotes.md"}
+		{"id":"b4f03fa6a92312df","type":"file","file":"Syncopated/syncopatedNotes/syncopatedNotes.md","x":-720,"y":-1780,"width":400,"height":400},
+		{"id":"8ccca4319c9d0a5c","type":"file","file":"Writing Techniques/Synonyms for \"rewrite\".md","x":-1180,"y":-3280,"width":400,"height":400},
+		{"id":"d7445791a30901eb","type":"text","text":"ok\nsomething\n","x":-1570,"y":-3036,"width":250,"height":156},
+		{"id":"33e4bb858e65f490","type":"text","text":"","x":-584,"y":-2988,"width":250,"height":60},
+		{"id":"5b3b54b2d1d96452","type":"text","text":"this is just a note\n","x":-240,"y":-2720,"width":524,"height":165},
+		{"id":"78943f833eddd3e5","type":"file","file":"resume.pdf","x":-1720,"y":-1980,"width":400,"height":400,"color":"6"}
 	],
 	"edges":[
-		{"id":"d3a43ae9710636a8","fromNode":"b4f03fa6a92312df","fromSide":"top","toNode":"78943f833eddd3e5","toSide":"bottom"}
+		{"id":"d3a43ae9710636a8","fromNode":"b4f03fa6a92312df","fromSide":"top","toNode":"78943f833eddd3e5","toSide":"bottom"},
+		{"id":"ea1ba7829743d290","fromNode":"d7445791a30901eb","fromSide":"bottom","toNode":"8ccca4319c9d0a5c","toSide":"bottom"}
 	]
 }

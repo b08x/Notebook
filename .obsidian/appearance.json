@@ -1,10 +1,10 @@
 {
   "accentColor": "#19840b",
-  "cssTheme": "Maple",
+  "cssTheme": "Shiba Inu",
   "interfaceFontFamily": "Hack Nerd Font,FiraCode Nerd Font Mono,mononoki Nerd Font",
   "textFontFamily": "Hack Nerd Font",
   "monospaceFontFamily": "Hack Nerd Font Mono",
-  "baseFontSize": 16,
+  "baseFontSize": 17,
   "theme": "obsidian",
   "nativeMenus": true,
   "enabledCssSnippets": [
