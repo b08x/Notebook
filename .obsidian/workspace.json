@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a2a98feaf826edb7",
+        "id": "30d4a642ca3b919e",
         "type": "tabs",
         "children": [
           {
-            "id": "f4d32f99312b8460",
+            "id": "c70402b944275d1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-01-02.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc7b271f96f623fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2023-12-31.md",
+                "file": "Daily/2024-01-07.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -118,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-12-31.md",
+                "file": "Daily/2024-01-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-12-31.md",
+                "file": "Daily/2024-01-07.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-12-31.md"
+                "file": "Daily/2024-01-07.md"
               }
             }
           },
@@ -196,10 +183,30 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "fc7b271f96f623fd",
+  "active": "c70402b944275d1a",
   "lastOpenFiles": [
-    "Daily/2024-01-02.md",
+    "Daily/2024-01-07_21-45-20.md",
+    "Daily/2024-01-07_21-50-14.md",
+    "Daily/temp_transcriptions.txt",
+    "Daily/output_1704682169.mp3",
+    "Daily/output_1704682146.mp3",
+    "Daily/2024-01-08.md",
+    "Ruby/Array and Hash Pattern Matching.md",
+    "Ruby/ruby wordnet.md",
+    "Ruby/2023-11-27.md",
+    "assets/imgs/test2.png",
+    "assets/img/another.png",
+    "assets/assets.md",
+    "AI/LLM/Processing/embedding.md",
+    "Daily/2023-10-03.md",
+    "Daily/2024-01-07.md",
+    "AI/LLM/Caching.md~",
+    "Daily/2023-10-10.md",
     "Daily/2024-01-05.md",
+    "Daily/2024-01-02.md",
+    "Writing Techniques/Writing Styles.md",
+    "Daily/2024-01-07.md~",
+    "Daily/2023-12-31.md",
     "Ruby/FileIterator.md",
     "Daily/2024-01-05_06-33-00.md",
     "Ruby/design patterns.md",
@@ -208,33 +215,15 @@
     "Ruby/Ruby.md",
     "Notebook.canvas",
     "AI/Applications/2023-11-14.md",
-    "Ruby/2023-11-27.md",
     "AI/Prompt Engineering/CRISPE.md",
     "AI/Prompt Engineering/LLM settings.md",
     "Linux/Arch/Arch.md",
     "AI/AI.md",
-    "Syncopated/Syncopated.md",
-    "Various Writing/Various Writing.md",
-    "Writing Techniques/Writing Techniques.md",
-    "AI/Applications/monadic/monadic.md",
-    "Daily/2024-01-04.md",
     "Daily/2024-01-02.md~",
-    "Database/postgresql.md",
-    "Daily/2023-12-31.md",
-    "Writing Techniques/Writing Styles.md",
-    "Writing Techniques/Synonyms for \"rewrite\".md",
-    "Writing Techniques/Descriptive writing techniques.md",
-    "Linux/Audio/Audio.md",
-    "1704405850-YWZJ.md",
     "resume.pdf",
     "resumev2.pdf",
     "rwpannick_resume_latest.pdf",
     "Various Writing/personal transcripts/transcript.en.ttml",
-    "Various Writing/personal transcripts/transcript.en.ttml.part",
-    "Various Writing/personal transcripts/output.txt",
-    "Various Writing/personal transcripts/simulating_context_and_daydreaming_of_llmos.txt",
-    "Various Writing/personal transcripts/transcript.en.srt",
-    "Various Writing/transcripts/transcript.en.ttml",
     "Daily/attachments/Pasted image 20231221070508.png",
     "Daily/attachments/Pasted image 20231220073819.png",
     "Daily/attachments/Pasted image 20231220073529.png",
@@ -243,8 +232,6 @@
     "DevOPs/attachments/Pasted image 20231029202237.png",
     "Syncopated/syncopatedLLM/attachments/Pasted image 20231010164114.png",
     "Syncopated/syncopatedLLM/attachments/Pasted image 20231005015604.png",
-    "Syncopated/syncopatedLLM/attachments/Pasted image 20231005015434.png",
-    "AI/Applications/Flowise/attachments/Pasted image 20231012002643.png",
     "Linux/Audio/Untitled.canvas",
     "Writing/Songs/Untitled.canvas",
     "Projects/Syncopated Studio/Canvas.canvas",

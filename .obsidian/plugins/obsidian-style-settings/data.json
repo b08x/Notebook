@@ -169,9 +169,9 @@
   "shiba-theme-settings@@shib-h5-color-custom": "shib-h5-green",
   "shiba-theme-settings@@shib-h5-underline": true,
   "shiba-theme-settings@@h2-font": "mononoki Nerd Font",
-  "shiba-theme-settings@@h5-font": "Hack Nerd Font",
+  "shiba-theme-settings@@h5-font": "mononoki Nerd Font",
   "shiba-theme-settings@@h6-color@@dark": "#463DFF",
-  "shiba-theme-settings@@h6-font": "Hack Nerd Font",
+  "shiba-theme-settings@@h6-font": "mononoki Nerd Font",
   "shiba-theme-settings@@h6-size": 1.45,
   "shiba-theme-settings@@shib-h6-underline": true,
   "shiba-theme-settings@@shib-h1-underline": false,
@@ -182,5 +182,7 @@
   "shiba-theme-settings@@shiba-remove-heading-indicator": true,
   "shiba-theme-settings@@shiba-alt-tab-style": "shib-default-tab",
   "shiba-theme-settings@@shib-disable-newtab-align": true,
-  "shiba-theme-settings@@blockquote-style": "blockquote-style-border-left"
+  "shiba-theme-settings@@blockquote-style": "blockquote-style-border-left",
+  "shiba-theme-settings@@h1-color@@dark": "#CB141F",
+  "shiba-theme-settings@@h2-size": 1.7
 }

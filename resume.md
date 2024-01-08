@@ -5,7 +5,7 @@
 ```markdown
 Throughout the years I have cultivated skills in configuration management,
 shell scripting, containerization, virtualization, troubleshooting, and
-performance tuning. In that time, I’ve gained expert knowledge in Ansible
+performance tuning. In that time, I have gained expert knowledge in Ansible
 configuration management supplemented with practical knowledge of scripting
 languages including Shell, Ruby and recently Python. My responsibilities have
 also included supporting clients in Help Desk roles and as well as broader

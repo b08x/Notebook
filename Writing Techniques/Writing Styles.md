@@ -1,5 +1,6 @@
 ---
 date created: 2023-08-18 09:17
+date updated: 2024-01-07 03:28
 ---
 
 | Style                 | Description                                                                                                                                                   |
@@ -114,8 +115,6 @@ date created: 2023-08-18 09:17
 [alt source](https://docs.google.com/document/d/1CKLFeNFk_oswnpIsvrBJlDfAdBoJUw41ctxBTlnYOeE/edit)
 
 ---
-
-
 
 | Author's Writing Style / Style | Description                                                                                                                                           |
 | ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |

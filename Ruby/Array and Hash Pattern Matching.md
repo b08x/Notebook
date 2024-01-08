@@ -5,3 +5,6 @@
 
 
 [nested modules in ruby](https://www.writesoftwarewell.com/nested-modules-in-ruby/)
+
+case data
+in [{}]

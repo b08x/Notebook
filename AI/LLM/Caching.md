@@ -1,4 +1,7 @@
 ---
+id: Caching
+aliases: []
+tags: []
 ---
 
 
@@ -19,5 +22,4 @@ https://www.youtube.com/live/9VgpXcfJYvw?feature=share&t=1517
 * vector database used to cache similar queries and answers. Queries embedded and used as cache look up prior to making request to LLM.
 
 * based on user feedback from each interaction
-
 
